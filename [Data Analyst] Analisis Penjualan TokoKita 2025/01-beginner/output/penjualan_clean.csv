@@ -1,0 +1,1186 @@
+order_id,tanggal,kota,kategori,produk,jumlah,harga_satuan,diskon_persen,metode_bayar,bulan,pendapatan
+ORD-00001,2025-01-01,Medan,Fashion,Sepatu,2,375000,0,Transfer Bank,2025-01,750000
+ORD-00002,2025-01-01,Bandung,Rumah Tangga,Panci Set,1,280000,0,COD,2025-01,280000
+ORD-00003,2025-01-01,Bandung,Kecantikan,Serum,1,120000,0,E-Wallet,2025-01,120000
+ORD-00004,2025-01-01,Surabaya,Fashion,Jaket,1,250000,0,Transfer Bank,2025-01,250000
+ORD-00005,2025-01-02,Jakarta,Kecantikan,Parfum,4,180000,0,E-Wallet,2025-01,720000
+ORD-00006,2025-01-02,Jakarta,Kecantikan,Serum,1,120000,5,Transfer Bank,2025-01,114000
+ORD-00007,2025-01-02,Jakarta,Rumah Tangga,Blender,1,320000,0,Transfer Bank,2025-01,320000
+ORD-00008,2025-01-03,Medan,Elektronik,Earphone,1,150000,0,Transfer Bank,2025-01,150000
+ORD-00009,2025-01-04,Surabaya,Fashion,Jaket,1,250000,10,Kartu Kredit,2025-01,225000
+ORD-00010,2025-01-04,Jakarta,Elektronik,Earphone,1,150000,5,Transfer Bank,2025-01,142500
+ORD-00011,2025-01-04,Medan,Kecantikan,Parfum,2,180000,20,Transfer Bank,2025-01,288000
+ORD-00012,2025-01-04,Jakarta,Fashion,Sepatu,4,375000,5,COD,2025-01,1425000
+ORD-00013,2025-01-05,Bandung,Elektronik,Smartwatch,2,650000,20,E-Wallet,2025-01,1040000
+ORD-00014,2025-01-06,Surabaya,Fashion,Sepatu,1,375000,0,Transfer Bank,2025-01,375000
+ORD-00015,2025-01-06,Surabaya,Elektronik,Smartwatch,1,650000,0,E-Wallet,2025-01,650000
+ORD-00016,2025-01-06,Makassar,Rumah Tangga,Lampu LED,4,45000,0,E-Wallet,2025-01,180000
+ORD-00017,2025-01-07,Bandung,Fashion,Sepatu,2,375000,5,E-Wallet,2025-01,712500
+ORD-00018,2025-01-07,Bandung,Fashion,Jaket,1,250000,0,COD,2025-01,250000
+ORD-00019,2025-01-08,Surabaya,Fashion,Sepatu,3,375000,0,COD,2025-01,1125000
+ORD-00020,2025-01-08,Surabaya,Kecantikan,Sunscreen,2,75000,0,Kartu Kredit,2025-01,150000
+ORD-00021,2025-01-08,Tidak Diketahui,Fashion,Kaos,1,85000,0,COD,2025-01,85000
+ORD-00022,2025-01-08,Tidak Diketahui,Fashion,Sepatu,3,375000,10,E-Wallet,2025-01,1012500
+ORD-00023,2025-01-09,Medan,Fashion,Jaket,1,250000,10,E-Wallet,2025-01,225000
+ORD-00024,2025-01-09,Jakarta,Fashion,Kaos,1,85000,10,E-Wallet,2025-01,76500
+ORD-00025,2025-01-09,Makassar,Fashion,Kaos,3,85000,0,E-Wallet,2025-01,255000
+ORD-00026,2025-01-10,Bandung,Kecantikan,Parfum,1,180000,10,E-Wallet,2025-01,162000
+ORD-00027,2025-01-10,Surabaya,Fashion,Jaket,1,250000,0,E-Wallet,2025-01,250000
+ORD-00028,2025-01-10,Medan,Elektronik,Smartwatch,3,650000,0,E-Wallet,2025-01,1950000
+ORD-00029,2025-01-10,Bandung,Kecantikan,Sunscreen,2,75000,5,Transfer Bank,2025-01,142500
+ORD-00030,2025-01-11,Bandung,Rumah Tangga,Blender,2,320000,0,E-Wallet,2025-01,640000
+ORD-00031,2025-01-11,Jakarta,Fashion,Sepatu,1,375000,0,Transfer Bank,2025-01,375000
+ORD-00032,2025-01-12,Bandung,Kecantikan,Sunscreen,3,75000,20,Transfer Bank,2025-01,180000
+ORD-00033,2025-01-13,Surabaya,Rumah Tangga,Lampu LED,1,45000,0,Transfer Bank,2025-01,45000
+ORD-00034,2025-01-13,Makassar,Fashion,Sepatu,4,375000,0,COD,2025-01,1500000
+ORD-00035,2025-01-13,Jakarta,Fashion,Jaket,4,250000,10,Transfer Bank,2025-01,900000
+ORD-00036,2025-01-13,Medan,Elektronik,Smartwatch,1,650000,0,Kartu Kredit,2025-01,650000
+ORD-00037,2025-01-13,Bandung,Fashion,Sepatu,1,375000,20,E-Wallet,2025-01,300000
+ORD-00038,2025-01-15,Jakarta,Elektronik,Power Bank,5,220000,0,COD,2025-01,1100000
+ORD-00039,2025-01-15,Makassar,Rumah Tangga,Panci Set,3,280000,20,Transfer Bank,2025-01,672000
+ORD-00040,2025-01-15,Bandung,Rumah Tangga,Lampu LED,2,45000,10,Kartu Kredit,2025-01,81000
+ORD-00041,2025-01-15,Bandung,Rumah Tangga,Lampu LED,1,45000,0,E-Wallet,2025-01,45000
+ORD-00042,2025-01-16,Jakarta,Elektronik,Power Bank,3,220000,0,Kartu Kredit,2025-01,660000
+ORD-00043,2025-01-16,Jakarta,Rumah Tangga,Blender,1,320000,20,Transfer Bank,2025-01,256000
+ORD-00044,2025-01-17,Makassar,Fashion,Kaos,5,85000,0,Transfer Bank,2025-01,425000
+ORD-00045,2025-01-17,Jakarta,Elektronik,Smartwatch,2,650000,10,E-Wallet,2025-01,1170000
+ORD-00046,2025-01-17,Jakarta,Rumah Tangga,Blender,3,320000,5,COD,2025-01,912000
+ORD-00047,2025-01-17,Jakarta,Kecantikan,Sunscreen,1,75000,0,Kartu Kredit,2025-01,75000
+ORD-00048,2025-01-18,Medan,Fashion,Jaket,2,250000,0,E-Wallet,2025-01,500000
+ORD-00049,2025-01-18,Bandung,Rumah Tangga,Blender,1,320000,5,Transfer Bank,2025-01,304000
+ORD-00050,2025-01-18,Jakarta,Kecantikan,Parfum,1,180000,0,E-Wallet,2025-01,180000
+ORD-00051,2025-01-19,Makassar,Fashion,Sepatu,2,375000,0,E-Wallet,2025-01,750000
+ORD-00052,2025-01-19,Surabaya,Elektronik,Power Bank,1,220000,5,Transfer Bank,2025-01,209000
+ORD-00053,2025-01-19,Medan,Kecantikan,Sunscreen,2,75000,0,COD,2025-01,150000
+ORD-00054,2025-01-19,Medan,Rumah Tangga,Panci Set,1,280000,5,COD,2025-01,266000
+ORD-00055,2025-01-20,Surabaya,Rumah Tangga,Blender,2,320000,20,E-Wallet,2025-01,512000
+ORD-00056,2025-01-21,Medan,Fashion,Jaket,2,250000,5,E-Wallet,2025-01,475000
+ORD-00057,2025-01-21,Jakarta,Elektronik,Power Bank,1,220000,5,COD,2025-01,209000
+ORD-00058,2025-01-21,Jakarta,Kecantikan,Parfum,1,180000,20,Transfer Bank,2025-01,144000
+ORD-00059,2025-01-21,Tidak Diketahui,Elektronik,Power Bank,4,220000,10,COD,2025-01,792000
+ORD-00060,2025-01-21,Bandung,Elektronik,Earphone,2,150000,0,Transfer Bank,2025-01,300000
+ORD-00061,2025-01-21,Surabaya,Fashion,Jaket,2,250000,0,E-Wallet,2025-01,500000
+ORD-00062,2025-01-22,Surabaya,Rumah Tangga,Blender,3,320000,0,COD,2025-01,960000
+ORD-00063,2025-01-22,Jakarta,Elektronik,Power Bank,2,220000,0,Transfer Bank,2025-01,440000
+ORD-00064,2025-01-22,Jakarta,Rumah Tangga,Panci Set,1,280000,0,E-Wallet,2025-01,280000
+ORD-00065,2025-01-22,Jakarta,Fashion,Sepatu,3,375000,20,E-Wallet,2025-01,900000
+ORD-00066,2025-01-22,Medan,Rumah Tangga,Panci Set,5,280000,5,Kartu Kredit,2025-01,1330000
+ORD-00067,2025-01-23,Bandung,Kecantikan,Serum,1,120000,0,E-Wallet,2025-01,120000
+ORD-00068,2025-01-23,Bandung,Fashion,Sepatu,2,375000,5,COD,2025-01,712500
+ORD-00069,2025-01-23,Medan,Elektronik,Smartwatch,3,650000,20,COD,2025-01,1560000
+ORD-00070,2025-01-23,Jakarta,Kecantikan,Sunscreen,1,75000,0,E-Wallet,2025-01,75000
+ORD-00071,2025-01-24,Surabaya,Kecantikan,Serum,1,120000,0,Transfer Bank,2025-01,120000
+ORD-00072,2025-01-24,Makassar,Elektronik,Power Bank,1,220000,10,COD,2025-01,198000
+ORD-00073,2025-01-25,Medan,Elektronik,Smartwatch,1,650000,10,Transfer Bank,2025-01,585000
+ORD-00074,2025-01-25,Medan,Rumah Tangga,Blender,1,320000,0,Kartu Kredit,2025-01,320000
+ORD-00075,2025-01-26,Bandung,Fashion,Kaos,1,85000,10,COD,2025-01,76500
+ORD-00076,2025-01-27,Medan,Fashion,Jaket,1,250000,0,E-Wallet,2025-01,250000
+ORD-00077,2025-01-28,Jakarta,Kecantikan,Parfum,2,180000,10,Transfer Bank,2025-01,324000
+ORD-00078,2025-01-28,Surabaya,Fashion,Kaos,1,85000,0,Transfer Bank,2025-01,85000
+ORD-00079,2025-01-28,Medan,Fashion,Jaket,2,250000,5,Kartu Kredit,2025-01,475000
+ORD-00080,2025-01-28,Bandung,Fashion,Jaket,4,250000,0,COD,2025-01,1000000
+ORD-00081,2025-01-29,Bandung,Rumah Tangga,Lampu LED,1,45000,0,E-Wallet,2025-01,45000
+ORD-00082,2025-01-30,Medan,Fashion,Kaos,4,85000,10,Transfer Bank,2025-01,306000
+ORD-00083,2025-01-30,Jakarta,Fashion,Kaos,4,85000,0,Transfer Bank,2025-01,340000
+ORD-00084,2025-02-02,Bandung,Kecantikan,Sunscreen,1,75000,0,E-Wallet,2025-02,75000
+ORD-00085,2025-02-03,Makassar,Rumah Tangga,Blender,3,320000,10,Transfer Bank,2025-02,864000
+ORD-00086,2025-02-04,Medan,Elektronik,Earphone,1,150000,5,COD,2025-02,142500
+ORD-00087,2025-02-04,Makassar,Elektronik,Earphone,2,150000,0,COD,2025-02,300000
+ORD-00088,2025-02-04,Surabaya,Fashion,Sepatu,3,375000,5,Transfer Bank,2025-02,1068750
+ORD-00089,2025-02-04,Bandung,Elektronik,Smartwatch,2,650000,5,E-Wallet,2025-02,1235000
+ORD-00090,2025-02-04,Makassar,Rumah Tangga,Blender,1,320000,5,E-Wallet,2025-02,304000
+ORD-00091,2025-02-04,Medan,Fashion,Sepatu,5,375000,5,Kartu Kredit,2025-02,1781250
+ORD-00092,2025-02-05,Bandung,Kecantikan,Sunscreen,2,75000,0,Kartu Kredit,2025-02,150000
+ORD-00093,2025-02-06,Medan,Elektronik,Power Bank,1,220000,10,E-Wallet,2025-02,198000
+ORD-00094,2025-02-06,Medan,Kecantikan,Serum,1,120000,10,E-Wallet,2025-02,108000
+ORD-00095,2025-02-07,Tidak Diketahui,Rumah Tangga,Blender,1,320000,0,COD,2025-02,320000
+ORD-00096,2025-02-07,Bandung,Fashion,Jaket,1,250000,0,COD,2025-02,250000
+ORD-00097,2025-02-07,Makassar,Elektronik,Smartwatch,1,650000,5,Transfer Bank,2025-02,617500
+ORD-00098,2025-02-07,Surabaya,Kecantikan,Serum,4,120000,0,E-Wallet,2025-02,480000
+ORD-00099,2025-02-08,Jakarta,Rumah Tangga,Lampu LED,1,45000,20,COD,2025-02,36000
+ORD-00100,2025-02-08,Surabaya,Rumah Tangga,Blender,2,320000,0,E-Wallet,2025-02,640000
+ORD-00101,2025-02-08,Medan,Rumah Tangga,Blender,3,320000,0,E-Wallet,2025-02,960000
+ORD-00102,2025-02-08,Makassar,Elektronik,Earphone,4,150000,20,E-Wallet,2025-02,480000
+ORD-00103,2025-02-09,Jakarta,Elektronik,Earphone,1,150000,0,Kartu Kredit,2025-02,150000
+ORD-00104,2025-02-09,Jakarta,Elektronik,Earphone,3,150000,5,COD,2025-02,427500
+ORD-00105,2025-02-09,Surabaya,Rumah Tangga,Panci Set,2,280000,5,E-Wallet,2025-02,532000
+ORD-00106,2025-02-09,Bandung,Fashion,Sepatu,1,375000,10,Transfer Bank,2025-02,337500
+ORD-00107,2025-02-09,Medan,Elektronik,Smartwatch,1,650000,5,COD,2025-02,617500
+ORD-00108,2025-02-09,Surabaya,Elektronik,Earphone,1,150000,0,COD,2025-02,150000
+ORD-00109,2025-02-10,Tidak Diketahui,Kecantikan,Sunscreen,1,75000,5,E-Wallet,2025-02,71250
+ORD-00110,2025-02-10,Surabaya,Rumah Tangga,Blender,1,320000,5,E-Wallet,2025-02,304000
+ORD-00112,2025-02-11,Surabaya,Fashion,Kaos,1,85000,10,E-Wallet,2025-02,76500
+ORD-00113,2025-02-11,Bandung,Rumah Tangga,Lampu LED,2,45000,20,E-Wallet,2025-02,72000
+ORD-00114,2025-02-12,Surabaya,Fashion,Jaket,3,250000,0,E-Wallet,2025-02,750000
+ORD-00115,2025-02-12,Bandung,Fashion,Jaket,2,250000,20,E-Wallet,2025-02,400000
+ORD-00116,2025-02-12,Jakarta,Elektronik,Smartwatch,1,650000,0,E-Wallet,2025-02,650000
+ORD-00117,2025-02-13,Jakarta,Rumah Tangga,Panci Set,2,280000,0,Kartu Kredit,2025-02,560000
+ORD-00118,2025-02-13,Surabaya,Elektronik,Smartwatch,1,650000,5,E-Wallet,2025-02,617500
+ORD-00119,2025-02-13,Makassar,Rumah Tangga,Blender,2,320000,10,COD,2025-02,576000
+ORD-00120,2025-02-13,Jakarta,Kecantikan,Sunscreen,1,75000,0,Transfer Bank,2025-02,75000
+ORD-00121,2025-02-13,Makassar,Fashion,Sepatu,2,375000,5,COD,2025-02,712500
+ORD-00122,2025-02-14,Jakarta,Kecantikan,Parfum,2,180000,10,E-Wallet,2025-02,324000
+ORD-00123,2025-02-14,Makassar,Fashion,Kaos,4,85000,10,Transfer Bank,2025-02,306000
+ORD-00124,2025-02-15,Bandung,Fashion,Sepatu,2,375000,0,E-Wallet,2025-02,750000
+ORD-00125,2025-02-15,Jakarta,Fashion,Sepatu,1,375000,0,Transfer Bank,2025-02,375000
+ORD-00126,2025-02-15,Bandung,Kecantikan,Parfum,1,180000,10,E-Wallet,2025-02,162000
+ORD-00127,2025-02-15,Jakarta,Elektronik,Smartwatch,2,650000,0,Transfer Bank,2025-02,1300000
+ORD-00128,2025-02-15,Surabaya,Elektronik,Earphone,1,150000,10,Transfer Bank,2025-02,135000
+ORD-00129,2025-02-16,Bandung,Rumah Tangga,Blender,1,320000,10,Kartu Kredit,2025-02,288000
+ORD-00130,2025-02-16,Jakarta,Elektronik,Power Bank,4,220000,0,Transfer Bank,2025-02,880000
+ORD-00131,2025-02-16,Surabaya,Elektronik,Smartwatch,2,650000,20,E-Wallet,2025-02,1040000
+ORD-00132,2025-02-17,Bandung,Fashion,Jaket,1,250000,0,Transfer Bank,2025-02,250000
+ORD-00133,2025-02-17,Jakarta,Fashion,Jaket,1,250000,5,E-Wallet,2025-02,237500
+ORD-00134,2025-02-17,Medan,Rumah Tangga,Lampu LED,2,45000,0,E-Wallet,2025-02,90000
+ORD-00135,2025-02-17,Jakarta,Rumah Tangga,Lampu LED,1,45000,0,E-Wallet,2025-02,45000
+ORD-00136,2025-02-17,Medan,Elektronik,Earphone,4,150000,0,Kartu Kredit,2025-02,600000
+ORD-00137,2025-02-18,Makassar,Elektronik,Earphone,1,150000,10,Kartu Kredit,2025-02,135000
+ORD-00138,2025-02-18,Makassar,Kecantikan,Parfum,2,180000,0,COD,2025-02,360000
+ORD-00139,2025-02-18,Bandung,Rumah Tangga,Lampu LED,2,45000,0,COD,2025-02,90000
+ORD-00140,2025-02-19,Surabaya,Elektronik,Power Bank,3,220000,0,E-Wallet,2025-02,660000
+ORD-00141,2025-02-19,Surabaya,Fashion,Sepatu,1,375000,0,Transfer Bank,2025-02,375000
+ORD-00142,2025-02-19,Makassar,Fashion,Sepatu,3,375000,0,COD,2025-02,1125000
+ORD-00143,2025-02-19,Jakarta,Fashion,Kaos,2,85000,20,Transfer Bank,2025-02,136000
+ORD-00144,2025-02-19,Makassar,Rumah Tangga,Lampu LED,1,45000,0,E-Wallet,2025-02,45000
+ORD-00145,2025-02-19,Bandung,Fashion,Kaos,3,85000,0,E-Wallet,2025-02,255000
+ORD-00146,2025-02-20,Bandung,Kecantikan,Sunscreen,3,75000,0,Kartu Kredit,2025-02,225000
+ORD-00147,2025-02-20,Medan,Rumah Tangga,Blender,2,320000,0,Transfer Bank,2025-02,640000
+ORD-00148,2025-02-20,Jakarta,Rumah Tangga,Blender,1,320000,0,E-Wallet,2025-02,320000
+ORD-00149,2025-02-21,Jakarta,Fashion,Jaket,1,250000,5,E-Wallet,2025-02,237500
+ORD-00150,2025-02-21,Jakarta,Rumah Tangga,Panci Set,1,280000,0,E-Wallet,2025-02,280000
+ORD-00151,2025-02-21,Bandung,Fashion,Sepatu,2,375000,5,Transfer Bank,2025-02,712500
+ORD-00152,2025-02-21,Jakarta,Fashion,Sepatu,1,375000,0,COD,2025-02,375000
+ORD-00153,2025-02-21,Surabaya,Kecantikan,Sunscreen,3,75000,0,COD,2025-02,225000
+ORD-00154,2025-02-21,Makassar,Rumah Tangga,Blender,5,320000,0,E-Wallet,2025-02,1600000
+ORD-00155,2025-02-22,Jakarta,Fashion,Jaket,5,250000,0,E-Wallet,2025-02,1250000
+ORD-00156,2025-02-22,Jakarta,Kecantikan,Sunscreen,2,75000,20,E-Wallet,2025-02,120000
+ORD-00157,2025-02-23,Makassar,Elektronik,Earphone,1,150000,0,Transfer Bank,2025-02,150000
+ORD-00158,2025-02-23,Makassar,Fashion,Kaos,2,85000,20,Transfer Bank,2025-02,136000
+ORD-00159,2025-02-23,Bandung,Fashion,Sepatu,1,375000,10,E-Wallet,2025-02,337500
+ORD-00160,2025-02-24,Makassar,Fashion,Sepatu,1,375000,0,Transfer Bank,2025-02,375000
+ORD-00161,2025-02-24,Surabaya,Fashion,Jaket,1,250000,5,Transfer Bank,2025-02,237500
+ORD-00162,2025-02-24,Jakarta,Fashion,Kaos,2,85000,0,E-Wallet,2025-02,170000
+ORD-00163,2025-02-24,Jakarta,Kecantikan,Sunscreen,4,75000,0,Transfer Bank,2025-02,300000
+ORD-00164,2025-02-24,Jakarta,Fashion,Jaket,1,250000,5,Transfer Bank,2025-02,237500
+ORD-00165,2025-02-25,Surabaya,Kecantikan,Parfum,2,180000,5,Kartu Kredit,2025-02,342000
+ORD-00166,2025-02-25,Jakarta,Fashion,Sepatu,2,375000,0,Transfer Bank,2025-02,750000
+ORD-00167,2025-02-25,Makassar,Rumah Tangga,Panci Set,1,280000,0,Transfer Bank,2025-02,280000
+ORD-00168,2025-02-26,Jakarta,Elektronik,Earphone,1,150000,0,Transfer Bank,2025-02,150000
+ORD-00169,2025-02-26,Jakarta,Fashion,Jaket,1,250000,0,Transfer Bank,2025-02,250000
+ORD-00170,2025-02-26,Surabaya,Elektronik,Power Bank,5,220000,20,E-Wallet,2025-02,880000
+ORD-00171,2025-02-26,Medan,Fashion,Sepatu,3,375000,10,Kartu Kredit,2025-02,1012500
+ORD-00172,2025-02-26,Surabaya,Fashion,Kaos,3,85000,0,Kartu Kredit,2025-02,255000
+ORD-00173,2025-02-27,Medan,Elektronik,Smartwatch,1,650000,5,Transfer Bank,2025-02,617500
+ORD-00174,2025-02-27,Medan,Rumah Tangga,Lampu LED,2,45000,10,Transfer Bank,2025-02,81000
+ORD-00175,2025-02-27,Jakarta,Fashion,Sepatu,1,375000,0,E-Wallet,2025-02,375000
+ORD-00176,2025-02-27,Medan,Fashion,Jaket,1,250000,10,E-Wallet,2025-02,225000
+ORD-00177,2025-02-27,Bandung,Fashion,Sepatu,1,375000,0,Transfer Bank,2025-02,375000
+ORD-00178,2025-02-27,Surabaya,Fashion,Jaket,1,250000,10,Transfer Bank,2025-02,225000
+ORD-00179,2025-02-27,Makassar,Kecantikan,Sunscreen,3,75000,0,E-Wallet,2025-02,225000
+ORD-00180,2025-02-27,Tidak Diketahui,Elektronik,Smartwatch,2,650000,0,Kartu Kredit,2025-02,1300000
+ORD-00181,2025-02-28,Surabaya,Elektronik,Power Bank,1,220000,5,COD,2025-02,209000
+ORD-00182,2025-02-28,Bandung,Elektronik,Power Bank,1,220000,5,Transfer Bank,2025-02,209000
+ORD-00183,2025-03-01,Jakarta,Kecantikan,Sunscreen,1,75000,5,COD,2025-03,71250
+ORD-00184,2025-03-01,Jakarta,Fashion,Sepatu,1,375000,20,Tidak Diketahui,2025-03,300000
+ORD-00185,2025-03-01,Makassar,Kecantikan,Sunscreen,1,75000,0,Kartu Kredit,2025-03,75000
+ORD-00186,2025-03-01,Tidak Diketahui,Kecantikan,Serum,1,120000,0,E-Wallet,2025-03,120000
+ORD-00187,2025-03-01,Jakarta,Elektronik,Power Bank,2,220000,0,Tidak Diketahui,2025-03,440000
+ORD-00188,2025-03-01,Tidak Diketahui,Rumah Tangga,Lampu LED,2,45000,0,Kartu Kredit,2025-03,90000
+ORD-00189,2025-03-01,Jakarta,Rumah Tangga,Panci Set,1,280000,0,E-Wallet,2025-03,280000
+ORD-00190,2025-03-02,Jakarta,Fashion,Sepatu,1,375000,0,Tidak Diketahui,2025-03,375000
+ORD-00191,2025-03-02,Surabaya,Elektronik,Smartwatch,1,650000,0,E-Wallet,2025-03,650000
+ORD-00192,2025-03-02,Bandung,Rumah Tangga,Blender,2,320000,20,E-Wallet,2025-03,512000
+ORD-00193,2025-03-02,Jakarta,Kecantikan,Parfum,1,180000,5,Kartu Kredit,2025-03,171000
+ORD-00194,2025-03-03,Jakarta,Fashion,Sepatu,2,375000,0,COD,2025-03,750000
+ORD-00195,2025-03-03,Medan,Fashion,Kaos,2,85000,5,COD,2025-03,161500
+ORD-00196,2025-03-03,Medan,Kecantikan,Parfum,1,180000,5,Transfer Bank,2025-03,171000
+ORD-00197,2025-03-03,Bandung,Kecantikan,Parfum,1,180000,0,COD,2025-03,180000
+ORD-00198,2025-03-04,Jakarta,Elektronik,Power Bank,4,220000,10,Tidak Diketahui,2025-03,792000
+ORD-00199,2025-03-04,Surabaya,Fashion,Kaos,2,85000,0,Transfer Bank,2025-03,170000
+ORD-00200,2025-03-04,Surabaya,Elektronik,Smartwatch,1,650000,0,COD,2025-03,650000
+ORD-00201,2025-03-04,Bandung,Kecantikan,Sunscreen,2,75000,0,E-Wallet,2025-03,150000
+ORD-00202,2025-03-04,Bandung,Fashion,Sepatu,2,375000,10,Kartu Kredit,2025-03,675000
+ORD-00203,2025-03-04,Jakarta,Elektronik,Power Bank,1,220000,0,Transfer Bank,2025-03,220000
+ORD-00204,2025-03-04,Bandung,Rumah Tangga,Panci Set,4,280000,0,Transfer Bank,2025-03,1120000
+ORD-00205,2025-03-04,Jakarta,Fashion,Sepatu,5,375000,0,Transfer Bank,2025-03,1875000
+ORD-00206,2025-03-04,Bandung,Fashion,Kaos,2,85000,0,COD,2025-03,170000
+ORD-00207,2025-03-05,Surabaya,Elektronik,Smartwatch,3,650000,0,E-Wallet,2025-03,1950000
+ORD-00208,2025-03-06,Jakarta,Elektronik,Power Bank,1,220000,5,Transfer Bank,2025-03,209000
+ORD-00209,2025-03-06,Medan,Rumah Tangga,Blender,3,320000,0,Transfer Bank,2025-03,960000
+ORD-00210,2025-03-06,Medan,Elektronik,Earphone,1,150000,0,E-Wallet,2025-03,150000
+ORD-00211,2025-03-07,Bandung,Rumah Tangga,Lampu LED,5,45000,0,COD,2025-03,225000
+ORD-00212,2025-03-07,Bandung,Elektronik,Power Bank,4,220000,5,COD,2025-03,836000
+ORD-00213,2025-03-07,Bandung,Fashion,Sepatu,2,375000,0,E-Wallet,2025-03,750000
+ORD-00214,2025-03-07,Jakarta,Fashion,Jaket,1,250000,0,COD,2025-03,250000
+ORD-00215,2025-03-07,Surabaya,Rumah Tangga,Panci Set,3,280000,0,Transfer Bank,2025-03,840000
+ORD-00216,2025-03-07,Jakarta,Elektronik,Earphone,3,150000,20,Transfer Bank,2025-03,360000
+ORD-00217,2025-03-07,Surabaya,Rumah Tangga,Blender,3,320000,0,Transfer Bank,2025-03,960000
+ORD-00218,2025-03-07,Makassar,Fashion,Kaos,1,85000,0,Transfer Bank,2025-03,85000
+ORD-00219,2025-03-07,Medan,Fashion,Jaket,3,250000,10,COD,2025-03,675000
+ORD-00220,2025-03-08,Surabaya,Elektronik,Power Bank,1,220000,0,Kartu Kredit,2025-03,220000
+ORD-00221,2025-03-08,Bandung,Rumah Tangga,Lampu LED,2,45000,0,Transfer Bank,2025-03,90000
+ORD-00222,2025-03-08,Bandung,Elektronik,Smartwatch,1,650000,20,Transfer Bank,2025-03,520000
+ORD-00223,2025-03-09,Jakarta,Elektronik,Smartwatch,4,650000,5,Transfer Bank,2025-03,2470000
+ORD-00224,2025-03-09,Surabaya,Rumah Tangga,Lampu LED,3,45000,10,COD,2025-03,121500
+ORD-00225,2025-03-10,Surabaya,Fashion,Jaket,4,250000,5,E-Wallet,2025-03,950000
+ORD-00226,2025-03-10,Surabaya,Fashion,Kaos,5,85000,0,Transfer Bank,2025-03,425000
+ORD-00227,2025-03-10,Surabaya,Fashion,Jaket,1,250000,0,E-Wallet,2025-03,250000
+ORD-00228,2025-03-10,Surabaya,Fashion,Jaket,2,250000,5,COD,2025-03,475000
+ORD-00229,2025-03-10,Surabaya,Rumah Tangga,Lampu LED,1,45000,0,E-Wallet,2025-03,45000
+ORD-00230,2025-03-11,Surabaya,Kecantikan,Serum,1,120000,5,Transfer Bank,2025-03,114000
+ORD-00231,2025-03-11,Surabaya,Rumah Tangga,Lampu LED,2,45000,0,E-Wallet,2025-03,90000
+ORD-00232,2025-03-11,Surabaya,Kecantikan,Parfum,2,180000,0,Transfer Bank,2025-03,360000
+ORD-00233,2025-03-11,Bandung,Elektronik,Power Bank,4,220000,0,Transfer Bank,2025-03,880000
+ORD-00234,2025-03-11,Jakarta,Elektronik,Earphone,3,150000,0,COD,2025-03,450000
+ORD-00235,2025-03-11,Surabaya,Kecantikan,Serum,4,120000,0,Transfer Bank,2025-03,480000
+ORD-00236,2025-03-12,Medan,Kecantikan,Sunscreen,2,75000,5,Transfer Bank,2025-03,142500
+ORD-00237,2025-03-12,Jakarta,Kecantikan,Parfum,2,180000,20,COD,2025-03,288000
+ORD-00238,2025-03-12,Jakarta,Fashion,Jaket,4,250000,20,E-Wallet,2025-03,800000
+ORD-00239,2025-03-12,Bandung,Rumah Tangga,Lampu LED,1,45000,0,Transfer Bank,2025-03,45000
+ORD-00240,2025-03-13,Jakarta,Kecantikan,Serum,1,120000,0,Transfer Bank,2025-03,120000
+ORD-00241,2025-03-13,Bandung,Elektronik,Power Bank,2,220000,10,Transfer Bank,2025-03,396000
+ORD-00242,2025-03-14,Makassar,Kecantikan,Serum,3,120000,5,E-Wallet,2025-03,342000
+ORD-00243,2025-03-14,Jakarta,Rumah Tangga,Panci Set,4,280000,5,COD,2025-03,1064000
+ORD-00244,2025-03-14,Jakarta,Fashion,Sepatu,2,375000,0,Tidak Diketahui,2025-03,750000
+ORD-00245,2025-03-14,Bandung,Fashion,Sepatu,1,375000,20,Transfer Bank,2025-03,300000
+ORD-00246,2025-03-15,Jakarta,Fashion,Kaos,2,85000,0,E-Wallet,2025-03,170000
+ORD-00247,2025-03-15,Surabaya,Kecantikan,Sunscreen,1,75000,0,E-Wallet,2025-03,75000
+ORD-00248,2025-03-16,Surabaya,Elektronik,Earphone,2,150000,5,E-Wallet,2025-03,285000
+ORD-00249,2025-03-16,Jakarta,Rumah Tangga,Blender,1,320000,5,Kartu Kredit,2025-03,304000
+ORD-00250,2025-03-16,Surabaya,Elektronik,Power Bank,3,220000,10,E-Wallet,2025-03,594000
+ORD-00251,2025-03-16,Medan,Rumah Tangga,Blender,1,320000,20,Transfer Bank,2025-03,256000
+ORD-00252,2025-03-17,Jakarta,Kecantikan,Parfum,1,180000,0,E-Wallet,2025-03,180000
+ORD-00253,2025-03-17,Bandung,Fashion,Kaos,1,85000,10,Kartu Kredit,2025-03,76500
+ORD-00254,2025-03-17,Jakarta,Rumah Tangga,Blender,1,320000,10,Transfer Bank,2025-03,288000
+ORD-00255,2025-03-17,Makassar,Fashion,Sepatu,1,375000,5,E-Wallet,2025-03,356250
+ORD-00256,2025-03-18,Jakarta,Rumah Tangga,Lampu LED,1,45000,5,Transfer Bank,2025-03,42750
+ORD-00257,2025-03-18,Medan,Rumah Tangga,Blender,3,320000,0,COD,2025-03,960000
+ORD-00258,2025-03-18,Bandung,Fashion,Jaket,1,250000,10,Tidak Diketahui,2025-03,225000
+ORD-00259,2025-03-18,Makassar,Kecantikan,Serum,1,120000,20,E-Wallet,2025-03,96000
+ORD-00260,2025-03-19,Surabaya,Fashion,Sepatu,1,375000,0,Transfer Bank,2025-03,375000
+ORD-00261,2025-03-19,Medan,Elektronik,Power Bank,2,220000,0,E-Wallet,2025-03,440000
+ORD-00262,2025-03-19,Jakarta,Fashion,Jaket,3,250000,0,COD,2025-03,750000
+ORD-00263,2025-03-19,Medan,Rumah Tangga,Lampu LED,1,45000,10,COD,2025-03,40500
+ORD-00264,2025-03-19,Surabaya,Rumah Tangga,Panci Set,3,280000,20,E-Wallet,2025-03,672000
+ORD-00265,2025-03-19,Bandung,Kecantikan,Serum,4,120000,0,E-Wallet,2025-03,480000
+ORD-00266,2025-03-20,Jakarta,Elektronik,Smartwatch,3,650000,0,E-Wallet,2025-03,1950000
+ORD-00267,2025-03-20,Medan,Elektronik,Earphone,4,150000,0,E-Wallet,2025-03,600000
+ORD-00268,2025-03-20,Surabaya,Fashion,Jaket,1,250000,0,E-Wallet,2025-03,250000
+ORD-00269,2025-03-20,Bandung,Fashion,Kaos,3,85000,5,E-Wallet,2025-03,242250
+ORD-00270,2025-03-21,Medan,Kecantikan,Serum,1,120000,5,Transfer Bank,2025-03,114000
+ORD-00271,2025-03-22,Surabaya,Rumah Tangga,Panci Set,1,280000,0,Kartu Kredit,2025-03,280000
+ORD-00272,2025-03-22,Medan,Fashion,Kaos,5,85000,10,Transfer Bank,2025-03,382500
+ORD-00273,2025-03-22,Bandung,Kecantikan,Serum,3,120000,5,E-Wallet,2025-03,342000
+ORD-00274,2025-03-23,Medan,Fashion,Kaos,2,85000,0,Kartu Kredit,2025-03,170000
+ORD-00275,2025-03-23,Surabaya,Elektronik,Power Bank,5,220000,0,Transfer Bank,2025-03,1100000
+ORD-00276,2025-03-24,Medan,Elektronik,Earphone,1,150000,0,Kartu Kredit,2025-03,150000
+ORD-00277,2025-03-24,Bandung,Elektronik,Power Bank,3,220000,0,E-Wallet,2025-03,660000
+ORD-00278,2025-03-24,Tidak Diketahui,Elektronik,Power Bank,3,220000,0,E-Wallet,2025-03,660000
+ORD-00279,2025-03-26,Jakarta,Kecantikan,Parfum,2,180000,0,Transfer Bank,2025-03,360000
+ORD-00280,2025-03-26,Jakarta,Fashion,Kaos,2,85000,5,E-Wallet,2025-03,161500
+ORD-00281,2025-03-26,Jakarta,Elektronik,Earphone,3,150000,0,COD,2025-03,450000
+ORD-00282,2025-03-27,Jakarta,Elektronik,Smartwatch,2,650000,0,Transfer Bank,2025-03,1300000
+ORD-00283,2025-03-27,Jakarta,Rumah Tangga,Panci Set,4,280000,10,Tidak Diketahui,2025-03,1008000
+ORD-00284,2025-03-27,Surabaya,Rumah Tangga,Lampu LED,2,45000,5,Kartu Kredit,2025-03,85500
+ORD-00285,2025-03-27,Jakarta,Elektronik,Power Bank,4,220000,0,E-Wallet,2025-03,880000
+ORD-00286,2025-03-28,Makassar,Kecantikan,Sunscreen,1,75000,10,Kartu Kredit,2025-03,67500
+ORD-00287,2025-03-28,Bandung,Elektronik,Earphone,2,150000,0,Transfer Bank,2025-03,300000
+ORD-00288,2025-03-28,Jakarta,Elektronik,Smartwatch,1,650000,5,E-Wallet,2025-03,617500
+ORD-00289,2025-03-28,Surabaya,Elektronik,Smartwatch,2,650000,20,E-Wallet,2025-03,1040000
+ORD-00290,2025-03-28,Jakarta,Kecantikan,Parfum,3,180000,20,COD,2025-03,432000
+ORD-00291,2025-03-29,Bandung,Fashion,Jaket,2,250000,10,Kartu Kredit,2025-03,450000
+ORD-00292,2025-03-29,Jakarta,Fashion,Jaket,2,250000,0,Transfer Bank,2025-03,500000
+ORD-00293,2025-03-29,Jakarta,Fashion,Jaket,1,250000,0,COD,2025-03,250000
+ORD-00294,2025-03-29,Jakarta,Rumah Tangga,Lampu LED,1,45000,5,Transfer Bank,2025-03,42750
+ORD-00295,2025-03-30,Makassar,Fashion,Kaos,1,85000,5,Transfer Bank,2025-03,80750
+ORD-00296,2025-03-30,Makassar,Kecantikan,Serum,3,120000,0,Transfer Bank,2025-03,360000
+ORD-00297,2025-03-30,Jakarta,Kecantikan,Serum,2,120000,0,COD,2025-03,240000
+ORD-00298,2025-03-30,Surabaya,Rumah Tangga,Lampu LED,2,45000,0,E-Wallet,2025-03,90000
+ORD-00299,2025-03-31,Bandung,Elektronik,Earphone,1,150000,0,Transfer Bank,2025-03,150000
+ORD-00300,2025-03-31,Jakarta,Fashion,Sepatu,1,375000,10,E-Wallet,2025-03,337500
+ORD-00301,2025-03-31,Medan,Fashion,Kaos,1,85000,10,Kartu Kredit,2025-03,76500
+ORD-00302,2025-03-31,Bandung,Rumah Tangga,Panci Set,3,280000,0,E-Wallet,2025-03,840000
+ORD-00303,2025-03-31,Jakarta,Fashion,Kaos,1,85000,0,E-Wallet,2025-03,85000
+ORD-00304,2025-03-31,Makassar,Fashion,Kaos,1,85000,5,Tidak Diketahui,2025-03,80750
+ORD-00305,2025-04-01,Jakarta,Elektronik,Power Bank,1,220000,0,E-Wallet,2025-04,220000
+ORD-00306,2025-04-01,Jakarta,Fashion,Kaos,1,85000,0,E-Wallet,2025-04,85000
+ORD-00307,2025-04-01,Jakarta,Fashion,Jaket,1,250000,20,Transfer Bank,2025-04,200000
+ORD-00308,2025-04-01,Jakarta,Elektronik,Power Bank,5,220000,5,E-Wallet,2025-04,1045000
+ORD-00309,2025-04-02,Makassar,Kecantikan,Parfum,1,180000,5,E-Wallet,2025-04,171000
+ORD-00310,2025-04-02,Makassar,Fashion,Kaos,1,85000,20,E-Wallet,2025-04,68000
+ORD-00311,2025-04-03,Jakarta,Rumah Tangga,Blender,4,320000,5,COD,2025-04,1216000
+ORD-00312,2025-04-04,Tidak Diketahui,Elektronik,Smartwatch,2,650000,0,Transfer Bank,2025-04,1300000
+ORD-00313,2025-04-04,Jakarta,Elektronik,Earphone,2,150000,20,Transfer Bank,2025-04,240000
+ORD-00314,2025-04-04,Surabaya,Elektronik,Smartwatch,1,650000,5,COD,2025-04,617500
+ORD-00315,2025-04-04,Surabaya,Fashion,Jaket,2,250000,0,E-Wallet,2025-04,500000
+ORD-00316,2025-04-04,Surabaya,Kecantikan,Serum,2,120000,0,Transfer Bank,2025-04,240000
+ORD-00317,2025-04-05,Makassar,Elektronik,Power Bank,1,220000,10,Transfer Bank,2025-04,198000
+ORD-00318,2025-04-05,Bandung,Fashion,Kaos,1,85000,10,Kartu Kredit,2025-04,76500
+ORD-00319,2025-04-05,Medan,Kecantikan,Parfum,1,180000,10,Tidak Diketahui,2025-04,162000
+ORD-00320,2025-04-06,Jakarta,Fashion,Kaos,1,85000,0,Kartu Kredit,2025-04,85000
+ORD-00321,2025-04-06,Jakarta,Rumah Tangga,Panci Set,2,280000,0,E-Wallet,2025-04,560000
+ORD-00322,2025-04-07,Jakarta,Fashion,Sepatu,2,375000,0,E-Wallet,2025-04,750000
+ORD-00323,2025-04-07,Makassar,Rumah Tangga,Blender,2,320000,10,E-Wallet,2025-04,576000
+ORD-00324,2025-04-08,Surabaya,Rumah Tangga,Blender,3,320000,5,Transfer Bank,2025-04,912000
+ORD-00325,2025-04-09,Jakarta,Elektronik,Smartwatch,1,650000,0,E-Wallet,2025-04,650000
+ORD-00326,2025-04-09,Surabaya,Elektronik,Power Bank,3,220000,10,E-Wallet,2025-04,594000
+ORD-00327,2025-04-10,Bandung,Fashion,Sepatu,2,375000,0,Kartu Kredit,2025-04,750000
+ORD-00328,2025-04-10,Medan,Elektronik,Power Bank,2,220000,0,COD,2025-04,440000
+ORD-00329,2025-04-11,Surabaya,Elektronik,Power Bank,1,220000,0,COD,2025-04,220000
+ORD-00330,2025-04-11,Medan,Fashion,Sepatu,3,375000,5,Transfer Bank,2025-04,1068750
+ORD-00331,2025-04-11,Jakarta,Rumah Tangga,Lampu LED,1,45000,0,E-Wallet,2025-04,45000
+ORD-00332,2025-04-12,Bandung,Rumah Tangga,Lampu LED,2,45000,0,Transfer Bank,2025-04,90000
+ORD-00333,2025-04-12,Surabaya,Fashion,Sepatu,1,375000,10,Tidak Diketahui,2025-04,337500
+ORD-00334,2025-04-13,Jakarta,Fashion,Sepatu,5,375000,5,E-Wallet,2025-04,1781250
+ORD-00335,2025-04-13,Surabaya,Elektronik,Earphone,1,150000,20,COD,2025-04,120000
+ORD-00336,2025-04-14,Surabaya,Fashion,Kaos,5,85000,0,E-Wallet,2025-04,425000
+ORD-00337,2025-04-14,Medan,Kecantikan,Parfum,1,180000,5,COD,2025-04,171000
+ORD-00338,2025-04-14,Bandung,Rumah Tangga,Blender,2,320000,0,Transfer Bank,2025-04,640000
+ORD-00339,2025-04-15,Bandung,Fashion,Kaos,1,85000,10,E-Wallet,2025-04,76500
+ORD-00340,2025-04-16,Bandung,Fashion,Jaket,1,250000,5,E-Wallet,2025-04,237500
+ORD-00341,2025-04-16,Medan,Elektronik,Power Bank,2,220000,10,Kartu Kredit,2025-04,396000
+ORD-00342,2025-04-16,Surabaya,Fashion,Sepatu,2,375000,0,Transfer Bank,2025-04,750000
+ORD-00343,2025-04-16,Medan,Elektronik,Earphone,3,150000,0,Transfer Bank,2025-04,450000
+ORD-00344,2025-04-17,Bandung,Fashion,Jaket,4,250000,10,Kartu Kredit,2025-04,900000
+ORD-00345,2025-04-17,Bandung,Kecantikan,Serum,1,120000,0,E-Wallet,2025-04,120000
+ORD-00346,2025-04-17,Jakarta,Fashion,Sepatu,4,375000,0,Kartu Kredit,2025-04,1500000
+ORD-00347,2025-04-17,Surabaya,Rumah Tangga,Blender,1,320000,5,Transfer Bank,2025-04,304000
+ORD-00348,2025-04-18,Jakarta,Kecantikan,Serum,1,120000,5,E-Wallet,2025-04,114000
+ORD-00349,2025-04-18,Jakarta,Fashion,Jaket,2,250000,0,Transfer Bank,2025-04,500000
+ORD-00350,2025-04-19,Jakarta,Elektronik,Power Bank,1,220000,0,Transfer Bank,2025-04,220000
+ORD-00351,2025-04-19,Jakarta,Elektronik,Earphone,2,150000,20,E-Wallet,2025-04,240000
+ORD-00352,2025-04-19,Jakarta,Kecantikan,Serum,1,120000,5,COD,2025-04,114000
+ORD-00353,2025-04-19,Medan,Kecantikan,Serum,1,120000,0,Transfer Bank,2025-04,120000
+ORD-00354,2025-04-20,Jakarta,Kecantikan,Sunscreen,3,75000,5,COD,2025-04,213750
+ORD-00355,2025-04-20,Jakarta,Rumah Tangga,Blender,1,320000,5,E-Wallet,2025-04,304000
+ORD-00356,2025-04-21,Jakarta,Elektronik,Smartwatch,1,650000,0,Transfer Bank,2025-04,650000
+ORD-00357,2025-04-21,Makassar,Kecantikan,Serum,5,120000,0,COD,2025-04,600000
+ORD-00358,2025-04-21,Surabaya,Rumah Tangga,Blender,1,320000,0,Transfer Bank,2025-04,320000
+ORD-00359,2025-04-21,Surabaya,Rumah Tangga,Blender,2,320000,20,E-Wallet,2025-04,512000
+ORD-00360,2025-04-22,Medan,Elektronik,Smartwatch,1,650000,0,E-Wallet,2025-04,650000
+ORD-00362,2025-04-22,Medan,Rumah Tangga,Blender,1,320000,0,Transfer Bank,2025-04,320000
+ORD-00363,2025-04-23,Surabaya,Elektronik,Earphone,2,150000,0,Tidak Diketahui,2025-04,300000
+ORD-00364,2025-04-23,Jakarta,Elektronik,Power Bank,4,220000,10,Kartu Kredit,2025-04,792000
+ORD-00365,2025-04-24,Makassar,Kecantikan,Parfum,1,180000,0,Transfer Bank,2025-04,180000
+ORD-00366,2025-04-24,Jakarta,Elektronik,Power Bank,1,220000,5,COD,2025-04,209000
+ORD-00367,2025-04-24,Surabaya,Fashion,Sepatu,1,375000,0,Transfer Bank,2025-04,375000
+ORD-00368,2025-04-24,Jakarta,Fashion,Kaos,3,85000,10,COD,2025-04,229500
+ORD-00369,2025-04-24,Surabaya,Elektronik,Smartwatch,1,650000,5,E-Wallet,2025-04,617500
+ORD-00370,2025-04-24,Jakarta,Fashion,Sepatu,2,375000,0,Transfer Bank,2025-04,750000
+ORD-00371,2025-04-25,Jakarta,Elektronik,Power Bank,1,220000,0,Kartu Kredit,2025-04,220000
+ORD-00372,2025-04-25,Makassar,Fashion,Sepatu,1,375000,0,E-Wallet,2025-04,375000
+ORD-00373,2025-04-25,Medan,Fashion,Kaos,2,85000,20,E-Wallet,2025-04,136000
+ORD-00374,2025-04-26,Tidak Diketahui,Fashion,Sepatu,1,375000,10,Transfer Bank,2025-04,337500
+ORD-00375,2025-04-26,Jakarta,Fashion,Kaos,1,85000,5,Transfer Bank,2025-04,80750
+ORD-00376,2025-04-28,Jakarta,Fashion,Jaket,1,250000,0,COD,2025-04,250000
+ORD-00377,2025-04-28,Makassar,Kecantikan,Sunscreen,2,75000,5,COD,2025-04,142500
+ORD-00378,2025-04-28,Medan,Rumah Tangga,Blender,2,320000,0,E-Wallet,2025-04,640000
+ORD-00379,2025-04-28,Jakarta,Elektronik,Power Bank,1,220000,0,Transfer Bank,2025-04,220000
+ORD-00380,2025-04-29,Surabaya,Rumah Tangga,Panci Set,1,280000,0,E-Wallet,2025-04,280000
+ORD-00381,2025-04-29,Surabaya,Fashion,Jaket,2,250000,0,Kartu Kredit,2025-04,500000
+ORD-00382,2025-04-29,Bandung,Rumah Tangga,Lampu LED,2,45000,0,Kartu Kredit,2025-04,90000
+ORD-00383,2025-04-29,Makassar,Fashion,Jaket,2,250000,0,Transfer Bank,2025-04,500000
+ORD-00384,2025-04-30,Surabaya,Elektronik,Earphone,1,150000,20,Kartu Kredit,2025-04,120000
+ORD-00385,2025-04-30,Jakarta,Fashion,Sepatu,1,375000,5,Transfer Bank,2025-04,356250
+ORD-00386,2025-04-30,Jakarta,Elektronik,Power Bank,1,220000,0,COD,2025-04,220000
+ORD-00387,2025-04-30,Medan,Kecantikan,Serum,1,120000,10,E-Wallet,2025-04,108000
+ORD-00388,2025-04-30,Makassar,Elektronik,Power Bank,1,220000,0,Transfer Bank,2025-04,220000
+ORD-00389,2025-05-01,Bandung,Fashion,Kaos,4,85000,0,E-Wallet,2025-05,340000
+ORD-00390,2025-05-01,Medan,Fashion,Jaket,1,250000,0,E-Wallet,2025-05,250000
+ORD-00391,2025-05-01,Surabaya,Rumah Tangga,Lampu LED,3,45000,0,Transfer Bank,2025-05,135000
+ORD-00392,2025-05-01,Jakarta,Elektronik,Smartwatch,1,650000,0,E-Wallet,2025-05,650000
+ORD-00394,2025-05-01,Surabaya,Fashion,Jaket,1,250000,0,COD,2025-05,250000
+ORD-00395,2025-05-02,Bandung,Rumah Tangga,Panci Set,4,280000,0,COD,2025-05,1120000
+ORD-00396,2025-05-02,Bandung,Elektronik,Earphone,1,150000,0,Kartu Kredit,2025-05,150000
+ORD-00397,2025-05-02,Jakarta,Fashion,Kaos,3,85000,20,E-Wallet,2025-05,204000
+ORD-00398,2025-05-03,Surabaya,Elektronik,Smartwatch,2,650000,20,E-Wallet,2025-05,1040000
+ORD-00399,2025-05-03,Surabaya,Fashion,Sepatu,5,375000,0,COD,2025-05,1875000
+ORD-00400,2025-05-03,Jakarta,Kecantikan,Sunscreen,1,75000,5,E-Wallet,2025-05,71250
+ORD-00401,2025-05-04,Bandung,Elektronik,Power Bank,4,220000,10,COD,2025-05,792000
+ORD-00402,2025-05-04,Jakarta,Fashion,Sepatu,2,375000,0,E-Wallet,2025-05,750000
+ORD-00403,2025-05-04,Jakarta,Elektronik,Power Bank,1,220000,0,E-Wallet,2025-05,220000
+ORD-00404,2025-05-05,Jakarta,Rumah Tangga,Panci Set,3,280000,10,E-Wallet,2025-05,756000
+ORD-00405,2025-05-05,Jakarta,Rumah Tangga,Blender,2,320000,0,COD,2025-05,640000
+ORD-00406,2025-05-06,Medan,Kecantikan,Serum,2,120000,5,Kartu Kredit,2025-05,228000
+ORD-00407,2025-05-06,Surabaya,Elektronik,Smartwatch,1,650000,0,Transfer Bank,2025-05,650000
+ORD-00408,2025-05-06,Jakarta,Fashion,Kaos,1,85000,0,E-Wallet,2025-05,85000
+ORD-00409,2025-05-07,Surabaya,Kecantikan,Sunscreen,3,75000,0,COD,2025-05,225000
+ORD-00410,2025-05-07,Surabaya,Rumah Tangga,Panci Set,1,280000,0,Kartu Kredit,2025-05,280000
+ORD-00411,2025-05-07,Makassar,Rumah Tangga,Blender,1,320000,10,E-Wallet,2025-05,288000
+ORD-00412,2025-05-07,Jakarta,Rumah Tangga,Lampu LED,1,45000,10,COD,2025-05,40500
+ORD-00413,2025-05-08,Jakarta,Rumah Tangga,Panci Set,5,280000,0,E-Wallet,2025-05,1400000
+ORD-00414,2025-05-09,Bandung,Fashion,Kaos,2,85000,0,COD,2025-05,170000
+ORD-00415,2025-05-09,Surabaya,Kecantikan,Sunscreen,1,75000,5,COD,2025-05,71250
+ORD-00416,2025-05-10,Surabaya,Fashion,Sepatu,3,375000,5,COD,2025-05,1068750
+ORD-00417,2025-05-10,Surabaya,Elektronik,Power Bank,1,220000,10,E-Wallet,2025-05,198000
+ORD-00418,2025-05-10,Medan,Elektronik,Power Bank,2,220000,10,E-Wallet,2025-05,396000
+ORD-00419,2025-05-10,Surabaya,Kecantikan,Parfum,1,180000,5,COD,2025-05,171000
+ORD-00420,2025-05-11,Bandung,Fashion,Jaket,3,250000,5,Transfer Bank,2025-05,712500
+ORD-00421,2025-05-11,Makassar,Kecantikan,Serum,5,120000,10,COD,2025-05,540000
+ORD-00422,2025-05-11,Jakarta,Rumah Tangga,Lampu LED,2,45000,10,E-Wallet,2025-05,81000
+ORD-00423,2025-05-11,Bandung,Kecantikan,Parfum,2,180000,0,Transfer Bank,2025-05,360000
+ORD-00424,2025-05-11,Medan,Elektronik,Earphone,2,150000,0,Transfer Bank,2025-05,300000
+ORD-00425,2025-05-13,Surabaya,Fashion,Kaos,3,85000,0,E-Wallet,2025-05,255000
+ORD-00426,2025-05-13,Jakarta,Elektronik,Earphone,4,150000,0,Kartu Kredit,2025-05,600000
+ORD-00427,2025-05-13,Bandung,Elektronik,Earphone,2,150000,20,Tidak Diketahui,2025-05,240000
+ORD-00428,2025-05-13,Medan,Kecantikan,Sunscreen,2,75000,0,E-Wallet,2025-05,150000
+ORD-00429,2025-05-15,Bandung,Fashion,Kaos,4,85000,5,E-Wallet,2025-05,323000
+ORD-00430,2025-05-16,Bandung,Rumah Tangga,Lampu LED,4,45000,0,Kartu Kredit,2025-05,180000
+ORD-00431,2025-05-18,Bandung,Kecantikan,Parfum,3,180000,0,COD,2025-05,540000
+ORD-00432,2025-05-19,Jakarta,Elektronik,Smartwatch,1,650000,0,E-Wallet,2025-05,650000
+ORD-00433,2025-05-19,Surabaya,Kecantikan,Serum,1,120000,10,COD,2025-05,108000
+ORD-00434,2025-05-20,Surabaya,Fashion,Kaos,4,85000,10,E-Wallet,2025-05,306000
+ORD-00435,2025-05-20,Jakarta,Fashion,Sepatu,3,375000,0,COD,2025-05,1125000
+ORD-00436,2025-05-20,Jakarta,Elektronik,Smartwatch,5,650000,10,Kartu Kredit,2025-05,2925000
+ORD-00437,2025-05-21,Jakarta,Kecantikan,Sunscreen,1,75000,0,Transfer Bank,2025-05,75000
+ORD-00438,2025-05-21,Jakarta,Kecantikan,Serum,1,120000,0,Transfer Bank,2025-05,120000
+ORD-00439,2025-05-21,Jakarta,Elektronik,Power Bank,2,220000,10,E-Wallet,2025-05,396000
+ORD-00440,2025-05-21,Bandung,Rumah Tangga,Panci Set,1,280000,0,Kartu Kredit,2025-05,280000
+ORD-00441,2025-05-21,Bandung,Rumah Tangga,Blender,3,320000,5,E-Wallet,2025-05,912000
+ORD-00442,2025-05-22,Surabaya,Kecantikan,Sunscreen,2,75000,0,Transfer Bank,2025-05,150000
+ORD-00443,2025-05-23,Bandung,Kecantikan,Serum,2,120000,0,COD,2025-05,240000
+ORD-00444,2025-05-23,Medan,Elektronik,Power Bank,2,220000,0,Tidak Diketahui,2025-05,440000
+ORD-00445,2025-05-23,Jakarta,Kecantikan,Serum,3,120000,0,E-Wallet,2025-05,360000
+ORD-00446,2025-05-23,Medan,Elektronik,Earphone,1,150000,0,E-Wallet,2025-05,150000
+ORD-00447,2025-05-23,Jakarta,Elektronik,Smartwatch,1,650000,0,Tidak Diketahui,2025-05,650000
+ORD-00448,2025-05-24,Jakarta,Elektronik,Earphone,4,150000,10,E-Wallet,2025-05,540000
+ORD-00449,2025-05-24,Jakarta,Elektronik,Earphone,1,150000,0,E-Wallet,2025-05,150000
+ORD-00450,2025-05-24,Surabaya,Fashion,Jaket,1,250000,0,COD,2025-05,250000
+ORD-00451,2025-05-25,Surabaya,Kecantikan,Serum,1,120000,0,COD,2025-05,120000
+ORD-00452,2025-05-25,Bandung,Elektronik,Earphone,2,150000,0,Transfer Bank,2025-05,300000
+ORD-00453,2025-05-25,Surabaya,Fashion,Jaket,1,250000,0,E-Wallet,2025-05,250000
+ORD-00454,2025-05-26,Bandung,Elektronik,Smartwatch,3,650000,0,Transfer Bank,2025-05,1950000
+ORD-00455,2025-05-26,Bandung,Elektronik,Power Bank,4,220000,0,E-Wallet,2025-05,880000
+ORD-00456,2025-05-27,Jakarta,Rumah Tangga,Blender,1,320000,0,E-Wallet,2025-05,320000
+ORD-00457,2025-05-28,Medan,Fashion,Sepatu,3,375000,20,COD,2025-05,900000
+ORD-00458,2025-05-28,Medan,Kecantikan,Parfum,3,180000,10,Kartu Kredit,2025-05,486000
+ORD-00459,2025-05-28,Bandung,Fashion,Kaos,3,85000,0,COD,2025-05,255000
+ORD-00460,2025-05-29,Makassar,Rumah Tangga,Panci Set,1,280000,5,COD,2025-05,266000
+ORD-00461,2025-05-30,Surabaya,Kecantikan,Sunscreen,2,75000,0,Kartu Kredit,2025-05,150000
+ORD-00462,2025-05-31,Surabaya,Fashion,Sepatu,3,375000,0,Transfer Bank,2025-05,1125000
+ORD-00463,2025-05-31,Bandung,Elektronik,Earphone,1,150000,5,Transfer Bank,2025-05,142500
+ORD-00464,2025-06-01,Jakarta,Kecantikan,Parfum,1,180000,0,E-Wallet,2025-06,180000
+ORD-00465,2025-06-01,Bandung,Fashion,Kaos,1,85000,0,Transfer Bank,2025-06,85000
+ORD-00466,2025-06-01,Jakarta,Kecantikan,Parfum,5,180000,0,Transfer Bank,2025-06,900000
+ORD-00467,2025-06-01,Medan,Elektronik,Smartwatch,2,650000,0,E-Wallet,2025-06,1300000
+ORD-00468,2025-06-01,Makassar,Rumah Tangga,Blender,5,320000,5,COD,2025-06,1520000
+ORD-00469,2025-06-01,Surabaya,Rumah Tangga,Panci Set,1,280000,10,Kartu Kredit,2025-06,252000
+ORD-00470,2025-06-01,Medan,Elektronik,Power Bank,4,220000,0,E-Wallet,2025-06,880000
+ORD-00471,2025-06-01,Jakarta,Kecantikan,Sunscreen,1,75000,5,Transfer Bank,2025-06,71250
+ORD-00472,2025-06-02,Jakarta,Fashion,Sepatu,1,375000,5,E-Wallet,2025-06,356250
+ORD-00474,2025-06-02,Jakarta,Fashion,Sepatu,1,375000,0,E-Wallet,2025-06,375000
+ORD-00475,2025-06-03,Medan,Rumah Tangga,Panci Set,2,280000,0,E-Wallet,2025-06,560000
+ORD-00476,2025-06-03,Bandung,Elektronik,Smartwatch,1,650000,0,Transfer Bank,2025-06,650000
+ORD-00477,2025-06-03,Surabaya,Rumah Tangga,Lampu LED,2,45000,0,Transfer Bank,2025-06,90000
+ORD-00478,2025-06-03,Bandung,Rumah Tangga,Lampu LED,1,45000,0,Kartu Kredit,2025-06,45000
+ORD-00479,2025-06-04,Tidak Diketahui,Rumah Tangga,Panci Set,1,280000,0,Transfer Bank,2025-06,280000
+ORD-00480,2025-06-04,Surabaya,Fashion,Jaket,1,250000,10,Transfer Bank,2025-06,225000
+ORD-00481,2025-06-04,Surabaya,Rumah Tangga,Lampu LED,2,45000,20,E-Wallet,2025-06,72000
+ORD-00482,2025-06-05,Surabaya,Rumah Tangga,Panci Set,1,280000,0,E-Wallet,2025-06,280000
+ORD-00483,2025-06-05,Bandung,Fashion,Sepatu,2,375000,0,COD,2025-06,750000
+ORD-00484,2025-06-06,Surabaya,Fashion,Jaket,1,250000,0,Transfer Bank,2025-06,250000
+ORD-00485,2025-06-06,Makassar,Rumah Tangga,Blender,1,320000,5,Transfer Bank,2025-06,304000
+ORD-00486,2025-06-07,Bandung,Rumah Tangga,Panci Set,1,280000,0,Transfer Bank,2025-06,280000
+ORD-00487,2025-06-07,Bandung,Elektronik,Power Bank,1,220000,20,Transfer Bank,2025-06,176000
+ORD-00488,2025-06-07,Surabaya,Fashion,Sepatu,4,375000,5,E-Wallet,2025-06,1425000
+ORD-00489,2025-06-07,Makassar,Kecantikan,Sunscreen,3,75000,20,Transfer Bank,2025-06,180000
+ORD-00490,2025-06-07,Surabaya,Elektronik,Earphone,2,150000,0,Kartu Kredit,2025-06,300000
+ORD-00491,2025-06-07,Bandung,Rumah Tangga,Lampu LED,1,45000,0,Transfer Bank,2025-06,45000
+ORD-00492,2025-06-08,Surabaya,Kecantikan,Sunscreen,2,75000,0,E-Wallet,2025-06,150000
+ORD-00493,2025-06-08,Bandung,Kecantikan,Serum,3,120000,0,E-Wallet,2025-06,360000
+ORD-00494,2025-06-09,Bandung,Kecantikan,Parfum,1,180000,0,E-Wallet,2025-06,180000
+ORD-00495,2025-06-09,Bandung,Fashion,Jaket,1,250000,10,E-Wallet,2025-06,225000
+ORD-00496,2025-06-09,Jakarta,Kecantikan,Serum,2,120000,0,COD,2025-06,240000
+ORD-00497,2025-06-09,Bandung,Elektronik,Earphone,2,150000,0,Transfer Bank,2025-06,300000
+ORD-00498,2025-06-10,Jakarta,Fashion,Sepatu,1,375000,5,E-Wallet,2025-06,356250
+ORD-00499,2025-06-10,Jakarta,Elektronik,Power Bank,1,220000,5,Transfer Bank,2025-06,209000
+ORD-00500,2025-06-10,Jakarta,Kecantikan,Sunscreen,1,75000,10,Transfer Bank,2025-06,67500
+ORD-00501,2025-06-11,Makassar,Fashion,Jaket,2,250000,0,E-Wallet,2025-06,500000
+ORD-00502,2025-06-11,Makassar,Kecantikan,Parfum,1,180000,0,E-Wallet,2025-06,180000
+ORD-00503,2025-06-11,Jakarta,Elektronik,Earphone,1,150000,0,E-Wallet,2025-06,150000
+ORD-00504,2025-06-11,Bandung,Elektronik,Smartwatch,1,650000,20,Transfer Bank,2025-06,520000
+ORD-00505,2025-06-12,Jakarta,Fashion,Sepatu,1,375000,0,Transfer Bank,2025-06,375000
+ORD-00506,2025-06-12,Surabaya,Fashion,Kaos,1,85000,0,E-Wallet,2025-06,85000
+ORD-00507,2025-06-12,Jakarta,Elektronik,Earphone,1,150000,0,Kartu Kredit,2025-06,150000
+ORD-00508,2025-06-12,Makassar,Kecantikan,Serum,1,120000,0,E-Wallet,2025-06,120000
+ORD-00509,2025-06-13,Jakarta,Elektronik,Earphone,2,150000,0,Transfer Bank,2025-06,300000
+ORD-00510,2025-06-13,Bandung,Rumah Tangga,Blender,3,320000,0,E-Wallet,2025-06,960000
+ORD-00511,2025-06-14,Jakarta,Elektronik,Earphone,1,150000,5,Transfer Bank,2025-06,142500
+ORD-00512,2025-06-14,Makassar,Elektronik,Power Bank,1,220000,5,E-Wallet,2025-06,209000
+ORD-00513,2025-06-15,Jakarta,Fashion,Sepatu,2,375000,0,Tidak Diketahui,2025-06,750000
+ORD-00514,2025-06-17,Makassar,Fashion,Jaket,3,250000,20,E-Wallet,2025-06,600000
+ORD-00515,2025-06-17,Makassar,Rumah Tangga,Panci Set,2,280000,0,E-Wallet,2025-06,560000
+ORD-00516,2025-06-17,Jakarta,Fashion,Jaket,1,250000,0,COD,2025-06,250000
+ORD-00517,2025-06-17,Bandung,Fashion,Kaos,3,85000,0,Kartu Kredit,2025-06,255000
+ORD-00518,2025-06-18,Jakarta,Fashion,Sepatu,1,375000,0,E-Wallet,2025-06,375000
+ORD-00519,2025-06-18,Surabaya,Rumah Tangga,Panci Set,2,280000,0,COD,2025-06,560000
+ORD-00520,2025-06-18,Jakarta,Kecantikan,Parfum,4,180000,0,COD,2025-06,720000
+ORD-00521,2025-06-19,Jakarta,Kecantikan,Parfum,2,180000,0,COD,2025-06,360000
+ORD-00522,2025-06-19,Surabaya,Fashion,Sepatu,4,375000,0,E-Wallet,2025-06,1500000
+ORD-00523,2025-06-19,Jakarta,Rumah Tangga,Panci Set,1,280000,0,E-Wallet,2025-06,280000
+ORD-00524,2025-06-19,Jakarta,Fashion,Jaket,2,250000,0,Transfer Bank,2025-06,500000
+ORD-00525,2025-06-19,Bandung,Rumah Tangga,Blender,4,320000,0,E-Wallet,2025-06,1280000
+ORD-00526,2025-06-19,Jakarta,Elektronik,Earphone,1,150000,10,COD,2025-06,135000
+ORD-00527,2025-06-20,Jakarta,Elektronik,Earphone,2,150000,5,COD,2025-06,285000
+ORD-00528,2025-06-20,Jakarta,Kecantikan,Sunscreen,2,75000,5,E-Wallet,2025-06,142500
+ORD-00529,2025-06-20,Surabaya,Kecantikan,Parfum,2,180000,10,E-Wallet,2025-06,324000
+ORD-00530,2025-06-20,Medan,Fashion,Kaos,3,85000,0,COD,2025-06,255000
+ORD-00531,2025-06-21,Medan,Fashion,Sepatu,1,375000,0,Kartu Kredit,2025-06,375000
+ORD-00532,2025-06-22,Medan,Rumah Tangga,Panci Set,1,280000,20,Transfer Bank,2025-06,224000
+ORD-00533,2025-06-22,Medan,Fashion,Sepatu,4,375000,5,E-Wallet,2025-06,1425000
+ORD-00534,2025-06-23,Bandung,Fashion,Jaket,2,250000,0,E-Wallet,2025-06,500000
+ORD-00535,2025-06-24,Medan,Kecantikan,Parfum,1,180000,0,Transfer Bank,2025-06,180000
+ORD-00536,2025-06-24,Bandung,Fashion,Sepatu,1,375000,0,COD,2025-06,375000
+ORD-00537,2025-06-24,Jakarta,Fashion,Kaos,2,85000,0,E-Wallet,2025-06,170000
+ORD-00538,2025-06-24,Jakarta,Fashion,Jaket,4,250000,0,E-Wallet,2025-06,1000000
+ORD-00539,2025-06-24,Jakarta,Elektronik,Power Bank,3,220000,0,E-Wallet,2025-06,660000
+ORD-00540,2025-06-24,Jakarta,Elektronik,Power Bank,1,220000,0,E-Wallet,2025-06,220000
+ORD-00541,2025-06-24,Makassar,Kecantikan,Sunscreen,1,75000,10,E-Wallet,2025-06,67500
+ORD-00542,2025-06-26,Makassar,Rumah Tangga,Lampu LED,2,45000,10,COD,2025-06,81000
+ORD-00543,2025-06-26,Tidak Diketahui,Elektronik,Smartwatch,4,650000,10,Transfer Bank,2025-06,2340000
+ORD-00544,2025-06-26,Jakarta,Elektronik,Smartwatch,2,650000,0,COD,2025-06,1300000
+ORD-00545,2025-06-26,Jakarta,Fashion,Jaket,2,250000,0,Kartu Kredit,2025-06,500000
+ORD-00546,2025-06-26,Jakarta,Elektronik,Smartwatch,1,650000,10,Transfer Bank,2025-06,585000
+ORD-00547,2025-06-27,Surabaya,Rumah Tangga,Blender,1,320000,0,E-Wallet,2025-06,320000
+ORD-00548,2025-06-27,Surabaya,Elektronik,Smartwatch,1,650000,0,Transfer Bank,2025-06,650000
+ORD-00549,2025-06-28,Surabaya,Fashion,Kaos,1,85000,20,COD,2025-06,68000
+ORD-00550,2025-06-28,Jakarta,Elektronik,Earphone,1,150000,0,Transfer Bank,2025-06,150000
+ORD-00551,2025-06-28,Jakarta,Kecantikan,Parfum,2,180000,0,Kartu Kredit,2025-06,360000
+ORD-00552,2025-06-28,Surabaya,Elektronik,Power Bank,3,220000,0,Transfer Bank,2025-06,660000
+ORD-00553,2025-06-29,Bandung,Fashion,Sepatu,2,375000,10,COD,2025-06,675000
+ORD-00554,2025-06-29,Bandung,Fashion,Sepatu,2,375000,0,COD,2025-06,750000
+ORD-00555,2025-06-29,Medan,Elektronik,Smartwatch,1,650000,0,Transfer Bank,2025-06,650000
+ORD-00556,2025-06-29,Medan,Fashion,Kaos,1,85000,0,E-Wallet,2025-06,85000
+ORD-00557,2025-06-30,Makassar,Kecantikan,Parfum,4,180000,0,COD,2025-06,720000
+ORD-00559,2025-06-30,Bandung,Rumah Tangga,Panci Set,3,280000,10,Transfer Bank,2025-06,756000
+ORD-00560,2025-06-30,Bandung,Elektronik,Smartwatch,3,650000,0,COD,2025-06,1950000
+ORD-00561,2025-07-01,Surabaya,Elektronik,Smartwatch,1,650000,10,Transfer Bank,2025-07,585000
+ORD-00562,2025-07-01,Jakarta,Kecantikan,Serum,5,120000,5,Transfer Bank,2025-07,570000
+ORD-00564,2025-07-02,Bandung,Fashion,Kaos,2,85000,0,COD,2025-07,170000
+ORD-00565,2025-07-02,Jakarta,Kecantikan,Sunscreen,1,75000,5,E-Wallet,2025-07,71250
+ORD-00566,2025-07-02,Surabaya,Kecantikan,Serum,2,120000,10,Transfer Bank,2025-07,216000
+ORD-00567,2025-07-02,Surabaya,Kecantikan,Sunscreen,4,75000,10,COD,2025-07,270000
+ORD-00568,2025-07-02,Medan,Fashion,Kaos,2,85000,5,Transfer Bank,2025-07,161500
+ORD-00569,2025-07-02,Jakarta,Elektronik,Smartwatch,3,650000,10,Kartu Kredit,2025-07,1755000
+ORD-00570,2025-07-03,Makassar,Elektronik,Power Bank,1,220000,0,COD,2025-07,220000
+ORD-00571,2025-07-04,Jakarta,Elektronik,Earphone,2,150000,10,Transfer Bank,2025-07,270000
+ORD-00572,2025-07-04,Surabaya,Elektronik,Earphone,1,150000,5,Kartu Kredit,2025-07,142500
+ORD-00573,2025-07-04,Bandung,Rumah Tangga,Panci Set,3,280000,0,Transfer Bank,2025-07,840000
+ORD-00574,2025-07-04,Jakarta,Rumah Tangga,Lampu LED,4,45000,5,Kartu Kredit,2025-07,171000
+ORD-00575,2025-07-05,Surabaya,Fashion,Sepatu,1,375000,0,E-Wallet,2025-07,375000
+ORD-00576,2025-07-05,Surabaya,Kecantikan,Serum,1,120000,0,E-Wallet,2025-07,120000
+ORD-00577,2025-07-06,Jakarta,Elektronik,Smartwatch,1,650000,0,Transfer Bank,2025-07,650000
+ORD-00578,2025-07-06,Jakarta,Fashion,Jaket,2,250000,0,Kartu Kredit,2025-07,500000
+ORD-00579,2025-07-06,Jakarta,Elektronik,Smartwatch,1,650000,0,COD,2025-07,650000
+ORD-00581,2025-07-07,Bandung,Elektronik,Earphone,2,150000,0,E-Wallet,2025-07,300000
+ORD-00582,2025-07-07,Surabaya,Elektronik,Smartwatch,1,650000,10,COD,2025-07,585000
+ORD-00583,2025-07-07,Jakarta,Rumah Tangga,Panci Set,2,280000,5,Kartu Kredit,2025-07,532000
+ORD-00584,2025-07-07,Medan,Fashion,Kaos,1,85000,0,Transfer Bank,2025-07,85000
+ORD-00585,2025-07-08,Jakarta,Rumah Tangga,Blender,3,320000,0,Transfer Bank,2025-07,960000
+ORD-00586,2025-07-08,Bandung,Elektronik,Earphone,1,150000,0,E-Wallet,2025-07,150000
+ORD-00587,2025-07-09,Tidak Diketahui,Elektronik,Power Bank,1,220000,0,Transfer Bank,2025-07,220000
+ORD-00588,2025-07-10,Jakarta,Elektronik,Power Bank,4,220000,10,E-Wallet,2025-07,792000
+ORD-00589,2025-07-11,Medan,Fashion,Kaos,1,85000,0,E-Wallet,2025-07,85000
+ORD-00590,2025-07-11,Jakarta,Elektronik,Power Bank,3,220000,10,Transfer Bank,2025-07,594000
+ORD-00591,2025-07-11,Bandung,Fashion,Sepatu,2,375000,0,COD,2025-07,750000
+ORD-00592,2025-07-11,Surabaya,Kecantikan,Serum,2,120000,0,E-Wallet,2025-07,240000
+ORD-00593,2025-07-11,Jakarta,Elektronik,Smartwatch,3,650000,0,E-Wallet,2025-07,1950000
+ORD-00594,2025-07-11,Makassar,Fashion,Jaket,1,250000,0,Transfer Bank,2025-07,250000
+ORD-00595,2025-07-11,Jakarta,Rumah Tangga,Lampu LED,4,45000,0,E-Wallet,2025-07,180000
+ORD-00596,2025-07-12,Bandung,Elektronik,Smartwatch,2,650000,0,Transfer Bank,2025-07,1300000
+ORD-00597,2025-07-12,Bandung,Kecantikan,Serum,2,120000,10,Transfer Bank,2025-07,216000
+ORD-00598,2025-07-12,Jakarta,Kecantikan,Parfum,3,180000,0,Transfer Bank,2025-07,540000
+ORD-00599,2025-07-12,Medan,Fashion,Sepatu,5,375000,0,Transfer Bank,2025-07,1875000
+ORD-00600,2025-07-13,Bandung,Fashion,Jaket,2,250000,10,COD,2025-07,450000
+ORD-00601,2025-07-14,Tidak Diketahui,Elektronik,Smartwatch,2,650000,0,E-Wallet,2025-07,1300000
+ORD-00602,2025-07-14,Jakarta,Fashion,Jaket,3,250000,0,E-Wallet,2025-07,750000
+ORD-00603,2025-07-15,Jakarta,Fashion,Sepatu,1,375000,0,E-Wallet,2025-07,375000
+ORD-00604,2025-07-15,Surabaya,Fashion,Sepatu,1,375000,0,E-Wallet,2025-07,375000
+ORD-00605,2025-07-15,Surabaya,Rumah Tangga,Lampu LED,2,45000,5,COD,2025-07,85500
+ORD-00606,2025-07-16,Surabaya,Elektronik,Smartwatch,3,650000,0,E-Wallet,2025-07,1950000
+ORD-00607,2025-07-17,Jakarta,Fashion,Jaket,2,250000,10,Transfer Bank,2025-07,450000
+ORD-00608,2025-07-17,Jakarta,Fashion,Jaket,1,250000,20,E-Wallet,2025-07,200000
+ORD-00609,2025-07-17,Makassar,Fashion,Jaket,1,250000,5,Transfer Bank,2025-07,237500
+ORD-00610,2025-07-17,Surabaya,Elektronik,Earphone,1,150000,5,Transfer Bank,2025-07,142500
+ORD-00611,2025-07-17,Surabaya,Rumah Tangga,Lampu LED,1,45000,5,Kartu Kredit,2025-07,42750
+ORD-00612,2025-07-18,Jakarta,Elektronik,Smartwatch,3,650000,0,E-Wallet,2025-07,1950000
+ORD-00613,2025-07-18,Surabaya,Rumah Tangga,Blender,2,320000,0,COD,2025-07,640000
+ORD-00614,2025-07-18,Bandung,Elektronik,Earphone,3,150000,0,COD,2025-07,450000
+ORD-00615,2025-07-19,Jakarta,Elektronik,Smartwatch,2,650000,10,COD,2025-07,1170000
+ORD-00616,2025-07-20,Surabaya,Kecantikan,Serum,3,120000,0,Tidak Diketahui,2025-07,360000
+ORD-00617,2025-07-20,Jakarta,Rumah Tangga,Blender,2,320000,5,Transfer Bank,2025-07,608000
+ORD-00618,2025-07-21,Makassar,Elektronik,Smartwatch,1,650000,0,E-Wallet,2025-07,650000
+ORD-00619,2025-07-21,Makassar,Fashion,Jaket,5,250000,5,COD,2025-07,1187500
+ORD-00620,2025-07-21,Medan,Fashion,Jaket,1,250000,0,Kartu Kredit,2025-07,250000
+ORD-00621,2025-07-21,Surabaya,Kecantikan,Serum,2,120000,0,Transfer Bank,2025-07,240000
+ORD-00622,2025-07-22,Bandung,Elektronik,Earphone,1,150000,0,Transfer Bank,2025-07,150000
+ORD-00623,2025-07-22,Medan,Kecantikan,Parfum,1,180000,5,COD,2025-07,171000
+ORD-00624,2025-07-22,Jakarta,Fashion,Jaket,1,250000,0,E-Wallet,2025-07,250000
+ORD-00625,2025-07-22,Surabaya,Fashion,Jaket,1,250000,0,COD,2025-07,250000
+ORD-00626,2025-07-23,Jakarta,Elektronik,Earphone,1,150000,0,E-Wallet,2025-07,150000
+ORD-00627,2025-07-23,Makassar,Elektronik,Power Bank,4,220000,0,E-Wallet,2025-07,880000
+ORD-00628,2025-07-23,Medan,Fashion,Kaos,3,85000,0,Transfer Bank,2025-07,255000
+ORD-00629,2025-07-23,Medan,Fashion,Sepatu,1,375000,5,Transfer Bank,2025-07,356250
+ORD-00630,2025-07-24,Makassar,Rumah Tangga,Lampu LED,2,45000,0,E-Wallet,2025-07,90000
+ORD-00631,2025-07-24,Tidak Diketahui,Fashion,Jaket,3,250000,0,Transfer Bank,2025-07,750000
+ORD-00632,2025-07-25,Jakarta,Fashion,Sepatu,1,375000,5,Transfer Bank,2025-07,356250
+ORD-00633,2025-07-25,Jakarta,Elektronik,Power Bank,3,220000,20,Transfer Bank,2025-07,528000
+ORD-00634,2025-07-27,Surabaya,Rumah Tangga,Blender,5,320000,0,Transfer Bank,2025-07,1600000
+ORD-00635,2025-07-27,Surabaya,Fashion,Jaket,2,250000,0,COD,2025-07,500000
+ORD-00636,2025-07-28,Bandung,Kecantikan,Parfum,2,180000,0,E-Wallet,2025-07,360000
+ORD-00637,2025-07-28,Makassar,Fashion,Sepatu,1,375000,0,E-Wallet,2025-07,375000
+ORD-00638,2025-07-28,Jakarta,Elektronik,Smartwatch,1,650000,0,Transfer Bank,2025-07,650000
+ORD-00639,2025-07-28,Jakarta,Fashion,Jaket,2,250000,10,E-Wallet,2025-07,450000
+ORD-00640,2025-07-28,Jakarta,Elektronik,Smartwatch,2,650000,0,Transfer Bank,2025-07,1300000
+ORD-00641,2025-07-28,Jakarta,Fashion,Kaos,2,85000,0,E-Wallet,2025-07,170000
+ORD-00642,2025-07-29,Jakarta,Kecantikan,Serum,2,120000,0,E-Wallet,2025-07,240000
+ORD-00643,2025-07-29,Jakarta,Kecantikan,Sunscreen,4,75000,5,COD,2025-07,285000
+ORD-00644,2025-07-30,Jakarta,Elektronik,Power Bank,2,220000,0,Transfer Bank,2025-07,440000
+ORD-00645,2025-07-30,Jakarta,Rumah Tangga,Panci Set,1,280000,0,E-Wallet,2025-07,280000
+ORD-00646,2025-07-30,Jakarta,Kecantikan,Sunscreen,1,75000,0,E-Wallet,2025-07,75000
+ORD-00647,2025-07-31,Bandung,Fashion,Sepatu,1,375000,20,Transfer Bank,2025-07,300000
+ORD-00648,2025-07-31,Bandung,Kecantikan,Parfum,2,180000,20,E-Wallet,2025-07,288000
+ORD-00649,2025-08-01,Surabaya,Fashion,Sepatu,2,375000,0,COD,2025-08,750000
+ORD-00650,2025-08-01,Bandung,Rumah Tangga,Blender,1,320000,0,Transfer Bank,2025-08,320000
+ORD-00651,2025-08-01,Jakarta,Elektronik,Power Bank,1,220000,5,E-Wallet,2025-08,209000
+ORD-00652,2025-08-02,Makassar,Kecantikan,Serum,2,120000,20,COD,2025-08,192000
+ORD-00653,2025-08-04,Jakarta,Fashion,Sepatu,2,375000,0,Transfer Bank,2025-08,750000
+ORD-00654,2025-08-05,Makassar,Fashion,Sepatu,1,375000,0,Transfer Bank,2025-08,375000
+ORD-00655,2025-08-06,Surabaya,Fashion,Sepatu,1,375000,0,Transfer Bank,2025-08,375000
+ORD-00656,2025-08-06,Medan,Fashion,Sepatu,2,375000,0,E-Wallet,2025-08,750000
+ORD-00657,2025-08-06,Bandung,Fashion,Jaket,2,250000,0,Kartu Kredit,2025-08,500000
+ORD-00658,2025-08-06,Jakarta,Fashion,Jaket,1,250000,0,E-Wallet,2025-08,250000
+ORD-00659,2025-08-06,Jakarta,Fashion,Jaket,2,250000,5,E-Wallet,2025-08,475000
+ORD-00660,2025-08-06,Jakarta,Fashion,Sepatu,1,375000,10,Kartu Kredit,2025-08,337500
+ORD-00661,2025-08-06,Surabaya,Fashion,Kaos,3,85000,0,COD,2025-08,255000
+ORD-00662,2025-08-06,Jakarta,Elektronik,Earphone,1,150000,0,COD,2025-08,150000
+ORD-00663,2025-08-06,Bandung,Fashion,Jaket,1,250000,0,Transfer Bank,2025-08,250000
+ORD-00664,2025-08-07,Jakarta,Rumah Tangga,Blender,3,320000,0,COD,2025-08,960000
+ORD-00665,2025-08-07,Jakarta,Kecantikan,Sunscreen,4,75000,0,E-Wallet,2025-08,300000
+ORD-00666,2025-08-07,Jakarta,Elektronik,Earphone,2,150000,10,Transfer Bank,2025-08,270000
+ORD-00667,2025-08-07,Jakarta,Rumah Tangga,Lampu LED,1,45000,0,E-Wallet,2025-08,45000
+ORD-00668,2025-08-08,Bandung,Rumah Tangga,Panci Set,1,280000,5,E-Wallet,2025-08,266000
+ORD-00669,2025-08-09,Jakarta,Fashion,Kaos,2,85000,0,E-Wallet,2025-08,170000
+ORD-00670,2025-08-09,Surabaya,Elektronik,Power Bank,2,220000,0,COD,2025-08,440000
+ORD-00671,2025-08-10,Surabaya,Kecantikan,Parfum,1,180000,20,Transfer Bank,2025-08,144000
+ORD-00672,2025-08-11,Bandung,Fashion,Kaos,1,85000,5,E-Wallet,2025-08,80750
+ORD-00673,2025-08-11,Medan,Elektronik,Smartwatch,3,650000,0,Transfer Bank,2025-08,1950000
+ORD-00674,2025-08-11,Medan,Elektronik,Power Bank,2,220000,5,COD,2025-08,418000
+ORD-00675,2025-08-11,Jakarta,Elektronik,Earphone,1,150000,0,E-Wallet,2025-08,150000
+ORD-00676,2025-08-12,Jakarta,Kecantikan,Parfum,3,180000,5,Tidak Diketahui,2025-08,513000
+ORD-00677,2025-08-12,Bandung,Kecantikan,Sunscreen,1,75000,0,COD,2025-08,75000
+ORD-00678,2025-08-13,Jakarta,Fashion,Jaket,1,250000,0,COD,2025-08,250000
+ORD-00679,2025-08-13,Surabaya,Fashion,Jaket,3,250000,0,E-Wallet,2025-08,750000
+ORD-00680,2025-08-13,Bandung,Elektronik,Smartwatch,2,650000,5,Transfer Bank,2025-08,1235000
+ORD-00681,2025-08-14,Surabaya,Kecantikan,Serum,5,120000,0,COD,2025-08,600000
+ORD-00682,2025-08-14,Medan,Fashion,Kaos,2,85000,5,Transfer Bank,2025-08,161500
+ORD-00683,2025-08-14,Makassar,Rumah Tangga,Panci Set,1,280000,0,COD,2025-08,280000
+ORD-00684,2025-08-15,Bandung,Elektronik,Earphone,2,150000,0,Transfer Bank,2025-08,300000
+ORD-00685,2025-08-16,Tidak Diketahui,Fashion,Jaket,1,250000,0,E-Wallet,2025-08,250000
+ORD-00686,2025-08-17,Surabaya,Elektronik,Earphone,2,150000,0,E-Wallet,2025-08,300000
+ORD-00687,2025-08-17,Bandung,Kecantikan,Parfum,2,180000,0,COD,2025-08,360000
+ORD-00688,2025-08-17,Makassar,Kecantikan,Serum,1,120000,0,Transfer Bank,2025-08,120000
+ORD-00689,2025-08-17,Surabaya,Fashion,Kaos,1,85000,10,Transfer Bank,2025-08,76500
+ORD-00690,2025-08-19,Medan,Elektronik,Earphone,2,150000,0,E-Wallet,2025-08,300000
+ORD-00691,2025-08-19,Bandung,Elektronik,Smartwatch,1,650000,5,Transfer Bank,2025-08,617500
+ORD-00692,2025-08-19,Surabaya,Rumah Tangga,Blender,1,320000,0,E-Wallet,2025-08,320000
+ORD-00694,2025-08-20,Surabaya,Elektronik,Power Bank,1,220000,0,E-Wallet,2025-08,220000
+ORD-00695,2025-08-20,Bandung,Fashion,Jaket,4,250000,10,COD,2025-08,900000
+ORD-00696,2025-08-20,Surabaya,Rumah Tangga,Panci Set,2,280000,0,E-Wallet,2025-08,560000
+ORD-00697,2025-08-20,Jakarta,Fashion,Jaket,3,250000,0,E-Wallet,2025-08,750000
+ORD-00698,2025-08-20,Jakarta,Rumah Tangga,Blender,4,320000,0,Kartu Kredit,2025-08,1280000
+ORD-00699,2025-08-21,Jakarta,Rumah Tangga,Blender,1,320000,0,Transfer Bank,2025-08,320000
+ORD-00700,2025-08-21,Jakarta,Kecantikan,Sunscreen,3,75000,0,Kartu Kredit,2025-08,225000
+ORD-00701,2025-08-21,Surabaya,Elektronik,Smartwatch,1,650000,10,Transfer Bank,2025-08,585000
+ORD-00702,2025-08-21,Bandung,Fashion,Jaket,2,250000,0,Transfer Bank,2025-08,500000
+ORD-00703,2025-08-21,Jakarta,Elektronik,Smartwatch,4,650000,0,E-Wallet,2025-08,2600000
+ORD-00704,2025-08-21,Jakarta,Fashion,Kaos,2,85000,0,E-Wallet,2025-08,170000
+ORD-00705,2025-08-23,Makassar,Fashion,Sepatu,1,375000,0,Transfer Bank,2025-08,375000
+ORD-00706,2025-08-23,Surabaya,Fashion,Jaket,1,250000,5,E-Wallet,2025-08,237500
+ORD-00707,2025-08-23,Bandung,Elektronik,Smartwatch,3,650000,0,Tidak Diketahui,2025-08,1950000
+ORD-00708,2025-08-23,Bandung,Fashion,Sepatu,3,375000,0,E-Wallet,2025-08,1125000
+ORD-00709,2025-08-23,Surabaya,Kecantikan,Sunscreen,2,75000,10,COD,2025-08,135000
+ORD-00710,2025-08-23,Jakarta,Fashion,Jaket,1,250000,5,COD,2025-08,237500
+ORD-00711,2025-08-23,Jakarta,Fashion,Sepatu,2,375000,10,Transfer Bank,2025-08,675000
+ORD-00712,2025-08-24,Surabaya,Rumah Tangga,Blender,4,320000,0,Kartu Kredit,2025-08,1280000
+ORD-00713,2025-08-25,Jakarta,Rumah Tangga,Lampu LED,2,45000,5,E-Wallet,2025-08,85500
+ORD-00714,2025-08-25,Surabaya,Fashion,Sepatu,2,375000,0,E-Wallet,2025-08,750000
+ORD-00715,2025-08-25,Makassar,Elektronik,Smartwatch,1,650000,0,Transfer Bank,2025-08,650000
+ORD-00716,2025-08-25,Medan,Fashion,Sepatu,2,375000,0,Transfer Bank,2025-08,750000
+ORD-00717,2025-08-25,Surabaya,Elektronik,Power Bank,2,220000,0,Kartu Kredit,2025-08,440000
+ORD-00718,2025-08-26,Medan,Fashion,Sepatu,4,375000,0,Kartu Kredit,2025-08,1500000
+ORD-00719,2025-08-26,Jakarta,Fashion,Kaos,2,85000,0,Transfer Bank,2025-08,170000
+ORD-00720,2025-08-27,Jakarta,Elektronik,Power Bank,2,220000,0,E-Wallet,2025-08,440000
+ORD-00721,2025-08-28,Jakarta,Kecantikan,Serum,1,120000,5,COD,2025-08,114000
+ORD-00722,2025-08-28,Surabaya,Fashion,Sepatu,1,375000,0,COD,2025-08,375000
+ORD-00723,2025-08-28,Jakarta,Rumah Tangga,Lampu LED,1,45000,0,Transfer Bank,2025-08,45000
+ORD-00724,2025-08-29,Bandung,Elektronik,Smartwatch,2,650000,5,E-Wallet,2025-08,1235000
+ORD-00725,2025-08-29,Tidak Diketahui,Elektronik,Earphone,3,150000,0,E-Wallet,2025-08,450000
+ORD-00726,2025-08-29,Surabaya,Kecantikan,Parfum,2,180000,5,Transfer Bank,2025-08,342000
+ORD-00727,2025-08-30,Makassar,Rumah Tangga,Blender,1,320000,0,COD,2025-08,320000
+ORD-00728,2025-08-30,Jakarta,Fashion,Sepatu,1,375000,0,E-Wallet,2025-08,375000
+ORD-00729,2025-08-30,Jakarta,Elektronik,Power Bank,4,220000,0,Transfer Bank,2025-08,880000
+ORD-00730,2025-08-31,Jakarta,Fashion,Kaos,5,85000,10,E-Wallet,2025-08,382500
+ORD-00731,2025-09-01,Jakarta,Fashion,Kaos,1,85000,0,Transfer Bank,2025-09,85000
+ORD-00732,2025-09-01,Jakarta,Fashion,Jaket,1,250000,0,E-Wallet,2025-09,250000
+ORD-00733,2025-09-01,Jakarta,Elektronik,Earphone,1,150000,10,Kartu Kredit,2025-09,135000
+ORD-00734,2025-09-02,Bandung,Fashion,Kaos,2,85000,5,Transfer Bank,2025-09,161500
+ORD-00735,2025-09-02,Surabaya,Elektronik,Smartwatch,1,650000,0,E-Wallet,2025-09,650000
+ORD-00736,2025-09-02,Bandung,Fashion,Jaket,2,250000,0,Transfer Bank,2025-09,500000
+ORD-00737,2025-09-03,Bandung,Elektronik,Smartwatch,1,650000,0,COD,2025-09,650000
+ORD-00738,2025-09-03,Medan,Rumah Tangga,Lampu LED,2,45000,0,E-Wallet,2025-09,90000
+ORD-00739,2025-09-03,Surabaya,Elektronik,Smartwatch,1,650000,10,E-Wallet,2025-09,585000
+ORD-00740,2025-09-03,Jakarta,Elektronik,Power Bank,3,220000,10,E-Wallet,2025-09,594000
+ORD-00741,2025-09-05,Medan,Kecantikan,Serum,3,120000,0,COD,2025-09,360000
+ORD-00742,2025-09-05,Surabaya,Fashion,Sepatu,1,375000,5,Kartu Kredit,2025-09,356250
+ORD-00743,2025-09-05,Bandung,Fashion,Sepatu,1,375000,0,COD,2025-09,375000
+ORD-00744,2025-09-06,Jakarta,Fashion,Sepatu,2,375000,0,E-Wallet,2025-09,750000
+ORD-00745,2025-09-07,Surabaya,Kecantikan,Serum,2,120000,20,Transfer Bank,2025-09,192000
+ORD-00746,2025-09-07,Jakarta,Fashion,Sepatu,2,375000,5,COD,2025-09,712500
+ORD-00747,2025-09-07,Surabaya,Fashion,Kaos,5,85000,0,Transfer Bank,2025-09,425000
+ORD-00748,2025-09-07,Bandung,Fashion,Kaos,1,85000,0,E-Wallet,2025-09,85000
+ORD-00749,2025-09-07,Jakarta,Fashion,Kaos,4,85000,0,E-Wallet,2025-09,340000
+ORD-00750,2025-09-08,Tidak Diketahui,Elektronik,Power Bank,3,220000,0,Transfer Bank,2025-09,660000
+ORD-00751,2025-09-08,Makassar,Elektronik,Smartwatch,1,650000,0,COD,2025-09,650000
+ORD-00752,2025-09-08,Jakarta,Rumah Tangga,Panci Set,1,280000,0,COD,2025-09,280000
+ORD-00753,2025-09-08,Medan,Rumah Tangga,Lampu LED,1,45000,0,Transfer Bank,2025-09,45000
+ORD-00754,2025-09-08,Surabaya,Kecantikan,Serum,1,120000,0,COD,2025-09,120000
+ORD-00755,2025-09-08,Jakarta,Rumah Tangga,Blender,4,320000,10,E-Wallet,2025-09,1152000
+ORD-00756,2025-09-09,Makassar,Rumah Tangga,Panci Set,4,280000,5,E-Wallet,2025-09,1064000
+ORD-00757,2025-09-09,Surabaya,Fashion,Kaos,1,85000,0,Kartu Kredit,2025-09,85000
+ORD-00758,2025-09-10,Makassar,Kecantikan,Parfum,1,180000,10,COD,2025-09,162000
+ORD-00759,2025-09-10,Makassar,Fashion,Jaket,1,250000,5,E-Wallet,2025-09,237500
+ORD-00760,2025-09-10,Jakarta,Rumah Tangga,Blender,2,320000,0,COD,2025-09,640000
+ORD-00761,2025-09-11,Medan,Elektronik,Smartwatch,1,650000,0,COD,2025-09,650000
+ORD-00762,2025-09-12,Jakarta,Elektronik,Smartwatch,2,650000,20,E-Wallet,2025-09,1040000
+ORD-00763,2025-09-12,Bandung,Fashion,Sepatu,1,375000,0,E-Wallet,2025-09,375000
+ORD-00764,2025-09-13,Surabaya,Fashion,Sepatu,1,375000,5,Transfer Bank,2025-09,356250
+ORD-00765,2025-09-14,Surabaya,Fashion,Sepatu,2,375000,0,Transfer Bank,2025-09,750000
+ORD-00766,2025-09-14,Medan,Elektronik,Earphone,1,150000,10,E-Wallet,2025-09,135000
+ORD-00767,2025-09-14,Bandung,Elektronik,Smartwatch,1,650000,20,Transfer Bank,2025-09,520000
+ORD-00768,2025-09-14,Bandung,Fashion,Sepatu,2,375000,10,Transfer Bank,2025-09,675000
+ORD-00769,2025-09-15,Makassar,Kecantikan,Sunscreen,3,75000,20,E-Wallet,2025-09,180000
+ORD-00770,2025-09-15,Bandung,Fashion,Jaket,2,250000,0,COD,2025-09,500000
+ORD-00771,2025-09-16,Jakarta,Elektronik,Power Bank,4,220000,0,Transfer Bank,2025-09,880000
+ORD-00772,2025-09-16,Medan,Kecantikan,Parfum,3,180000,20,Transfer Bank,2025-09,432000
+ORD-00773,2025-09-16,Bandung,Kecantikan,Serum,1,120000,0,E-Wallet,2025-09,120000
+ORD-00774,2025-09-16,Jakarta,Rumah Tangga,Panci Set,4,280000,0,Transfer Bank,2025-09,1120000
+ORD-00775,2025-09-16,Jakarta,Rumah Tangga,Panci Set,2,280000,0,Transfer Bank,2025-09,560000
+ORD-00776,2025-09-16,Jakarta,Rumah Tangga,Blender,3,320000,10,Transfer Bank,2025-09,864000
+ORD-00777,2025-09-16,Surabaya,Fashion,Sepatu,1,375000,20,Transfer Bank,2025-09,300000
+ORD-00778,2025-09-16,Jakarta,Rumah Tangga,Blender,1,320000,0,E-Wallet,2025-09,320000
+ORD-00779,2025-09-16,Jakarta,Kecantikan,Parfum,1,180000,0,Kartu Kredit,2025-09,180000
+ORD-00780,2025-09-16,Medan,Kecantikan,Sunscreen,1,75000,0,COD,2025-09,75000
+ORD-00781,2025-09-17,Jakarta,Fashion,Sepatu,1,375000,10,Transfer Bank,2025-09,337500
+ORD-00782,2025-09-17,Jakarta,Kecantikan,Serum,1,120000,0,Transfer Bank,2025-09,120000
+ORD-00783,2025-09-17,Surabaya,Fashion,Jaket,3,250000,0,Transfer Bank,2025-09,750000
+ORD-00784,2025-09-18,Medan,Fashion,Kaos,2,85000,0,E-Wallet,2025-09,170000
+ORD-00785,2025-09-19,Jakarta,Fashion,Sepatu,5,375000,0,Transfer Bank,2025-09,1875000
+ORD-00786,2025-09-19,Surabaya,Elektronik,Earphone,1,150000,0,Tidak Diketahui,2025-09,150000
+ORD-00787,2025-09-19,Makassar,Rumah Tangga,Blender,1,320000,0,Kartu Kredit,2025-09,320000
+ORD-00788,2025-09-20,Jakarta,Kecantikan,Sunscreen,3,75000,0,E-Wallet,2025-09,225000
+ORD-00789,2025-09-20,Jakarta,Kecantikan,Serum,2,120000,0,Transfer Bank,2025-09,240000
+ORD-00790,2025-09-20,Bandung,Kecantikan,Parfum,2,180000,5,E-Wallet,2025-09,342000
+ORD-00791,2025-09-20,Surabaya,Fashion,Kaos,2,85000,0,Transfer Bank,2025-09,170000
+ORD-00792,2025-09-20,Bandung,Elektronik,Smartwatch,1,650000,5,COD,2025-09,617500
+ORD-00793,2025-09-20,Surabaya,Fashion,Jaket,1,250000,20,E-Wallet,2025-09,200000
+ORD-00794,2025-09-21,Jakarta,Elektronik,Earphone,4,150000,0,E-Wallet,2025-09,600000
+ORD-00795,2025-09-21,Medan,Elektronik,Smartwatch,1,650000,0,E-Wallet,2025-09,650000
+ORD-00796,2025-09-21,Jakarta,Kecantikan,Sunscreen,1,75000,20,E-Wallet,2025-09,60000
+ORD-00797,2025-09-22,Surabaya,Kecantikan,Parfum,1,180000,0,COD,2025-09,180000
+ORD-00798,2025-09-22,Makassar,Rumah Tangga,Lampu LED,2,45000,0,E-Wallet,2025-09,90000
+ORD-00799,2025-09-22,Medan,Rumah Tangga,Panci Set,2,280000,0,E-Wallet,2025-09,560000
+ORD-00800,2025-09-23,Makassar,Rumah Tangga,Panci Set,1,280000,5,E-Wallet,2025-09,266000
+ORD-00801,2025-09-23,Medan,Fashion,Jaket,4,250000,0,E-Wallet,2025-09,1000000
+ORD-00802,2025-09-23,Surabaya,Elektronik,Earphone,1,150000,5,Transfer Bank,2025-09,142500
+ORD-00803,2025-09-24,Surabaya,Rumah Tangga,Lampu LED,2,45000,0,E-Wallet,2025-09,90000
+ORD-00804,2025-09-24,Surabaya,Kecantikan,Sunscreen,1,75000,0,E-Wallet,2025-09,75000
+ORD-00805,2025-09-24,Jakarta,Rumah Tangga,Blender,2,320000,5,COD,2025-09,608000
+ORD-00806,2025-09-25,Jakarta,Elektronik,Power Bank,1,220000,0,E-Wallet,2025-09,220000
+ORD-00807,2025-09-25,Surabaya,Elektronik,Smartwatch,1,650000,5,Transfer Bank,2025-09,617500
+ORD-00808,2025-09-25,Bandung,Fashion,Kaos,3,85000,10,E-Wallet,2025-09,229500
+ORD-00809,2025-09-26,Surabaya,Rumah Tangga,Lampu LED,1,45000,0,Transfer Bank,2025-09,45000
+ORD-00810,2025-09-26,Bandung,Kecantikan,Sunscreen,2,75000,0,Transfer Bank,2025-09,150000
+ORD-00811,2025-09-26,Medan,Elektronik,Smartwatch,1,650000,5,E-Wallet,2025-09,617500
+ORD-00812,2025-09-26,Bandung,Elektronik,Smartwatch,1,650000,0,COD,2025-09,650000
+ORD-00813,2025-09-27,Surabaya,Fashion,Jaket,3,250000,5,COD,2025-09,712500
+ORD-00814,2025-09-28,Bandung,Fashion,Sepatu,2,375000,10,Transfer Bank,2025-09,675000
+ORD-00815,2025-09-28,Bandung,Fashion,Kaos,3,85000,0,Transfer Bank,2025-09,255000
+ORD-00817,2025-09-28,Bandung,Rumah Tangga,Blender,1,320000,0,COD,2025-09,320000
+ORD-00818,2025-09-29,Jakarta,Rumah Tangga,Lampu LED,1,45000,10,COD,2025-09,40500
+ORD-00819,2025-09-29,Jakarta,Elektronik,Power Bank,1,220000,10,E-Wallet,2025-09,198000
+ORD-00820,2025-09-29,Makassar,Fashion,Sepatu,3,375000,0,E-Wallet,2025-09,1125000
+ORD-00821,2025-09-30,Makassar,Rumah Tangga,Lampu LED,2,45000,0,Transfer Bank,2025-09,90000
+ORD-00822,2025-09-30,Makassar,Kecantikan,Serum,1,120000,0,COD,2025-09,120000
+ORD-00823,2025-09-30,Medan,Elektronik,Earphone,3,150000,10,E-Wallet,2025-09,405000
+ORD-00824,2025-10-03,Makassar,Fashion,Kaos,1,85000,0,Kartu Kredit,2025-10,85000
+ORD-00825,2025-10-03,Jakarta,Rumah Tangga,Lampu LED,4,45000,5,E-Wallet,2025-10,171000
+ORD-00826,2025-10-03,Bandung,Kecantikan,Parfum,2,180000,5,COD,2025-10,342000
+ORD-00827,2025-10-04,Jakarta,Kecantikan,Serum,1,120000,20,Kartu Kredit,2025-10,96000
+ORD-00828,2025-10-04,Jakarta,Kecantikan,Parfum,1,180000,10,COD,2025-10,162000
+ORD-00829,2025-10-05,Jakarta,Elektronik,Earphone,2,150000,0,Transfer Bank,2025-10,300000
+ORD-00830,2025-10-05,Makassar,Elektronik,Power Bank,3,220000,20,E-Wallet,2025-10,528000
+ORD-00831,2025-10-05,Surabaya,Fashion,Sepatu,1,375000,5,COD,2025-10,356250
+ORD-00832,2025-10-05,Jakarta,Kecantikan,Serum,2,120000,0,Transfer Bank,2025-10,240000
+ORD-00833,2025-10-05,Surabaya,Rumah Tangga,Lampu LED,1,45000,20,Kartu Kredit,2025-10,36000
+ORD-00834,2025-10-06,Medan,Fashion,Jaket,1,250000,5,COD,2025-10,237500
+ORD-00835,2025-10-06,Bandung,Kecantikan,Parfum,3,180000,5,Transfer Bank,2025-10,513000
+ORD-00836,2025-10-06,Medan,Elektronik,Smartwatch,2,650000,0,Kartu Kredit,2025-10,1300000
+ORD-00837,2025-10-07,Bandung,Rumah Tangga,Panci Set,2,280000,10,E-Wallet,2025-10,504000
+ORD-00838,2025-10-07,Surabaya,Fashion,Jaket,2,250000,10,Transfer Bank,2025-10,450000
+ORD-00839,2025-10-08,Jakarta,Rumah Tangga,Lampu LED,2,45000,5,E-Wallet,2025-10,85500
+ORD-00840,2025-10-09,Jakarta,Rumah Tangga,Panci Set,1,280000,0,E-Wallet,2025-10,280000
+ORD-00841,2025-10-09,Surabaya,Rumah Tangga,Blender,1,320000,0,Transfer Bank,2025-10,320000
+ORD-00842,2025-10-09,Jakarta,Rumah Tangga,Lampu LED,2,45000,10,E-Wallet,2025-10,81000
+ORD-00843,2025-10-10,Surabaya,Fashion,Sepatu,2,375000,0,COD,2025-10,750000
+ORD-00844,2025-10-10,Bandung,Fashion,Kaos,1,85000,0,E-Wallet,2025-10,85000
+ORD-00845,2025-10-11,Bandung,Fashion,Jaket,4,250000,20,Transfer Bank,2025-10,800000
+ORD-00846,2025-10-12,Medan,Elektronik,Power Bank,5,220000,10,Transfer Bank,2025-10,990000
+ORD-00847,2025-10-12,Medan,Fashion,Jaket,2,250000,0,E-Wallet,2025-10,500000
+ORD-00848,2025-10-13,Surabaya,Fashion,Kaos,1,85000,5,COD,2025-10,80750
+ORD-00849,2025-10-13,Medan,Rumah Tangga,Panci Set,2,280000,0,Transfer Bank,2025-10,560000
+ORD-00850,2025-10-13,Jakarta,Rumah Tangga,Blender,1,320000,0,Transfer Bank,2025-10,320000
+ORD-00851,2025-10-13,Jakarta,Fashion,Jaket,2,250000,0,E-Wallet,2025-10,500000
+ORD-00852,2025-10-14,Medan,Elektronik,Power Bank,4,220000,0,Transfer Bank,2025-10,880000
+ORD-00853,2025-10-14,Medan,Fashion,Jaket,1,250000,20,E-Wallet,2025-10,200000
+ORD-00854,2025-10-15,Medan,Fashion,Kaos,1,85000,10,Transfer Bank,2025-10,76500
+ORD-00855,2025-10-16,Jakarta,Kecantikan,Serum,3,120000,0,Transfer Bank,2025-10,360000
+ORD-00856,2025-10-16,Bandung,Rumah Tangga,Panci Set,4,280000,5,E-Wallet,2025-10,1064000
+ORD-00857,2025-10-16,Makassar,Fashion,Sepatu,1,375000,0,Transfer Bank,2025-10,375000
+ORD-00858,2025-10-16,Surabaya,Fashion,Kaos,3,85000,10,COD,2025-10,229500
+ORD-00859,2025-10-16,Jakarta,Fashion,Jaket,3,250000,0,E-Wallet,2025-10,750000
+ORD-00860,2025-10-17,Medan,Elektronik,Power Bank,3,220000,10,Transfer Bank,2025-10,594000
+ORD-00861,2025-10-18,Jakarta,Kecantikan,Serum,1,120000,0,E-Wallet,2025-10,120000
+ORD-00862,2025-10-18,Bandung,Elektronik,Earphone,2,150000,10,COD,2025-10,270000
+ORD-00863,2025-10-19,Medan,Fashion,Sepatu,1,375000,0,Transfer Bank,2025-10,375000
+ORD-00864,2025-10-19,Bandung,Rumah Tangga,Blender,2,320000,0,E-Wallet,2025-10,640000
+ORD-00865,2025-10-19,Tidak Diketahui,Fashion,Sepatu,2,375000,0,Transfer Bank,2025-10,750000
+ORD-00866,2025-10-20,Jakarta,Rumah Tangga,Blender,1,320000,0,E-Wallet,2025-10,320000
+ORD-00867,2025-10-20,Jakarta,Fashion,Sepatu,3,375000,0,E-Wallet,2025-10,1125000
+ORD-00868,2025-10-20,Bandung,Rumah Tangga,Lampu LED,1,45000,0,Kartu Kredit,2025-10,45000
+ORD-00869,2025-10-20,Surabaya,Kecantikan,Parfum,1,180000,0,E-Wallet,2025-10,180000
+ORD-00870,2025-10-21,Bandung,Fashion,Kaos,3,85000,0,E-Wallet,2025-10,255000
+ORD-00871,2025-10-21,Bandung,Fashion,Jaket,4,250000,0,Transfer Bank,2025-10,1000000
+ORD-00872,2025-10-21,Makassar,Rumah Tangga,Blender,4,320000,5,E-Wallet,2025-10,1216000
+ORD-00873,2025-10-21,Medan,Fashion,Sepatu,3,375000,0,Transfer Bank,2025-10,1125000
+ORD-00874,2025-10-21,Jakarta,Fashion,Sepatu,1,375000,0,E-Wallet,2025-10,375000
+ORD-00875,2025-10-22,Medan,Kecantikan,Serum,3,120000,5,Transfer Bank,2025-10,342000
+ORD-00876,2025-10-23,Jakarta,Rumah Tangga,Lampu LED,1,45000,0,COD,2025-10,45000
+ORD-00877,2025-10-23,Makassar,Rumah Tangga,Lampu LED,4,45000,0,COD,2025-10,180000
+ORD-00878,2025-10-23,Medan,Kecantikan,Parfum,1,180000,0,Tidak Diketahui,2025-10,180000
+ORD-00879,2025-10-23,Bandung,Elektronik,Power Bank,1,220000,0,Kartu Kredit,2025-10,220000
+ORD-00880,2025-10-23,Makassar,Kecantikan,Serum,1,120000,0,E-Wallet,2025-10,120000
+ORD-00881,2025-10-24,Medan,Fashion,Sepatu,5,375000,0,E-Wallet,2025-10,1875000
+ORD-00882,2025-10-24,Jakarta,Fashion,Kaos,1,85000,0,E-Wallet,2025-10,85000
+ORD-00883,2025-10-24,Jakarta,Fashion,Kaos,1,85000,0,Transfer Bank,2025-10,85000
+ORD-00884,2025-10-24,Medan,Fashion,Sepatu,4,375000,5,E-Wallet,2025-10,1425000
+ORD-00885,2025-10-25,Jakarta,Elektronik,Smartwatch,3,650000,0,Transfer Bank,2025-10,1950000
+ORD-00886,2025-10-25,Jakarta,Fashion,Jaket,4,250000,0,Transfer Bank,2025-10,1000000
+ORD-00887,2025-10-26,Bandung,Elektronik,Earphone,2,150000,0,Transfer Bank,2025-10,300000
+ORD-00888,2025-10-26,Jakarta,Kecantikan,Parfum,1,180000,5,Transfer Bank,2025-10,171000
+ORD-00889,2025-10-26,Bandung,Elektronik,Smartwatch,1,650000,0,Tidak Diketahui,2025-10,650000
+ORD-00890,2025-10-26,Jakarta,Elektronik,Smartwatch,2,650000,5,Kartu Kredit,2025-10,1235000
+ORD-00891,2025-10-26,Bandung,Fashion,Jaket,2,250000,0,E-Wallet,2025-10,500000
+ORD-00892,2025-10-27,Medan,Elektronik,Earphone,3,150000,0,Kartu Kredit,2025-10,450000
+ORD-00893,2025-10-27,Bandung,Kecantikan,Sunscreen,2,75000,0,E-Wallet,2025-10,150000
+ORD-00894,2025-10-27,Makassar,Fashion,Kaos,1,85000,10,E-Wallet,2025-10,76500
+ORD-00895,2025-10-27,Jakarta,Elektronik,Power Bank,1,220000,0,COD,2025-10,220000
+ORD-00896,2025-10-28,Jakarta,Fashion,Sepatu,1,375000,0,Transfer Bank,2025-10,375000
+ORD-00897,2025-10-29,Jakarta,Fashion,Kaos,2,85000,5,Transfer Bank,2025-10,161500
+ORD-00898,2025-10-29,Jakarta,Fashion,Kaos,4,85000,0,Transfer Bank,2025-10,340000
+ORD-00899,2025-10-30,Jakarta,Fashion,Sepatu,1,375000,5,E-Wallet,2025-10,356250
+ORD-00901,2025-10-31,Bandung,Kecantikan,Sunscreen,1,75000,0,Transfer Bank,2025-10,75000
+ORD-00902,2025-10-31,Jakarta,Fashion,Sepatu,1,375000,20,COD,2025-10,300000
+ORD-00903,2025-10-31,Surabaya,Fashion,Sepatu,4,375000,5,E-Wallet,2025-10,1425000
+ORD-00904,2025-10-31,Jakarta,Fashion,Jaket,2,250000,20,E-Wallet,2025-10,400000
+ORD-00905,2025-10-31,Bandung,Fashion,Sepatu,5,375000,5,E-Wallet,2025-10,1781250
+ORD-00906,2025-11-01,Bandung,Fashion,Jaket,1,250000,0,COD,2025-11,250000
+ORD-00907,2025-11-01,Surabaya,Rumah Tangga,Lampu LED,2,45000,0,E-Wallet,2025-11,90000
+ORD-00908,2025-11-01,Medan,Rumah Tangga,Blender,1,320000,0,E-Wallet,2025-11,320000
+ORD-00909,2025-11-01,Medan,Elektronik,Earphone,1,150000,0,Kartu Kredit,2025-11,150000
+ORD-00910,2025-11-02,Bandung,Fashion,Jaket,2,250000,0,Transfer Bank,2025-11,500000
+ORD-00911,2025-11-02,Jakarta,Rumah Tangga,Panci Set,1,280000,10,Transfer Bank,2025-11,252000
+ORD-00912,2025-11-03,Bandung,Rumah Tangga,Panci Set,2,280000,0,Transfer Bank,2025-11,560000
+ORD-00913,2025-11-03,Jakarta,Fashion,Jaket,1,250000,0,Transfer Bank,2025-11,250000
+ORD-00914,2025-11-03,Jakarta,Fashion,Sepatu,2,375000,0,E-Wallet,2025-11,750000
+ORD-00915,2025-11-03,Bandung,Fashion,Kaos,4,85000,0,COD,2025-11,340000
+ORD-00916,2025-11-03,Bandung,Elektronik,Power Bank,1,220000,0,E-Wallet,2025-11,220000
+ORD-00917,2025-11-03,Surabaya,Kecantikan,Serum,1,120000,0,COD,2025-11,120000
+ORD-00918,2025-11-03,Jakarta,Elektronik,Power Bank,4,220000,20,E-Wallet,2025-11,704000
+ORD-00919,2025-11-03,Jakarta,Fashion,Kaos,1,85000,0,Kartu Kredit,2025-11,85000
+ORD-00920,2025-11-03,Surabaya,Kecantikan,Parfum,1,180000,0,Transfer Bank,2025-11,180000
+ORD-00921,2025-11-03,Jakarta,Kecantikan,Serum,2,120000,0,COD,2025-11,240000
+ORD-00922,2025-11-04,Medan,Elektronik,Earphone,1,150000,0,E-Wallet,2025-11,150000
+ORD-00923,2025-11-04,Jakarta,Elektronik,Power Bank,1,220000,5,Transfer Bank,2025-11,209000
+ORD-00924,2025-11-04,Surabaya,Rumah Tangga,Panci Set,1,280000,10,Transfer Bank,2025-11,252000
+ORD-00925,2025-11-04,Medan,Fashion,Jaket,2,250000,0,Kartu Kredit,2025-11,500000
+ORD-00926,2025-11-04,Medan,Fashion,Kaos,2,85000,20,Kartu Kredit,2025-11,136000
+ORD-00927,2025-11-04,Medan,Kecantikan,Serum,3,120000,5,Tidak Diketahui,2025-11,342000
+ORD-00928,2025-11-04,Jakarta,Kecantikan,Sunscreen,2,75000,0,Transfer Bank,2025-11,150000
+ORD-00929,2025-11-05,Surabaya,Rumah Tangga,Lampu LED,3,45000,0,COD,2025-11,135000
+ORD-00930,2025-11-05,Medan,Elektronik,Earphone,4,150000,0,COD,2025-11,600000
+ORD-00931,2025-11-05,Surabaya,Fashion,Kaos,2,85000,5,Transfer Bank,2025-11,161500
+ORD-00932,2025-11-05,Medan,Fashion,Jaket,1,250000,5,Transfer Bank,2025-11,237500
+ORD-00933,2025-11-05,Bandung,Kecantikan,Parfum,1,180000,0,Kartu Kredit,2025-11,180000
+ORD-00934,2025-11-05,Bandung,Fashion,Jaket,3,250000,0,E-Wallet,2025-11,750000
+ORD-00935,2025-11-05,Surabaya,Fashion,Jaket,3,250000,10,Kartu Kredit,2025-11,675000
+ORD-00936,2025-11-05,Jakarta,Fashion,Kaos,2,85000,20,COD,2025-11,136000
+ORD-00937,2025-11-05,Medan,Fashion,Sepatu,4,375000,10,E-Wallet,2025-11,1350000
+ORD-00938,2025-11-06,Bandung,Fashion,Sepatu,1,375000,20,E-Wallet,2025-11,300000
+ORD-00939,2025-11-06,Surabaya,Fashion,Jaket,2,250000,0,COD,2025-11,500000
+ORD-00940,2025-11-06,Bandung,Fashion,Jaket,1,250000,5,COD,2025-11,237500
+ORD-00941,2025-11-06,Makassar,Kecantikan,Sunscreen,2,75000,0,Transfer Bank,2025-11,150000
+ORD-00942,2025-11-06,Medan,Fashion,Kaos,1,85000,0,COD,2025-11,85000
+ORD-00943,2025-11-06,Surabaya,Kecantikan,Serum,1,120000,10,Transfer Bank,2025-11,108000
+ORD-00944,2025-11-07,Makassar,Elektronik,Power Bank,1,220000,0,Tidak Diketahui,2025-11,220000
+ORD-00945,2025-11-07,Surabaya,Fashion,Kaos,3,85000,10,Transfer Bank,2025-11,229500
+ORD-00946,2025-11-07,Medan,Fashion,Kaos,1,85000,0,Transfer Bank,2025-11,85000
+ORD-00947,2025-11-07,Surabaya,Fashion,Kaos,5,85000,0,E-Wallet,2025-11,425000
+ORD-00948,2025-11-08,Jakarta,Elektronik,Earphone,3,150000,0,Tidak Diketahui,2025-11,450000
+ORD-00949,2025-11-08,Bandung,Fashion,Sepatu,1,375000,10,COD,2025-11,337500
+ORD-00950,2025-11-08,Bandung,Fashion,Kaos,2,85000,10,Transfer Bank,2025-11,153000
+ORD-00951,2025-11-08,Bandung,Elektronik,Earphone,2,150000,0,E-Wallet,2025-11,300000
+ORD-00952,2025-11-09,Jakarta,Fashion,Kaos,4,85000,5,E-Wallet,2025-11,323000
+ORD-00953,2025-11-09,Medan,Fashion,Sepatu,2,375000,0,Kartu Kredit,2025-11,750000
+ORD-00954,2025-11-09,Medan,Kecantikan,Sunscreen,1,75000,0,COD,2025-11,75000
+ORD-00955,2025-11-09,Surabaya,Fashion,Kaos,1,85000,0,E-Wallet,2025-11,85000
+ORD-00956,2025-11-09,Surabaya,Fashion,Sepatu,3,375000,0,COD,2025-11,1125000
+ORD-00957,2025-11-09,Jakarta,Fashion,Kaos,3,85000,5,Transfer Bank,2025-11,242250
+ORD-00958,2025-11-10,Medan,Fashion,Sepatu,1,375000,5,Kartu Kredit,2025-11,356250
+ORD-00959,2025-11-10,Surabaya,Kecantikan,Parfum,5,180000,5,Transfer Bank,2025-11,855000
+ORD-00960,2025-11-10,Medan,Elektronik,Power Bank,1,220000,0,E-Wallet,2025-11,220000
+ORD-00961,2025-11-10,Medan,Rumah Tangga,Blender,3,320000,20,Kartu Kredit,2025-11,768000
+ORD-00963,2025-11-10,Jakarta,Rumah Tangga,Blender,3,320000,0,E-Wallet,2025-11,960000
+ORD-00964,2025-11-10,Bandung,Fashion,Sepatu,2,375000,10,E-Wallet,2025-11,675000
+ORD-00965,2025-11-10,Medan,Fashion,Jaket,1,250000,20,Transfer Bank,2025-11,200000
+ORD-00966,2025-11-10,Surabaya,Fashion,Sepatu,3,375000,0,Transfer Bank,2025-11,1125000
+ORD-00967,2025-11-10,Bandung,Rumah Tangga,Blender,3,320000,5,Transfer Bank,2025-11,912000
+ORD-00968,2025-11-11,Makassar,Fashion,Kaos,1,85000,0,Transfer Bank,2025-11,85000
+ORD-00969,2025-11-11,Jakarta,Fashion,Kaos,1,85000,0,Transfer Bank,2025-11,85000
+ORD-00970,2025-11-11,Makassar,Fashion,Sepatu,2,375000,0,E-Wallet,2025-11,750000
+ORD-00971,2025-11-11,Surabaya,Elektronik,Power Bank,2,220000,5,Kartu Kredit,2025-11,418000
+ORD-00972,2025-11-12,Makassar,Elektronik,Earphone,2,150000,0,COD,2025-11,300000
+ORD-00973,2025-11-12,Surabaya,Elektronik,Earphone,1,150000,10,Transfer Bank,2025-11,135000
+ORD-00974,2025-11-13,Jakarta,Kecantikan,Serum,1,120000,0,COD,2025-11,120000
+ORD-00975,2025-11-14,Tidak Diketahui,Elektronik,Power Bank,2,220000,0,Transfer Bank,2025-11,440000
+ORD-00976,2025-11-14,Bandung,Kecantikan,Parfum,2,180000,5,E-Wallet,2025-11,342000
+ORD-00977,2025-11-14,Surabaya,Rumah Tangga,Lampu LED,2,45000,5,E-Wallet,2025-11,85500
+ORD-00978,2025-11-14,Surabaya,Fashion,Sepatu,1,375000,10,Kartu Kredit,2025-11,337500
+ORD-00979,2025-11-15,Surabaya,Kecantikan,Serum,3,120000,0,E-Wallet,2025-11,360000
+ORD-00980,2025-11-15,Jakarta,Fashion,Sepatu,5,375000,10,E-Wallet,2025-11,1687500
+ORD-00981,2025-11-15,Bandung,Fashion,Sepatu,3,375000,20,E-Wallet,2025-11,900000
+ORD-00982,2025-11-16,Tidak Diketahui,Elektronik,Smartwatch,1,650000,0,Transfer Bank,2025-11,650000
+ORD-00983,2025-11-16,Jakarta,Elektronik,Smartwatch,3,650000,0,COD,2025-11,1950000
+ORD-00984,2025-11-16,Jakarta,Elektronik,Earphone,1,150000,5,Transfer Bank,2025-11,142500
+ORD-00985,2025-11-16,Makassar,Fashion,Kaos,1,85000,0,COD,2025-11,85000
+ORD-00986,2025-11-16,Jakarta,Elektronik,Earphone,3,150000,0,Transfer Bank,2025-11,450000
+ORD-00987,2025-11-16,Makassar,Fashion,Jaket,2,250000,5,Transfer Bank,2025-11,475000
+ORD-00988,2025-11-16,Surabaya,Rumah Tangga,Blender,1,320000,10,E-Wallet,2025-11,288000
+ORD-00989,2025-11-17,Jakarta,Rumah Tangga,Panci Set,2,280000,10,E-Wallet,2025-11,504000
+ORD-00990,2025-11-17,Medan,Elektronik,Earphone,1,150000,0,E-Wallet,2025-11,150000
+ORD-00991,2025-11-17,Jakarta,Elektronik,Earphone,4,150000,0,E-Wallet,2025-11,600000
+ORD-00992,2025-11-18,Surabaya,Kecantikan,Sunscreen,2,75000,0,E-Wallet,2025-11,150000
+ORD-00993,2025-11-18,Medan,Fashion,Sepatu,1,375000,0,Kartu Kredit,2025-11,375000
+ORD-00994,2025-11-18,Medan,Elektronik,Smartwatch,1,650000,5,COD,2025-11,617500
+ORD-00995,2025-11-18,Medan,Fashion,Kaos,1,85000,0,E-Wallet,2025-11,85000
+ORD-00996,2025-11-18,Surabaya,Fashion,Kaos,1,85000,0,Kartu Kredit,2025-11,85000
+ORD-00997,2025-11-18,Surabaya,Elektronik,Earphone,4,150000,5,COD,2025-11,570000
+ORD-00998,2025-11-18,Bandung,Elektronik,Power Bank,4,220000,10,E-Wallet,2025-11,792000
+ORD-00999,2025-11-19,Jakarta,Fashion,Jaket,4,250000,10,E-Wallet,2025-11,900000
+ORD-01000,2025-11-19,Jakarta,Fashion,Jaket,1,250000,5,E-Wallet,2025-11,237500
+ORD-01001,2025-11-19,Makassar,Elektronik,Earphone,1,150000,0,E-Wallet,2025-11,150000
+ORD-01002,2025-11-19,Bandung,Elektronik,Power Bank,2,220000,0,Transfer Bank,2025-11,440000
+ORD-01003,2025-11-20,Surabaya,Kecantikan,Parfum,2,180000,10,COD,2025-11,324000
+ORD-01004,2025-11-20,Surabaya,Kecantikan,Sunscreen,1,75000,0,E-Wallet,2025-11,75000
+ORD-01005,2025-11-20,Bandung,Fashion,Kaos,1,85000,0,Transfer Bank,2025-11,85000
+ORD-01006,2025-11-20,Surabaya,Rumah Tangga,Blender,3,320000,0,COD,2025-11,960000
+ORD-01008,2025-11-21,Surabaya,Fashion,Kaos,1,85000,0,Transfer Bank,2025-11,85000
+ORD-01009,2025-11-21,Surabaya,Elektronik,Power Bank,2,220000,0,COD,2025-11,440000
+ORD-01010,2025-11-21,Jakarta,Elektronik,Earphone,3,150000,10,E-Wallet,2025-11,405000
+ORD-01011,2025-11-21,Medan,Elektronik,Power Bank,1,220000,0,Transfer Bank,2025-11,220000
+ORD-01012,2025-11-21,Makassar,Fashion,Sepatu,2,375000,0,E-Wallet,2025-11,750000
+ORD-01013,2025-11-22,Medan,Kecantikan,Serum,1,120000,0,E-Wallet,2025-11,120000
+ORD-01014,2025-11-22,Makassar,Fashion,Jaket,2,250000,0,E-Wallet,2025-11,500000
+ORD-01015,2025-11-22,Surabaya,Fashion,Kaos,1,85000,0,E-Wallet,2025-11,85000
+ORD-01017,2025-11-23,Bandung,Rumah Tangga,Blender,1,320000,5,E-Wallet,2025-11,304000
+ORD-01018,2025-11-23,Surabaya,Rumah Tangga,Lampu LED,3,45000,0,E-Wallet,2025-11,135000
+ORD-01019,2025-11-23,Surabaya,Elektronik,Power Bank,2,220000,0,Kartu Kredit,2025-11,440000
+ORD-01020,2025-11-23,Bandung,Rumah Tangga,Panci Set,4,280000,0,COD,2025-11,1120000
+ORD-01021,2025-11-23,Jakarta,Elektronik,Power Bank,1,220000,0,Transfer Bank,2025-11,220000
+ORD-01022,2025-11-23,Jakarta,Rumah Tangga,Blender,1,320000,20,E-Wallet,2025-11,256000
+ORD-01023,2025-11-23,Jakarta,Kecantikan,Sunscreen,2,75000,5,Transfer Bank,2025-11,142500
+ORD-01024,2025-11-23,Surabaya,Kecantikan,Serum,3,120000,0,E-Wallet,2025-11,360000
+ORD-01025,2025-11-23,Bandung,Fashion,Sepatu,1,375000,0,E-Wallet,2025-11,375000
+ORD-01026,2025-11-24,Medan,Kecantikan,Parfum,2,180000,20,COD,2025-11,288000
+ORD-01027,2025-11-24,Jakarta,Fashion,Kaos,1,85000,0,Transfer Bank,2025-11,85000
+ORD-01028,2025-11-24,Makassar,Kecantikan,Serum,1,120000,5,E-Wallet,2025-11,114000
+ORD-01029,2025-11-24,Jakarta,Elektronik,Earphone,1,150000,0,Transfer Bank,2025-11,150000
+ORD-01030,2025-11-24,Makassar,Elektronik,Power Bank,1,220000,0,E-Wallet,2025-11,220000
+ORD-01031,2025-11-24,Jakarta,Fashion,Kaos,2,85000,5,COD,2025-11,161500
+ORD-01032,2025-11-25,Bandung,Fashion,Jaket,1,250000,0,E-Wallet,2025-11,250000
+ORD-01033,2025-11-25,Surabaya,Elektronik,Smartwatch,1,650000,0,E-Wallet,2025-11,650000
+ORD-01034,2025-11-25,Medan,Fashion,Kaos,4,85000,20,E-Wallet,2025-11,272000
+ORD-01035,2025-11-25,Surabaya,Fashion,Sepatu,2,375000,0,Transfer Bank,2025-11,750000
+ORD-01036,2025-11-25,Jakarta,Elektronik,Power Bank,1,220000,20,Transfer Bank,2025-11,176000
+ORD-01037,2025-11-25,Bandung,Rumah Tangga,Panci Set,2,280000,5,E-Wallet,2025-11,532000
+ORD-01038,2025-11-26,Medan,Fashion,Sepatu,3,375000,10,Kartu Kredit,2025-11,1012500
+ORD-01039,2025-11-26,Surabaya,Fashion,Jaket,2,250000,5,COD,2025-11,475000
+ORD-01040,2025-11-26,Jakarta,Kecantikan,Parfum,2,180000,0,Tidak Diketahui,2025-11,360000
+ORD-01041,2025-11-26,Bandung,Rumah Tangga,Blender,2,320000,0,Transfer Bank,2025-11,640000
+ORD-01042,2025-11-26,Makassar,Fashion,Sepatu,1,375000,20,Transfer Bank,2025-11,300000
+ORD-01043,2025-11-27,Tidak Diketahui,Rumah Tangga,Lampu LED,2,45000,5,Kartu Kredit,2025-11,85500
+ORD-01044,2025-11-27,Jakarta,Fashion,Jaket,1,250000,5,E-Wallet,2025-11,237500
+ORD-01045,2025-11-27,Bandung,Fashion,Kaos,3,85000,5,COD,2025-11,242250
+ORD-01046,2025-11-27,Medan,Rumah Tangga,Panci Set,2,280000,20,Transfer Bank,2025-11,448000
+ORD-01047,2025-11-27,Bandung,Rumah Tangga,Panci Set,1,280000,5,E-Wallet,2025-11,266000
+ORD-01048,2025-11-29,Bandung,Kecantikan,Parfum,1,180000,5,E-Wallet,2025-11,171000
+ORD-01049,2025-11-29,Bandung,Elektronik,Smartwatch,1,650000,5,E-Wallet,2025-11,617500
+ORD-01050,2025-11-29,Bandung,Rumah Tangga,Panci Set,1,280000,20,E-Wallet,2025-11,224000
+ORD-01051,2025-11-29,Jakarta,Elektronik,Smartwatch,3,650000,5,Kartu Kredit,2025-11,1852500
+ORD-01052,2025-11-29,Jakarta,Kecantikan,Parfum,3,180000,0,Tidak Diketahui,2025-11,540000
+ORD-01053,2025-11-29,Jakarta,Fashion,Sepatu,1,375000,0,Transfer Bank,2025-11,375000
+ORD-01054,2025-11-29,Bandung,Kecantikan,Sunscreen,3,75000,10,COD,2025-11,202500
+ORD-01055,2025-11-29,Surabaya,Fashion,Sepatu,3,375000,10,E-Wallet,2025-11,1012500
+ORD-01056,2025-11-30,Medan,Fashion,Sepatu,2,375000,10,Tidak Diketahui,2025-11,675000
+ORD-01057,2025-11-30,Jakarta,Elektronik,Power Bank,5,220000,0,COD,2025-11,1100000
+ORD-01058,2025-11-30,Makassar,Elektronik,Power Bank,1,220000,0,Transfer Bank,2025-11,220000
+ORD-01059,2025-11-30,Makassar,Fashion,Jaket,1,250000,0,Transfer Bank,2025-11,250000
+ORD-01060,2025-12-01,Surabaya,Fashion,Sepatu,1,375000,5,Kartu Kredit,2025-12,356250
+ORD-01061,2025-12-01,Jakarta,Elektronik,Power Bank,1,220000,0,E-Wallet,2025-12,220000
+ORD-01062,2025-12-02,Surabaya,Elektronik,Earphone,4,150000,20,E-Wallet,2025-12,480000
+ORD-01063,2025-12-02,Jakarta,Elektronik,Power Bank,5,220000,20,E-Wallet,2025-12,880000
+ORD-01064,2025-12-02,Bandung,Fashion,Kaos,1,85000,20,Transfer Bank,2025-12,68000
+ORD-01065,2025-12-02,Jakarta,Fashion,Sepatu,1,375000,10,Transfer Bank,2025-12,337500
+ORD-01066,2025-12-03,Bandung,Fashion,Jaket,1,250000,0,Transfer Bank,2025-12,250000
+ORD-01067,2025-12-03,Medan,Elektronik,Power Bank,2,220000,20,E-Wallet,2025-12,352000
+ORD-01068,2025-12-03,Surabaya,Rumah Tangga,Panci Set,1,280000,0,E-Wallet,2025-12,280000
+ORD-01069,2025-12-03,Jakarta,Rumah Tangga,Panci Set,5,280000,0,Kartu Kredit,2025-12,1400000
+ORD-01070,2025-12-03,Medan,Kecantikan,Serum,3,120000,0,E-Wallet,2025-12,360000
+ORD-01071,2025-12-04,Jakarta,Rumah Tangga,Blender,1,320000,0,E-Wallet,2025-12,320000
+ORD-01072,2025-12-04,Medan,Fashion,Sepatu,3,375000,5,Transfer Bank,2025-12,1068750
+ORD-01073,2025-12-04,Jakarta,Fashion,Kaos,1,85000,0,Transfer Bank,2025-12,85000
+ORD-01074,2025-12-04,Jakarta,Fashion,Jaket,1,250000,0,E-Wallet,2025-12,250000
+ORD-01075,2025-12-04,Jakarta,Fashion,Kaos,4,85000,5,E-Wallet,2025-12,323000
+ORD-01076,2025-12-05,Medan,Fashion,Jaket,4,250000,0,COD,2025-12,1000000
+ORD-01077,2025-12-05,Bandung,Elektronik,Earphone,1,150000,20,COD,2025-12,120000
+ORD-01078,2025-12-05,Makassar,Fashion,Jaket,1,250000,0,COD,2025-12,250000
+ORD-01079,2025-12-05,Surabaya,Fashion,Sepatu,1,375000,0,E-Wallet,2025-12,375000
+ORD-01080,2025-12-05,Jakarta,Rumah Tangga,Panci Set,1,280000,5,Transfer Bank,2025-12,266000
+ORD-01081,2025-12-05,Surabaya,Fashion,Jaket,1,250000,10,COD,2025-12,225000
+ORD-01082,2025-12-05,Surabaya,Fashion,Sepatu,2,375000,5,E-Wallet,2025-12,712500
+ORD-01083,2025-12-06,Surabaya,Rumah Tangga,Blender,3,320000,5,COD,2025-12,912000
+ORD-01084,2025-12-06,Jakarta,Kecantikan,Parfum,1,180000,5,E-Wallet,2025-12,171000
+ORD-01085,2025-12-06,Makassar,Fashion,Jaket,1,250000,5,Transfer Bank,2025-12,237500
+ORD-01086,2025-12-06,Jakarta,Fashion,Sepatu,2,375000,0,COD,2025-12,750000
+ORD-01087,2025-12-07,Jakarta,Rumah Tangga,Lampu LED,1,45000,20,Kartu Kredit,2025-12,36000
+ORD-01088,2025-12-07,Jakarta,Fashion,Jaket,1,250000,5,E-Wallet,2025-12,237500
+ORD-01089,2025-12-08,Jakarta,Elektronik,Earphone,1,150000,0,E-Wallet,2025-12,150000
+ORD-01090,2025-12-08,Jakarta,Fashion,Jaket,2,250000,0,COD,2025-12,500000
+ORD-01091,2025-12-08,Medan,Kecantikan,Serum,2,120000,5,E-Wallet,2025-12,228000
+ORD-01092,2025-12-08,Jakarta,Fashion,Kaos,5,85000,5,E-Wallet,2025-12,403750
+ORD-01093,2025-12-08,Tidak Diketahui,Fashion,Kaos,2,85000,0,COD,2025-12,170000
+ORD-01094,2025-12-08,Surabaya,Rumah Tangga,Blender,3,320000,0,COD,2025-12,960000
+ORD-01095,2025-12-08,Jakarta,Rumah Tangga,Lampu LED,1,45000,0,E-Wallet,2025-12,45000
+ORD-01096,2025-12-09,Surabaya,Elektronik,Earphone,1,150000,0,E-Wallet,2025-12,150000
+ORD-01097,2025-12-09,Jakarta,Elektronik,Smartwatch,1,650000,0,E-Wallet,2025-12,650000
+ORD-01098,2025-12-10,Medan,Rumah Tangga,Lampu LED,1,45000,5,E-Wallet,2025-12,42750
+ORD-01099,2025-12-10,Jakarta,Kecantikan,Parfum,2,180000,10,Tidak Diketahui,2025-12,324000
+ORD-01100,2025-12-10,Medan,Kecantikan,Serum,1,120000,10,E-Wallet,2025-12,108000
+ORD-01101,2025-12-10,Medan,Fashion,Jaket,2,250000,0,Transfer Bank,2025-12,500000
+ORD-01102,2025-12-10,Makassar,Fashion,Jaket,2,250000,0,Kartu Kredit,2025-12,500000
+ORD-01103,2025-12-10,Jakarta,Kecantikan,Parfum,2,180000,0,E-Wallet,2025-12,360000
+ORD-01104,2025-12-11,Makassar,Rumah Tangga,Panci Set,1,280000,10,Kartu Kredit,2025-12,252000
+ORD-01105,2025-12-11,Surabaya,Elektronik,Smartwatch,3,650000,0,E-Wallet,2025-12,1950000
+ORD-01106,2025-12-11,Surabaya,Rumah Tangga,Blender,2,320000,0,Transfer Bank,2025-12,640000
+ORD-01107,2025-12-11,Makassar,Elektronik,Earphone,3,150000,0,E-Wallet,2025-12,450000
+ORD-01108,2025-12-11,Bandung,Elektronik,Smartwatch,1,650000,10,Transfer Bank,2025-12,585000
+ORD-01109,2025-12-11,Surabaya,Rumah Tangga,Panci Set,1,280000,10,E-Wallet,2025-12,252000
+ORD-01110,2025-12-12,Surabaya,Fashion,Sepatu,3,375000,0,E-Wallet,2025-12,1125000
+ORD-01112,2025-12-12,Bandung,Fashion,Kaos,2,85000,0,Transfer Bank,2025-12,170000
+ORD-01113,2025-12-12,Bandung,Kecantikan,Sunscreen,1,75000,0,Transfer Bank,2025-12,75000
+ORD-01114,2025-12-12,Makassar,Fashion,Sepatu,3,375000,0,Kartu Kredit,2025-12,1125000
+ORD-01115,2025-12-12,Bandung,Fashion,Kaos,1,85000,10,E-Wallet,2025-12,76500
+ORD-01116,2025-12-13,Bandung,Rumah Tangga,Blender,4,320000,5,E-Wallet,2025-12,1216000
+ORD-01117,2025-12-13,Bandung,Elektronik,Smartwatch,1,650000,10,Transfer Bank,2025-12,585000
+ORD-01118,2025-12-13,Bandung,Fashion,Sepatu,1,375000,0,Transfer Bank,2025-12,375000
+ORD-01119,2025-12-13,Jakarta,Elektronik,Earphone,4,150000,5,E-Wallet,2025-12,570000
+ORD-01120,2025-12-14,Surabaya,Fashion,Kaos,1,85000,0,E-Wallet,2025-12,85000
+ORD-01121,2025-12-14,Medan,Fashion,Sepatu,3,375000,0,Tidak Diketahui,2025-12,1125000
+ORD-01122,2025-12-14,Medan,Elektronik,Smartwatch,4,650000,20,Transfer Bank,2025-12,2080000
+ORD-01123,2025-12-14,Medan,Kecantikan,Parfum,2,180000,0,Transfer Bank,2025-12,360000
+ORD-01124,2025-12-15,Bandung,Kecantikan,Serum,1,120000,0,E-Wallet,2025-12,120000
+ORD-01125,2025-12-15,Jakarta,Kecantikan,Sunscreen,3,75000,0,Transfer Bank,2025-12,225000
+ORD-01126,2025-12-15,Jakarta,Elektronik,Earphone,1,150000,0,Transfer Bank,2025-12,150000
+ORD-01127,2025-12-15,Medan,Rumah Tangga,Lampu LED,1,45000,0,Kartu Kredit,2025-12,45000
+ORD-01128,2025-12-15,Bandung,Rumah Tangga,Lampu LED,1,45000,0,E-Wallet,2025-12,45000
+ORD-01129,2025-12-15,Makassar,Fashion,Sepatu,2,375000,5,Transfer Bank,2025-12,712500
+ORD-01130,2025-12-15,Surabaya,Rumah Tangga,Blender,1,320000,5,E-Wallet,2025-12,304000
+ORD-01131,2025-12-15,Medan,Kecantikan,Serum,2,120000,0,Transfer Bank,2025-12,240000
+ORD-01132,2025-12-16,Jakarta,Elektronik,Earphone,2,150000,5,Transfer Bank,2025-12,285000
+ORD-01133,2025-12-16,Surabaya,Kecantikan,Serum,4,120000,10,E-Wallet,2025-12,432000
+ORD-01134,2025-12-16,Jakarta,Rumah Tangga,Blender,1,320000,0,Transfer Bank,2025-12,320000
+ORD-01135,2025-12-18,Makassar,Fashion,Kaos,4,85000,10,COD,2025-12,306000
+ORD-01136,2025-12-18,Jakarta,Elektronik,Earphone,2,150000,5,E-Wallet,2025-12,285000
+ORD-01137,2025-12-18,Jakarta,Fashion,Jaket,1,250000,0,E-Wallet,2025-12,250000
+ORD-01138,2025-12-18,Bandung,Kecantikan,Serum,3,120000,10,Transfer Bank,2025-12,324000
+ORD-01139,2025-12-19,Surabaya,Rumah Tangga,Panci Set,1,280000,10,Kartu Kredit,2025-12,252000
+ORD-01140,2025-12-19,Jakarta,Elektronik,Power Bank,1,220000,10,E-Wallet,2025-12,198000
+ORD-01141,2025-12-19,Bandung,Elektronik,Smartwatch,2,650000,0,E-Wallet,2025-12,1300000
+ORD-01142,2025-12-19,Jakarta,Fashion,Sepatu,1,375000,10,E-Wallet,2025-12,337500
+ORD-01143,2025-12-19,Surabaya,Kecantikan,Sunscreen,1,75000,10,Transfer Bank,2025-12,67500
+ORD-01144,2025-12-19,Jakarta,Elektronik,Power Bank,1,220000,20,Kartu Kredit,2025-12,176000
+ORD-01145,2025-12-19,Medan,Rumah Tangga,Blender,3,320000,0,E-Wallet,2025-12,960000
+ORD-01146,2025-12-20,Jakarta,Rumah Tangga,Blender,2,320000,5,Transfer Bank,2025-12,608000
+ORD-01147,2025-12-20,Surabaya,Fashion,Sepatu,5,375000,10,E-Wallet,2025-12,1687500
+ORD-01148,2025-12-20,Surabaya,Fashion,Jaket,2,250000,0,COD,2025-12,500000
+ORD-01149,2025-12-21,Medan,Rumah Tangga,Lampu LED,2,45000,0,Transfer Bank,2025-12,90000
+ORD-01150,2025-12-21,Bandung,Elektronik,Power Bank,2,220000,0,Transfer Bank,2025-12,440000
+ORD-01151,2025-12-21,Medan,Elektronik,Power Bank,1,220000,0,Transfer Bank,2025-12,220000
+ORD-01152,2025-12-21,Bandung,Elektronik,Smartwatch,1,650000,0,Kartu Kredit,2025-12,650000
+ORD-01153,2025-12-21,Jakarta,Fashion,Jaket,1,250000,20,E-Wallet,2025-12,200000
+ORD-01154,2025-12-21,Makassar,Rumah Tangga,Lampu LED,2,45000,0,E-Wallet,2025-12,90000
+ORD-01155,2025-12-22,Jakarta,Elektronik,Earphone,4,150000,5,Transfer Bank,2025-12,570000
+ORD-01156,2025-12-22,Surabaya,Elektronik,Earphone,4,150000,0,E-Wallet,2025-12,600000
+ORD-01157,2025-12-22,Makassar,Kecantikan,Sunscreen,1,75000,0,E-Wallet,2025-12,75000
+ORD-01158,2025-12-23,Medan,Fashion,Sepatu,1,375000,5,Kartu Kredit,2025-12,356250
+ORD-01159,2025-12-23,Makassar,Kecantikan,Sunscreen,1,75000,0,Transfer Bank,2025-12,75000
+ORD-01160,2025-12-24,Makassar,Kecantikan,Serum,1,120000,0,E-Wallet,2025-12,120000
+ORD-01161,2025-12-24,Tidak Diketahui,Fashion,Sepatu,3,375000,5,E-Wallet,2025-12,1068750
+ORD-01162,2025-12-24,Makassar,Elektronik,Smartwatch,2,650000,0,E-Wallet,2025-12,1300000
+ORD-01163,2025-12-24,Medan,Kecantikan,Parfum,2,180000,10,Transfer Bank,2025-12,324000
+ORD-01164,2025-12-25,Bandung,Rumah Tangga,Lampu LED,2,45000,20,Kartu Kredit,2025-12,72000
+ORD-01165,2025-12-25,Medan,Fashion,Jaket,5,250000,10,Transfer Bank,2025-12,1125000
+ORD-01166,2025-12-25,Medan,Fashion,Jaket,3,250000,5,E-Wallet,2025-12,712500
+ORD-01167,2025-12-25,Medan,Fashion,Kaos,1,85000,5,COD,2025-12,80750
+ORD-01168,2025-12-26,Jakarta,Kecantikan,Serum,3,120000,0,Transfer Bank,2025-12,360000
+ORD-01169,2025-12-26,Makassar,Fashion,Jaket,4,250000,0,COD,2025-12,1000000
+ORD-01170,2025-12-26,Surabaya,Fashion,Kaos,4,85000,5,Transfer Bank,2025-12,323000
+ORD-01171,2025-12-26,Makassar,Elektronik,Smartwatch,2,650000,0,Transfer Bank,2025-12,1300000
+ORD-01172,2025-12-26,Jakarta,Kecantikan,Serum,2,120000,5,Transfer Bank,2025-12,228000
+ORD-01173,2025-12-26,Jakarta,Elektronik,Power Bank,2,220000,10,Transfer Bank,2025-12,396000
+ORD-01174,2025-12-27,Jakarta,Fashion,Jaket,1,250000,10,COD,2025-12,225000
+ORD-01175,2025-12-27,Surabaya,Rumah Tangga,Blender,1,320000,20,E-Wallet,2025-12,256000
+ORD-01177,2025-12-27,Makassar,Rumah Tangga,Panci Set,1,280000,20,E-Wallet,2025-12,224000
+ORD-01178,2025-12-28,Bandung,Fashion,Jaket,1,250000,20,Kartu Kredit,2025-12,200000
+ORD-01179,2025-12-28,Surabaya,Kecantikan,Serum,2,120000,10,Transfer Bank,2025-12,216000
+ORD-01180,2025-12-28,Bandung,Kecantikan,Parfum,2,180000,0,E-Wallet,2025-12,360000
+ORD-01181,2025-12-28,Bandung,Elektronik,Earphone,1,150000,0,E-Wallet,2025-12,150000
+ORD-01182,2025-12-28,Medan,Fashion,Jaket,1,250000,5,Transfer Bank,2025-12,237500
+ORD-01183,2025-12-29,Surabaya,Fashion,Sepatu,1,375000,0,Transfer Bank,2025-12,375000
+ORD-01184,2025-12-29,Bandung,Fashion,Jaket,2,250000,0,COD,2025-12,500000
+ORD-01185,2025-12-29,Jakarta,Fashion,Kaos,1,85000,0,COD,2025-12,85000
+ORD-01186,2025-12-29,Bandung,Rumah Tangga,Blender,1,320000,10,Transfer Bank,2025-12,288000
+ORD-01187,2025-12-29,Bandung,Fashion,Sepatu,1,375000,0,E-Wallet,2025-12,375000
+ORD-01188,2025-12-29,Surabaya,Elektronik,Smartwatch,1,650000,0,Transfer Bank,2025-12,650000
+ORD-01189,2025-12-29,Surabaya,Kecantikan,Serum,1,120000,0,E-Wallet,2025-12,120000
+ORD-01190,2025-12-30,Bandung,Fashion,Jaket,3,250000,10,COD,2025-12,675000
+ORD-01191,2025-12-30,Surabaya,Fashion,Kaos,1,85000,10,COD,2025-12,76500
+ORD-01192,2025-12-30,Makassar,Fashion,Jaket,3,250000,0,Kartu Kredit,2025-12,750000
+ORD-01193,2025-12-30,Jakarta,Elektronik,Power Bank,2,220000,0,Kartu Kredit,2025-12,440000
+ORD-01194,2025-12-30,Jakarta,Fashion,Kaos,2,85000,0,COD,2025-12,170000
+ORD-01195,2025-12-31,Surabaya,Fashion,Kaos,1,85000,0,Transfer Bank,2025-12,85000
+ORD-01196,2025-12-31,Surabaya,Kecantikan,Parfum,1,180000,0,COD,2025-12,180000
+ORD-01197,2025-12-31,Surabaya,Elektronik,Power Bank,1,220000,0,Tidak Diketahui,2025-12,220000
+ORD-01198,2025-12-31,Makassar,Fashion,Sepatu,2,375000,10,E-Wallet,2025-12,675000
+ORD-01199,2025-12-31,Bandung,Elektronik,Power Bank,1,220000,0,E-Wallet,2025-12,220000
+ORD-01200,2025-12-31,Jakarta,Rumah Tangga,Lampu LED,3,45000,0,Transfer Bank,2025-12,135000
