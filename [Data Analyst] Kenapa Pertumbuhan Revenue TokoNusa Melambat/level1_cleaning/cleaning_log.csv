@@ -1,0 +1,21 @@
+no,tabel,masalah,kolom,baris_terdampak,perlakuan,alasan
+1,orders,Baris duplikat (seluruh kolom identik),semua,35,"Hapus, sisakan 1 baris",Satu order_id tidak mungkin tercatat dua kali; dibiarkan akan menggelembungkan revenue
+2,orders,Huruf tidak konsisten (mis. 'fashion'),category,30,Standarkan: TRIM + Title Case,Tanpa ini 'Fashion' dan 'fashion' terhitung dua kategori
+3,orders,Huruf tidak konsisten (mis. 'COMPLETED'),status,20,Standarkan: TRIM + Title Case,Filter status Completed akan melewatkan baris huruf besar
+4,orders,Format tanggal campur (dd/mm/yyyy),order_date,15,Parse dengan format eksplisit %d/%m/%Y lalu seragamkan ke YYYY-MM-DD,Tanggal salah baca merusak analisis bulanan/cohort
+5,orders,Pola tanggal ISO (YYYY-MM-DD),order_date,2682,Parse dengan format eksplisit %Y-%m-%d (JANGAN dayfirst=True),"dayfirst=True menukar hari-bulan pada tanggal ISO dengan hari<=12 (bug umum: 953 baris tertukar, memicu flag palsu 'order sebelum signup')"
+6,orders,unit_price kosong,unit_price,40,Flag (flag_harga_kosong); TIDAK diimputasi; keluar dari hitungan revenue,Mengarang harga mengubah angka uang; baris tetap berguna untuk analisis status/jumlah order
+7,orders,quantity negatif,quantity,25,ABS() + flag (flag_qty_negatif),Asumsi salah input tanda (bukan retur karena retur sudah punya status Returned); perlu konfirmasi pemilik data
+8,orders,Cek discount_pct (0-1) & shipping_fee (>=0),"discount_pct, shipping_fee",0,Tidak ada perubahan,Nilai valid
+9,orders,customer_id tidak ada di customers (yatim),customer_id,12,Flag (flag_customer_tidak_ada); tetap masuk revenue; keluar dari analisis yang butuh atribut pelanggan,"Revenue tetap terjadi, hanya atribut (kota/channel/signup) tidak diketahui"
+10,customers,customer_id duplikat,customer_id,0,Tidak ada,Pengecekan lolos
+11,customers,gender kosong,gender,208,Isi 'Unknown',Kolom tidak dipakai di analisis; nilai hilang dijaga eksplisit
+12,customers,Rentang signup_date,signup_date,0,Tidak ada (2025-01-02 s/d 2026-08-24),Masuk akal
+13,orders,Order sebelum signup (setelah tanggal diperbaiki),order_date,0,Tidak ada,Pengecekan lolos
+14,orders,Tanggal di masa depan (> 2026-10-31),order_date,0,Tidak ada,Pengecekan lolos
+15,ringkasan,Jumlah baris orders sebelum -> sesudah,-,35,2732 -> 2697,Hanya duplikat yang dihapus
+16,ringkasan,Jumlah baris customers sebelum -> sesudah,-,0,1200 -> 1200,Tidak ada baris dihapus
+17,definisi,net_revenue,-,0,unit_price x quantity x (1 - discount_pct); shipping_fee tidak dihitung,Revenue produk bersih diskon; ongkir bukan pendapatan produk
+18,definisi,Status yang dihitung,status,2316,Hanya Completed (Cancelled & Returned dikeluarkan),Hanya transaksi yang benar-benar selesai
+19,definisi,Order Completed tanpa harga,unit_price,34,Dikeluarkan dari net_revenue DAN jumlah_order DAN pelanggan_aktif,Pembilang & penyebut AOV dari himpunan order yang sama
+20,definisi,Order Completed dari customer yatim,customer_id,10,Tetap dihitung di revenue; kota/channel = 'Tidak diketahui',Revenue tidak butuh atribut pelanggan

@@ -1,0 +1,1201 @@
+customer_id,city,acquisition_channel,signup_date,gender
+C00001,Jakarta,TikTok Ads,2025-04-25,M
+C00002,Surabaya,TikTok Ads,2025-08-17,Unknown
+C00003,Bandung,Google Ads,2026-07-13,F
+C00004,Bandung,Organic,2025-01-31,Other
+C00005,Bogor,Organic,2025-01-28,Unknown
+C00006,Bekasi,Organic,2026-07-13,Other
+C00007,Jakarta,TikTok Ads,2025-10-12,M
+C00008,Makassar,Instagram Ads,2026-03-09,M
+C00009,Bandung,Organic,2025-12-11,F
+C00010,Makassar,Google Ads,2026-01-03,F
+C00011,Bogor,Organic,2026-04-16,M
+C00012,Bogor,Instagram Ads,2025-03-22,Unknown
+C00013,Yogyakarta,Organic,2026-01-06,F
+C00014,Medan,TikTok Ads,2025-02-16,F
+C00015,Bandung,Instagram Ads,2025-08-27,M
+C00016,Surabaya,Instagram Ads,2026-01-09,M
+C00017,Bandung,Google Ads,2025-10-01,M
+C00018,Medan,Organic,2026-07-01,M
+C00019,Bogor,Organic,2025-10-04,F
+C00020,Medan,TikTok Ads,2025-02-27,F
+C00021,Semarang,Organic,2026-02-15,Other
+C00022,Medan,Google Ads,2025-11-19,M
+C00023,Surabaya,Instagram Ads,2026-04-15,M
+C00024,Bogor,Instagram Ads,2026-07-29,Other
+C00025,Yogyakarta,Instagram Ads,2026-03-15,M
+C00026,Bogor,Instagram Ads,2025-05-22,F
+C00027,Surabaya,Google Ads,2025-04-23,Unknown
+C00028,Yogyakarta,Organic,2026-03-09,M
+C00029,Bogor,Instagram Ads,2026-04-25,Other
+C00030,Bandung,Google Ads,2025-01-12,Other
+C00031,Makassar,Organic,2025-10-01,M
+C00032,Depok,Organic,2025-06-11,Unknown
+C00033,Bogor,TikTok Ads,2025-09-27,Other
+C00034,Semarang,TikTok Ads,2025-04-19,Other
+C00035,Surabaya,Instagram Ads,2025-07-23,M
+C00036,Bogor,Referral,2026-07-07,Other
+C00037,Depok,Organic,2025-11-28,F
+C00038,Medan,Organic,2025-11-11,Other
+C00039,Bandung,TikTok Ads,2025-03-22,F
+C00040,Surabaya,Organic,2026-06-30,M
+C00041,Surabaya,Instagram Ads,2026-07-17,Other
+C00042,Medan,Referral,2026-03-10,Unknown
+C00043,Semarang,Instagram Ads,2025-07-25,Unknown
+C00044,Depok,Referral,2026-01-18,M
+C00045,Medan,Organic,2025-05-04,F
+C00046,Yogyakarta,Google Ads,2025-01-22,Other
+C00047,Jakarta,Organic,2025-08-14,Unknown
+C00048,Medan,Organic,2025-03-02,F
+C00049,Bandung,Google Ads,2025-12-05,F
+C00050,Medan,Google Ads,2026-05-13,Unknown
+C00051,Yogyakarta,Instagram Ads,2026-08-08,M
+C00052,Medan,Organic,2026-02-21,Unknown
+C00053,Makassar,Instagram Ads,2026-03-18,M
+C00054,Bandung,Organic,2025-02-25,Unknown
+C00055,Bandung,Organic,2025-12-14,M
+C00056,Depok,Organic,2026-07-04,M
+C00057,Depok,Organic,2025-10-13,F
+C00058,Bogor,Organic,2026-03-30,Unknown
+C00059,Jakarta,Email,2026-07-08,M
+C00060,Bekasi,Instagram Ads,2025-06-20,M
+C00061,Jakarta,Organic,2026-02-15,F
+C00062,Semarang,Referral,2026-02-04,M
+C00063,Bekasi,Google Ads,2025-10-20,Unknown
+C00064,Depok,Organic,2026-07-24,F
+C00065,Jakarta,Google Ads,2025-08-11,Other
+C00066,Makassar,Organic,2025-03-04,Other
+C00067,Bogor,Referral,2026-05-04,Other
+C00068,Jakarta,Email,2025-06-11,F
+C00069,Bandung,Google Ads,2025-07-10,Unknown
+C00070,Bekasi,Organic,2025-08-29,Other
+C00071,Yogyakarta,Google Ads,2025-09-10,Other
+C00072,Bekasi,Google Ads,2025-03-25,Other
+C00073,Makassar,Referral,2026-06-20,M
+C00074,Medan,Instagram Ads,2025-11-18,M
+C00075,Depok,Instagram Ads,2025-11-04,F
+C00076,Depok,Google Ads,2025-01-10,Other
+C00077,Bandung,Google Ads,2025-04-13,Other
+C00078,Surabaya,Referral,2025-09-29,F
+C00079,Makassar,Instagram Ads,2025-09-08,M
+C00080,Semarang,Google Ads,2026-07-11,Unknown
+C00081,Jakarta,Google Ads,2026-06-26,Other
+C00082,Bandung,Referral,2025-11-03,M
+C00083,Bandung,Referral,2025-09-28,Unknown
+C00084,Surabaya,Instagram Ads,2026-07-21,Other
+C00085,Makassar,Organic,2025-08-04,Unknown
+C00086,Bogor,Instagram Ads,2025-09-28,F
+C00087,Bekasi,TikTok Ads,2025-04-05,F
+C00088,Makassar,TikTok Ads,2025-01-04,Unknown
+C00089,Surabaya,TikTok Ads,2025-09-26,Other
+C00090,Bogor,Organic,2026-03-14,F
+C00091,Bogor,Organic,2025-06-02,F
+C00092,Bogor,Organic,2026-08-20,M
+C00093,Semarang,Instagram Ads,2025-02-12,F
+C00094,Medan,Google Ads,2026-01-02,Unknown
+C00095,Makassar,TikTok Ads,2025-04-16,M
+C00096,Medan,Referral,2025-06-08,M
+C00097,Jakarta,Organic,2026-02-27,F
+C00098,Medan,Instagram Ads,2026-02-26,Unknown
+C00099,Bekasi,Referral,2025-04-21,M
+C00100,Medan,TikTok Ads,2025-08-16,M
+C00101,Semarang,TikTok Ads,2025-12-25,M
+C00102,Jakarta,Google Ads,2025-08-17,M
+C00103,Semarang,Referral,2025-12-03,F
+C00104,Bogor,Instagram Ads,2025-12-26,Other
+C00105,Jakarta,Organic,2025-12-06,F
+C00106,Yogyakarta,Email,2025-07-02,F
+C00107,Bandung,Google Ads,2025-02-09,F
+C00108,Bekasi,Google Ads,2025-11-18,Other
+C00109,Bekasi,Referral,2025-04-29,M
+C00110,Jakarta,TikTok Ads,2025-09-18,F
+C00111,Bogor,Google Ads,2026-06-17,Unknown
+C00112,Makassar,Instagram Ads,2025-07-21,Unknown
+C00113,Yogyakarta,Instagram Ads,2025-12-05,F
+C00114,Bogor,Instagram Ads,2025-11-04,M
+C00115,Bekasi,Google Ads,2025-12-01,Other
+C00116,Medan,Instagram Ads,2025-05-11,M
+C00117,Yogyakarta,Google Ads,2025-06-28,M
+C00118,Jakarta,Instagram Ads,2026-07-16,M
+C00119,Yogyakarta,Google Ads,2026-03-17,F
+C00120,Depok,Instagram Ads,2026-04-22,M
+C00121,Depok,TikTok Ads,2026-06-08,Unknown
+C00122,Bandung,Instagram Ads,2025-06-23,Unknown
+C00123,Bandung,TikTok Ads,2025-12-10,M
+C00124,Medan,TikTok Ads,2025-11-14,M
+C00125,Jakarta,Organic,2025-01-26,M
+C00126,Depok,Instagram Ads,2025-03-16,Unknown
+C00127,Medan,TikTok Ads,2026-08-13,M
+C00128,Bekasi,Organic,2026-05-22,Unknown
+C00129,Bandung,TikTok Ads,2025-01-06,M
+C00130,Bogor,Instagram Ads,2025-06-30,Other
+C00131,Bandung,Instagram Ads,2025-09-13,M
+C00132,Bogor,Google Ads,2026-06-28,M
+C00133,Bekasi,TikTok Ads,2026-06-01,Other
+C00134,Surabaya,TikTok Ads,2026-04-02,M
+C00135,Semarang,TikTok Ads,2026-04-06,Unknown
+C00136,Bogor,Instagram Ads,2025-10-11,M
+C00137,Depok,Organic,2025-10-09,F
+C00138,Semarang,Instagram Ads,2025-08-29,Other
+C00139,Surabaya,Organic,2025-03-24,M
+C00140,Medan,Organic,2025-06-06,M
+C00141,Bogor,Instagram Ads,2025-12-05,F
+C00142,Bekasi,Instagram Ads,2025-07-31,Other
+C00143,Yogyakarta,Instagram Ads,2025-01-21,F
+C00144,Semarang,TikTok Ads,2025-12-27,M
+C00145,Bogor,TikTok Ads,2026-07-06,M
+C00146,Medan,Instagram Ads,2026-05-15,M
+C00147,Bekasi,Instagram Ads,2025-01-30,Unknown
+C00148,Surabaya,TikTok Ads,2026-02-19,M
+C00149,Jakarta,Referral,2026-07-01,Other
+C00150,Jakarta,Organic,2026-08-01,M
+C00151,Depok,Organic,2025-05-19,F
+C00152,Makassar,Organic,2026-01-24,F
+C00153,Bekasi,Instagram Ads,2025-12-12,M
+C00154,Bandung,Instagram Ads,2025-09-16,Unknown
+C00155,Jakarta,Email,2026-07-07,F
+C00156,Bandung,TikTok Ads,2025-08-18,Unknown
+C00157,Jakarta,Referral,2025-02-11,M
+C00158,Yogyakarta,Organic,2025-01-21,M
+C00159,Bandung,Google Ads,2026-04-30,M
+C00160,Semarang,TikTok Ads,2026-04-22,M
+C00161,Surabaya,Email,2025-04-28,F
+C00162,Jakarta,Referral,2026-08-16,Other
+C00163,Bekasi,Referral,2026-01-20,M
+C00164,Yogyakarta,Google Ads,2025-03-19,Unknown
+C00165,Bandung,Google Ads,2025-09-06,F
+C00166,Yogyakarta,TikTok Ads,2025-05-04,F
+C00167,Bekasi,Google Ads,2026-06-30,F
+C00168,Makassar,Organic,2026-06-03,M
+C00169,Bandung,Instagram Ads,2026-05-17,F
+C00170,Surabaya,Instagram Ads,2026-04-16,Unknown
+C00171,Semarang,Google Ads,2026-06-19,Other
+C00172,Depok,Instagram Ads,2026-05-11,Unknown
+C00173,Makassar,Referral,2025-10-02,F
+C00174,Depok,Organic,2025-10-13,M
+C00175,Yogyakarta,Google Ads,2026-08-07,F
+C00176,Depok,Referral,2025-01-30,M
+C00177,Medan,Instagram Ads,2026-05-15,F
+C00178,Semarang,Referral,2025-12-15,Unknown
+C00179,Bogor,Organic,2025-10-10,M
+C00180,Medan,TikTok Ads,2025-03-29,M
+C00181,Medan,Google Ads,2026-07-23,Unknown
+C00182,Depok,TikTok Ads,2026-05-18,F
+C00183,Medan,Instagram Ads,2025-10-29,M
+C00184,Yogyakarta,Instagram Ads,2025-11-10,Other
+C00185,Makassar,Instagram Ads,2026-06-28,Unknown
+C00186,Makassar,Instagram Ads,2026-07-18,M
+C00187,Semarang,Instagram Ads,2025-10-05,F
+C00188,Makassar,Organic,2025-07-17,Other
+C00189,Medan,Organic,2025-07-09,M
+C00190,Yogyakarta,Email,2025-10-11,Other
+C00191,Bandung,TikTok Ads,2025-10-17,F
+C00192,Makassar,Organic,2025-08-21,F
+C00193,Surabaya,Instagram Ads,2026-07-01,F
+C00194,Semarang,Google Ads,2026-07-21,M
+C00195,Bandung,Referral,2026-05-18,Other
+C00196,Depok,Instagram Ads,2025-10-19,F
+C00197,Jakarta,Instagram Ads,2025-07-08,M
+C00198,Bandung,Instagram Ads,2025-04-27,F
+C00199,Jakarta,Organic,2026-08-14,Other
+C00200,Bandung,Email,2025-11-08,F
+C00201,Bekasi,Google Ads,2026-07-26,Other
+C00202,Bogor,Instagram Ads,2025-08-20,M
+C00203,Yogyakarta,Email,2025-11-01,F
+C00204,Yogyakarta,Organic,2026-08-06,Unknown
+C00205,Medan,Google Ads,2025-04-12,F
+C00206,Surabaya,Organic,2025-03-25,Other
+C00207,Surabaya,Organic,2025-03-18,M
+C00208,Semarang,Organic,2026-04-27,F
+C00209,Depok,Organic,2025-10-17,M
+C00210,Yogyakarta,Google Ads,2025-09-28,M
+C00211,Bandung,Google Ads,2026-03-12,Unknown
+C00212,Semarang,TikTok Ads,2025-06-02,F
+C00213,Surabaya,TikTok Ads,2025-03-03,Other
+C00214,Semarang,Instagram Ads,2026-08-06,M
+C00215,Bekasi,Referral,2025-11-08,Other
+C00216,Depok,Instagram Ads,2026-07-07,Other
+C00217,Bekasi,TikTok Ads,2025-02-10,Other
+C00218,Jakarta,Organic,2025-09-14,Unknown
+C00219,Yogyakarta,Email,2026-08-13,Unknown
+C00220,Yogyakarta,Organic,2025-10-03,M
+C00221,Bogor,Google Ads,2026-04-27,F
+C00222,Yogyakarta,Instagram Ads,2025-07-05,M
+C00223,Depok,Instagram Ads,2025-04-04,F
+C00224,Bandung,Referral,2025-11-25,F
+C00225,Depok,Instagram Ads,2026-02-26,M
+C00226,Jakarta,Instagram Ads,2026-07-18,F
+C00227,Makassar,Organic,2025-09-16,M
+C00228,Jakarta,Google Ads,2026-06-11,Other
+C00229,Bekasi,Organic,2026-04-19,Other
+C00230,Yogyakarta,TikTok Ads,2026-01-06,Unknown
+C00231,Jakarta,Organic,2026-03-29,Other
+C00232,Semarang,Instagram Ads,2025-05-15,Unknown
+C00233,Bandung,Organic,2026-05-12,Unknown
+C00234,Surabaya,Instagram Ads,2025-09-03,F
+C00235,Bekasi,Organic,2026-07-20,F
+C00236,Bandung,Google Ads,2026-04-18,M
+C00237,Semarang,Google Ads,2026-05-26,F
+C00238,Depok,Email,2026-03-02,M
+C00239,Bogor,Organic,2026-04-13,M
+C00240,Surabaya,Referral,2026-06-05,F
+C00241,Makassar,Referral,2026-03-01,Other
+C00242,Jakarta,Instagram Ads,2025-10-01,F
+C00243,Depok,Referral,2026-08-17,M
+C00244,Depok,Instagram Ads,2026-07-06,Other
+C00245,Bekasi,Instagram Ads,2026-07-11,F
+C00246,Medan,Google Ads,2025-07-13,M
+C00247,Jakarta,Instagram Ads,2026-02-25,M
+C00248,Bekasi,Email,2026-01-26,Unknown
+C00249,Depok,Email,2025-06-05,M
+C00250,Yogyakarta,Instagram Ads,2026-05-30,F
+C00251,Bandung,Google Ads,2026-03-27,M
+C00252,Surabaya,Instagram Ads,2025-01-16,Unknown
+C00253,Bandung,Instagram Ads,2025-06-08,F
+C00254,Yogyakarta,Google Ads,2025-12-13,Unknown
+C00255,Makassar,Referral,2025-03-24,Other
+C00256,Makassar,Google Ads,2026-01-25,M
+C00257,Jakarta,Google Ads,2026-07-09,M
+C00258,Medan,TikTok Ads,2025-10-22,M
+C00259,Bandung,Instagram Ads,2025-04-11,Unknown
+C00260,Jakarta,Organic,2025-11-03,F
+C00261,Makassar,Instagram Ads,2025-10-28,M
+C00262,Bogor,Instagram Ads,2025-09-08,Unknown
+C00263,Surabaya,Organic,2025-07-04,Other
+C00264,Yogyakarta,Google Ads,2026-01-27,M
+C00265,Surabaya,Organic,2026-08-21,Unknown
+C00266,Depok,Instagram Ads,2025-09-18,F
+C00267,Semarang,Google Ads,2026-04-22,M
+C00268,Depok,Referral,2025-03-17,Other
+C00269,Bekasi,Google Ads,2025-11-03,M
+C00270,Medan,Email,2025-11-06,M
+C00271,Medan,Instagram Ads,2025-04-20,F
+C00272,Semarang,Email,2026-08-12,F
+C00273,Bekasi,Instagram Ads,2025-01-23,Other
+C00274,Yogyakarta,TikTok Ads,2025-02-20,F
+C00275,Yogyakarta,TikTok Ads,2025-08-24,M
+C00276,Yogyakarta,Instagram Ads,2025-07-14,Unknown
+C00277,Bandung,Referral,2025-05-21,Unknown
+C00278,Semarang,TikTok Ads,2025-02-10,F
+C00279,Makassar,TikTok Ads,2026-08-17,F
+C00280,Makassar,TikTok Ads,2025-10-30,M
+C00281,Surabaya,TikTok Ads,2025-07-25,F
+C00282,Bogor,Referral,2026-06-28,M
+C00283,Depok,Email,2025-09-21,F
+C00284,Bandung,Instagram Ads,2025-12-13,F
+C00285,Medan,Referral,2025-05-25,Unknown
+C00286,Bogor,Instagram Ads,2026-02-11,M
+C00287,Semarang,Google Ads,2025-01-15,M
+C00288,Semarang,Google Ads,2026-01-13,Unknown
+C00289,Bandung,Google Ads,2026-01-16,M
+C00290,Yogyakarta,Referral,2025-01-26,Other
+C00291,Yogyakarta,Organic,2025-12-02,F
+C00292,Semarang,Google Ads,2026-04-21,F
+C00293,Jakarta,Referral,2025-05-24,F
+C00294,Bandung,Organic,2026-05-20,Other
+C00295,Bekasi,Instagram Ads,2025-05-19,Unknown
+C00296,Bekasi,Google Ads,2026-07-08,Unknown
+C00297,Bekasi,Google Ads,2025-06-08,M
+C00298,Semarang,Organic,2026-02-22,F
+C00299,Depok,Instagram Ads,2025-08-11,M
+C00300,Bandung,Email,2026-01-07,F
+C00301,Makassar,Organic,2026-07-12,F
+C00302,Bandung,Referral,2025-07-14,M
+C00303,Medan,Google Ads,2025-04-04,Other
+C00304,Jakarta,TikTok Ads,2025-01-22,M
+C00305,Yogyakarta,Organic,2025-05-09,Other
+C00306,Yogyakarta,Organic,2025-08-01,M
+C00307,Surabaya,TikTok Ads,2025-12-03,Other
+C00308,Semarang,Referral,2025-01-03,M
+C00309,Bogor,Instagram Ads,2025-05-14,M
+C00310,Jakarta,Organic,2025-04-23,F
+C00311,Yogyakarta,Instagram Ads,2025-09-01,M
+C00312,Jakarta,Organic,2025-09-29,M
+C00313,Bandung,TikTok Ads,2026-06-23,M
+C00314,Makassar,Google Ads,2026-04-05,F
+C00315,Bogor,Organic,2026-04-08,Other
+C00316,Bogor,Instagram Ads,2025-02-14,Unknown
+C00317,Jakarta,Email,2025-02-01,M
+C00318,Bandung,Instagram Ads,2026-03-13,M
+C00319,Bandung,Instagram Ads,2025-03-17,M
+C00320,Surabaya,Instagram Ads,2025-03-09,Unknown
+C00321,Bogor,TikTok Ads,2026-08-23,M
+C00322,Semarang,Instagram Ads,2026-06-28,Other
+C00323,Bandung,TikTok Ads,2026-03-17,F
+C00324,Medan,Instagram Ads,2026-07-19,M
+C00325,Makassar,TikTok Ads,2026-02-28,M
+C00326,Bandung,Instagram Ads,2026-03-02,F
+C00327,Makassar,Email,2025-09-19,Unknown
+C00328,Bandung,Organic,2026-05-01,F
+C00329,Bekasi,Organic,2025-04-06,Unknown
+C00330,Surabaya,Google Ads,2026-01-17,Other
+C00331,Bogor,Instagram Ads,2026-07-30,F
+C00332,Makassar,Referral,2026-02-25,M
+C00333,Semarang,Google Ads,2025-02-22,F
+C00334,Yogyakarta,Google Ads,2025-04-17,M
+C00335,Medan,TikTok Ads,2026-05-09,F
+C00336,Makassar,Organic,2026-07-24,F
+C00337,Medan,TikTok Ads,2026-08-11,Other
+C00338,Jakarta,Google Ads,2026-07-25,Unknown
+C00339,Jakarta,Organic,2025-10-01,Unknown
+C00340,Makassar,Instagram Ads,2025-11-13,M
+C00341,Yogyakarta,Google Ads,2025-05-27,F
+C00342,Jakarta,Organic,2025-05-26,Other
+C00343,Bekasi,Instagram Ads,2025-08-09,F
+C00344,Makassar,Instagram Ads,2025-06-11,F
+C00345,Yogyakarta,Organic,2026-08-05,F
+C00346,Surabaya,TikTok Ads,2025-06-09,F
+C00347,Semarang,Instagram Ads,2025-03-25,M
+C00348,Yogyakarta,Instagram Ads,2026-05-13,F
+C00349,Bogor,Organic,2025-08-09,M
+C00350,Semarang,Google Ads,2025-04-24,Other
+C00351,Bogor,Google Ads,2026-05-14,F
+C00352,Bekasi,Email,2025-08-14,F
+C00353,Medan,Instagram Ads,2025-01-08,M
+C00354,Semarang,Instagram Ads,2025-05-21,F
+C00355,Depok,TikTok Ads,2025-01-08,M
+C00356,Bekasi,Google Ads,2025-05-13,M
+C00357,Bogor,TikTok Ads,2026-05-28,F
+C00358,Bekasi,Referral,2025-03-15,F
+C00359,Jakarta,Instagram Ads,2026-03-23,F
+C00360,Yogyakarta,Instagram Ads,2025-11-17,M
+C00361,Semarang,Organic,2026-03-04,F
+C00362,Surabaya,TikTok Ads,2025-11-29,Other
+C00363,Makassar,Organic,2026-04-17,F
+C00364,Bekasi,Google Ads,2025-09-07,Other
+C00365,Bekasi,Referral,2025-03-22,Unknown
+C00366,Medan,Instagram Ads,2025-12-14,M
+C00367,Bogor,Google Ads,2025-03-20,Other
+C00368,Medan,Referral,2026-06-07,F
+C00369,Surabaya,Organic,2025-12-26,M
+C00370,Medan,Organic,2025-09-20,M
+C00371,Surabaya,Email,2025-03-19,Unknown
+C00372,Depok,TikTok Ads,2026-05-21,Other
+C00373,Yogyakarta,Google Ads,2026-04-05,Other
+C00374,Makassar,Organic,2025-11-27,F
+C00375,Depok,Google Ads,2026-04-26,F
+C00376,Makassar,Google Ads,2025-02-27,F
+C00377,Depok,Organic,2026-04-18,F
+C00378,Bandung,Google Ads,2025-10-21,F
+C00379,Bekasi,Instagram Ads,2026-06-04,Other
+C00380,Depok,Referral,2025-02-12,Other
+C00381,Makassar,Google Ads,2025-07-12,Other
+C00382,Jakarta,Instagram Ads,2025-06-04,F
+C00383,Bogor,Google Ads,2025-03-28,F
+C00384,Depok,Email,2025-09-11,Other
+C00385,Yogyakarta,Organic,2026-06-20,F
+C00386,Bekasi,Instagram Ads,2025-10-17,F
+C00387,Makassar,Organic,2025-02-23,F
+C00388,Bekasi,Instagram Ads,2026-07-26,Unknown
+C00389,Makassar,Organic,2025-06-03,Unknown
+C00390,Makassar,Instagram Ads,2025-05-25,Unknown
+C00391,Surabaya,Google Ads,2026-02-06,F
+C00392,Bogor,Instagram Ads,2025-11-14,F
+C00393,Bogor,Organic,2025-05-11,Unknown
+C00394,Bogor,Instagram Ads,2026-03-10,F
+C00395,Surabaya,Email,2025-11-13,F
+C00396,Medan,Organic,2026-05-13,M
+C00397,Bandung,Instagram Ads,2025-06-08,F
+C00398,Bogor,TikTok Ads,2026-06-04,Other
+C00399,Makassar,Referral,2025-02-08,Other
+C00400,Yogyakarta,Instagram Ads,2025-05-15,M
+C00401,Yogyakarta,TikTok Ads,2025-07-05,M
+C00402,Jakarta,Instagram Ads,2026-03-25,Unknown
+C00403,Depok,Google Ads,2025-09-01,Unknown
+C00404,Medan,Google Ads,2026-04-05,F
+C00405,Medan,Instagram Ads,2026-04-26,Other
+C00406,Depok,TikTok Ads,2026-03-28,M
+C00407,Bogor,Instagram Ads,2026-05-30,M
+C00408,Yogyakarta,Organic,2025-07-24,F
+C00409,Depok,Referral,2025-02-23,Other
+C00410,Bogor,Referral,2025-04-16,F
+C00411,Surabaya,Instagram Ads,2025-03-27,Other
+C00412,Bekasi,Organic,2025-05-31,M
+C00413,Makassar,Referral,2026-04-07,M
+C00414,Bekasi,Google Ads,2025-02-24,M
+C00415,Bandung,Instagram Ads,2026-01-31,F
+C00416,Bandung,TikTok Ads,2025-11-23,Unknown
+C00417,Surabaya,Organic,2025-12-10,F
+C00418,Surabaya,TikTok Ads,2026-04-29,M
+C00419,Yogyakarta,Organic,2026-04-05,F
+C00420,Semarang,Organic,2025-01-20,M
+C00421,Yogyakarta,Google Ads,2026-07-16,F
+C00422,Medan,Instagram Ads,2025-10-23,F
+C00423,Bekasi,Google Ads,2025-09-02,Other
+C00424,Bandung,Organic,2026-04-14,M
+C00425,Jakarta,Google Ads,2026-07-03,Other
+C00426,Surabaya,Instagram Ads,2025-09-05,F
+C00427,Medan,Google Ads,2025-12-28,M
+C00428,Bogor,Email,2025-03-29,F
+C00429,Bogor,Google Ads,2026-06-23,Other
+C00430,Jakarta,Instagram Ads,2026-07-22,M
+C00431,Bekasi,Email,2025-02-14,F
+C00432,Makassar,TikTok Ads,2025-01-17,F
+C00433,Bandung,TikTok Ads,2025-09-04,Unknown
+C00434,Surabaya,Organic,2025-12-07,Other
+C00435,Surabaya,TikTok Ads,2025-12-13,Unknown
+C00436,Depok,Google Ads,2026-04-21,M
+C00437,Depok,Organic,2025-03-06,M
+C00438,Medan,Referral,2025-02-14,F
+C00439,Bogor,Instagram Ads,2025-11-14,Other
+C00440,Semarang,Organic,2026-04-30,Unknown
+C00441,Semarang,Instagram Ads,2025-07-15,F
+C00442,Semarang,Organic,2025-12-06,F
+C00443,Bekasi,TikTok Ads,2026-03-24,M
+C00444,Surabaya,Instagram Ads,2025-12-14,M
+C00445,Bogor,Instagram Ads,2026-01-12,F
+C00446,Bandung,Instagram Ads,2026-03-11,M
+C00447,Semarang,Instagram Ads,2026-07-13,F
+C00448,Semarang,Instagram Ads,2025-12-02,Other
+C00449,Surabaya,Google Ads,2026-03-13,F
+C00450,Jakarta,TikTok Ads,2026-04-03,F
+C00451,Semarang,Google Ads,2026-03-22,F
+C00452,Bekasi,Instagram Ads,2025-03-18,Unknown
+C00453,Jakarta,Organic,2025-06-13,Other
+C00454,Jakarta,Organic,2026-03-25,M
+C00455,Makassar,Instagram Ads,2026-01-11,Other
+C00456,Yogyakarta,Organic,2025-02-03,M
+C00457,Makassar,Instagram Ads,2026-01-15,F
+C00458,Surabaya,Google Ads,2026-08-11,M
+C00459,Semarang,Organic,2025-11-18,F
+C00460,Surabaya,Instagram Ads,2025-01-27,M
+C00461,Bandung,Instagram Ads,2026-07-30,F
+C00462,Medan,Email,2026-04-02,F
+C00463,Medan,Organic,2026-05-18,F
+C00464,Surabaya,Referral,2026-04-08,M
+C00465,Makassar,Google Ads,2025-03-31,Unknown
+C00466,Bogor,Google Ads,2025-03-08,F
+C00467,Surabaya,TikTok Ads,2025-06-11,Other
+C00468,Bandung,Email,2025-08-18,M
+C00469,Depok,Organic,2025-08-31,Other
+C00470,Makassar,Instagram Ads,2026-08-10,Other
+C00471,Yogyakarta,Referral,2025-05-13,F
+C00472,Bekasi,Email,2025-11-13,Unknown
+C00473,Bogor,Instagram Ads,2026-05-06,M
+C00474,Bandung,Organic,2026-08-12,F
+C00475,Depok,Instagram Ads,2025-03-17,Other
+C00476,Surabaya,Referral,2025-12-19,Other
+C00477,Surabaya,Instagram Ads,2025-07-06,F
+C00478,Bogor,Organic,2025-05-08,M
+C00479,Makassar,Referral,2025-06-15,M
+C00480,Bogor,Referral,2025-12-21,F
+C00481,Medan,Google Ads,2025-09-14,Other
+C00482,Surabaya,Google Ads,2025-10-09,Other
+C00483,Bandung,Google Ads,2026-07-01,M
+C00484,Surabaya,Organic,2026-08-18,Other
+C00485,Yogyakarta,Organic,2025-12-12,F
+C00486,Jakarta,Referral,2025-03-25,Other
+C00487,Medan,TikTok Ads,2025-09-29,M
+C00488,Depok,Referral,2025-02-01,Other
+C00489,Semarang,Instagram Ads,2025-10-24,Unknown
+C00490,Semarang,Instagram Ads,2026-02-20,Unknown
+C00491,Surabaya,Instagram Ads,2025-03-03,M
+C00492,Medan,Instagram Ads,2026-04-21,M
+C00493,Makassar,TikTok Ads,2025-11-17,F
+C00494,Surabaya,TikTok Ads,2026-02-13,Other
+C00495,Bandung,Instagram Ads,2026-07-30,M
+C00496,Semarang,Instagram Ads,2025-05-06,M
+C00497,Jakarta,Instagram Ads,2025-04-10,M
+C00498,Medan,Email,2026-03-05,M
+C00499,Yogyakarta,TikTok Ads,2025-12-02,M
+C00500,Depok,Email,2025-06-13,M
+C00501,Semarang,Instagram Ads,2026-05-26,F
+C00502,Bogor,Instagram Ads,2026-02-07,M
+C00503,Yogyakarta,Instagram Ads,2025-08-09,F
+C00504,Depok,Google Ads,2025-10-16,Unknown
+C00505,Semarang,Google Ads,2026-04-27,F
+C00506,Surabaya,Referral,2026-03-18,Unknown
+C00507,Bekasi,Instagram Ads,2026-01-10,M
+C00508,Yogyakarta,Google Ads,2025-02-22,F
+C00509,Semarang,Organic,2026-07-21,Other
+C00510,Bogor,Instagram Ads,2026-04-07,Other
+C00511,Surabaya,Email,2025-05-02,M
+C00512,Makassar,Google Ads,2026-01-18,F
+C00513,Medan,Google Ads,2025-05-28,M
+C00514,Jakarta,Organic,2026-05-28,M
+C00515,Depok,Google Ads,2025-12-08,M
+C00516,Surabaya,Instagram Ads,2026-06-12,Other
+C00517,Surabaya,Instagram Ads,2025-11-23,Other
+C00518,Yogyakarta,Instagram Ads,2025-11-03,Other
+C00519,Depok,TikTok Ads,2026-06-30,F
+C00520,Jakarta,Instagram Ads,2026-05-02,Unknown
+C00521,Bekasi,Google Ads,2025-04-23,Unknown
+C00522,Yogyakarta,Instagram Ads,2025-01-28,Unknown
+C00523,Yogyakarta,Organic,2026-08-16,F
+C00524,Depok,Organic,2026-08-21,Unknown
+C00525,Surabaya,TikTok Ads,2026-01-25,M
+C00526,Yogyakarta,Referral,2025-02-02,F
+C00527,Jakarta,Instagram Ads,2025-07-15,M
+C00528,Bekasi,Google Ads,2025-06-05,M
+C00529,Yogyakarta,Referral,2026-05-29,Unknown
+C00530,Surabaya,Google Ads,2025-03-05,Other
+C00531,Depok,Google Ads,2025-11-29,F
+C00532,Depok,Referral,2025-06-27,F
+C00533,Makassar,Google Ads,2026-07-14,Unknown
+C00534,Yogyakarta,Instagram Ads,2025-09-28,M
+C00535,Bogor,Instagram Ads,2025-10-13,F
+C00536,Medan,Google Ads,2025-10-23,M
+C00537,Depok,Instagram Ads,2025-11-21,Unknown
+C00538,Semarang,Organic,2025-10-08,Unknown
+C00539,Bekasi,Referral,2026-07-11,M
+C00540,Surabaya,Instagram Ads,2025-12-20,F
+C00541,Makassar,Referral,2025-03-22,Unknown
+C00542,Depok,Organic,2025-09-20,Other
+C00543,Bogor,Google Ads,2025-10-05,M
+C00544,Yogyakarta,TikTok Ads,2025-04-22,M
+C00545,Jakarta,Google Ads,2025-09-06,Other
+C00546,Medan,Organic,2025-08-20,M
+C00547,Depok,Organic,2025-12-05,M
+C00548,Bogor,Email,2025-01-06,M
+C00549,Depok,Instagram Ads,2026-02-21,M
+C00550,Makassar,Instagram Ads,2025-10-22,F
+C00551,Yogyakarta,Organic,2025-04-02,Unknown
+C00552,Surabaya,Instagram Ads,2025-02-08,M
+C00553,Bekasi,TikTok Ads,2025-02-07,M
+C00554,Jakarta,Organic,2025-10-24,Other
+C00555,Makassar,Instagram Ads,2025-04-20,Unknown
+C00556,Bogor,Instagram Ads,2026-07-11,M
+C00557,Depok,Instagram Ads,2026-06-01,F
+C00558,Surabaya,TikTok Ads,2025-12-05,Unknown
+C00559,Surabaya,Organic,2025-09-21,F
+C00560,Yogyakarta,Google Ads,2025-10-30,M
+C00561,Yogyakarta,Referral,2025-06-29,M
+C00562,Bogor,Instagram Ads,2026-03-14,M
+C00563,Surabaya,Email,2025-04-08,M
+C00564,Medan,Organic,2025-11-28,M
+C00565,Depok,TikTok Ads,2025-08-30,F
+C00566,Yogyakarta,TikTok Ads,2025-11-06,F
+C00567,Makassar,Google Ads,2025-09-25,F
+C00568,Depok,Instagram Ads,2025-05-02,M
+C00569,Semarang,Google Ads,2026-05-30,Unknown
+C00570,Makassar,Google Ads,2025-10-30,M
+C00571,Depok,Organic,2025-05-17,Unknown
+C00572,Bekasi,TikTok Ads,2026-01-18,M
+C00573,Medan,TikTok Ads,2026-07-05,Unknown
+C00574,Bogor,Instagram Ads,2025-03-25,Unknown
+C00575,Bandung,Referral,2026-01-06,F
+C00576,Bogor,Referral,2025-03-05,M
+C00577,Bogor,Organic,2026-08-10,F
+C00578,Depok,Organic,2026-06-17,M
+C00579,Depok,Organic,2026-08-21,Other
+C00580,Jakarta,Instagram Ads,2026-04-02,Other
+C00581,Depok,Google Ads,2026-03-02,Other
+C00582,Semarang,TikTok Ads,2026-04-19,M
+C00583,Jakarta,TikTok Ads,2025-09-18,Other
+C00584,Jakarta,Instagram Ads,2025-03-16,Unknown
+C00585,Bogor,Email,2025-03-07,F
+C00586,Jakarta,Instagram Ads,2026-04-29,M
+C00587,Bekasi,Instagram Ads,2025-05-19,M
+C00588,Bekasi,Instagram Ads,2026-04-05,Unknown
+C00589,Surabaya,Google Ads,2026-07-07,F
+C00590,Surabaya,Email,2025-05-02,M
+C00591,Surabaya,TikTok Ads,2026-06-26,M
+C00592,Jakarta,Email,2025-01-04,M
+C00593,Bekasi,Google Ads,2026-07-12,M
+C00594,Depok,Instagram Ads,2025-09-11,F
+C00595,Bandung,Organic,2025-07-13,Unknown
+C00596,Yogyakarta,TikTok Ads,2026-03-06,F
+C00597,Medan,Organic,2025-09-04,Other
+C00598,Depok,Google Ads,2025-02-04,Unknown
+C00599,Medan,TikTok Ads,2025-02-19,M
+C00600,Medan,Google Ads,2026-03-26,F
+C00601,Bogor,Email,2025-05-24,M
+C00602,Makassar,Google Ads,2026-08-13,Unknown
+C00603,Medan,Instagram Ads,2025-11-25,M
+C00604,Medan,Instagram Ads,2026-06-18,F
+C00605,Bogor,Referral,2025-03-04,Unknown
+C00606,Bekasi,Google Ads,2025-06-29,F
+C00607,Bekasi,TikTok Ads,2025-12-19,F
+C00608,Bekasi,Organic,2026-03-03,M
+C00609,Bogor,Instagram Ads,2025-07-08,M
+C00610,Surabaya,TikTok Ads,2025-11-04,F
+C00611,Bekasi,Email,2026-07-30,Other
+C00612,Surabaya,Instagram Ads,2026-06-27,F
+C00613,Makassar,Google Ads,2025-07-28,M
+C00614,Bandung,Google Ads,2026-01-15,M
+C00615,Semarang,Instagram Ads,2025-02-22,Other
+C00616,Bandung,Organic,2025-02-10,Other
+C00617,Medan,Instagram Ads,2026-07-27,F
+C00618,Jakarta,Organic,2025-11-07,M
+C00619,Depok,Referral,2025-05-01,Unknown
+C00620,Bekasi,Referral,2025-07-29,Other
+C00621,Semarang,Instagram Ads,2025-11-26,Other
+C00622,Semarang,Instagram Ads,2026-01-03,Other
+C00623,Depok,Organic,2026-05-25,Unknown
+C00624,Makassar,Referral,2026-04-26,F
+C00625,Bekasi,Organic,2025-11-17,M
+C00626,Jakarta,Instagram Ads,2025-05-30,Other
+C00627,Bekasi,Instagram Ads,2026-08-17,M
+C00628,Medan,Instagram Ads,2025-12-04,M
+C00629,Bogor,Google Ads,2026-05-27,Unknown
+C00630,Semarang,TikTok Ads,2025-12-12,M
+C00631,Depok,Organic,2026-05-18,F
+C00632,Surabaya,TikTok Ads,2025-06-23,M
+C00633,Bogor,Email,2025-07-08,F
+C00634,Jakarta,TikTok Ads,2026-06-21,F
+C00635,Jakarta,Instagram Ads,2025-02-19,Unknown
+C00636,Bandung,TikTok Ads,2025-08-25,F
+C00637,Bogor,Instagram Ads,2025-08-12,F
+C00638,Depok,Organic,2026-05-10,Other
+C00639,Bekasi,Organic,2026-07-19,Other
+C00640,Bogor,Email,2025-10-09,F
+C00641,Bekasi,TikTok Ads,2026-05-30,M
+C00642,Bandung,Google Ads,2025-04-20,M
+C00643,Yogyakarta,Google Ads,2025-07-16,F
+C00644,Bekasi,Organic,2025-10-01,M
+C00645,Yogyakarta,Organic,2026-04-16,Unknown
+C00646,Semarang,Google Ads,2025-08-20,F
+C00647,Bandung,Instagram Ads,2025-02-02,M
+C00648,Depok,Organic,2026-07-20,F
+C00649,Bandung,Instagram Ads,2025-06-25,M
+C00650,Yogyakarta,Email,2025-12-06,F
+C00651,Jakarta,Organic,2026-06-25,Unknown
+C00652,Depok,Instagram Ads,2026-08-04,F
+C00653,Bogor,Google Ads,2025-10-15,F
+C00654,Makassar,Organic,2025-07-03,M
+C00655,Bekasi,Referral,2025-05-28,F
+C00656,Yogyakarta,Organic,2025-06-16,M
+C00657,Makassar,Instagram Ads,2026-07-08,Unknown
+C00658,Bandung,Google Ads,2025-05-24,F
+C00659,Bandung,Instagram Ads,2025-02-24,F
+C00660,Yogyakarta,TikTok Ads,2025-12-15,Other
+C00661,Makassar,Organic,2026-02-11,F
+C00662,Depok,Organic,2026-04-07,Other
+C00663,Bekasi,Organic,2026-01-20,Other
+C00664,Bandung,TikTok Ads,2026-01-25,F
+C00665,Bandung,Organic,2025-09-10,M
+C00666,Surabaya,TikTok Ads,2026-01-25,F
+C00667,Bandung,Organic,2026-01-05,F
+C00668,Makassar,TikTok Ads,2026-04-01,F
+C00669,Bandung,Organic,2025-05-16,M
+C00670,Bogor,Google Ads,2026-07-25,F
+C00671,Bandung,Instagram Ads,2025-01-27,F
+C00672,Bekasi,Organic,2025-11-29,M
+C00673,Bandung,TikTok Ads,2026-02-02,Other
+C00674,Yogyakarta,Google Ads,2025-09-06,Unknown
+C00675,Surabaya,Organic,2026-01-25,F
+C00676,Depok,Organic,2025-10-02,M
+C00677,Semarang,Instagram Ads,2026-03-22,M
+C00678,Makassar,Instagram Ads,2025-03-20,M
+C00679,Yogyakarta,Google Ads,2026-05-23,M
+C00680,Surabaya,Instagram Ads,2025-04-20,M
+C00681,Yogyakarta,Instagram Ads,2025-12-07,F
+C00682,Makassar,Instagram Ads,2026-03-27,Unknown
+C00683,Semarang,Instagram Ads,2025-05-20,Unknown
+C00684,Depok,Instagram Ads,2025-07-25,M
+C00685,Semarang,TikTok Ads,2025-11-23,Unknown
+C00686,Yogyakarta,TikTok Ads,2026-05-18,F
+C00687,Semarang,TikTok Ads,2026-01-21,M
+C00688,Bandung,Referral,2026-01-09,M
+C00689,Surabaya,Google Ads,2026-07-13,Other
+C00690,Depok,Referral,2025-01-28,M
+C00691,Semarang,TikTok Ads,2026-03-25,F
+C00692,Depok,Organic,2026-02-23,F
+C00693,Semarang,Google Ads,2025-09-05,Unknown
+C00694,Bekasi,Organic,2026-03-10,Other
+C00695,Yogyakarta,Instagram Ads,2026-05-06,Other
+C00696,Bogor,Organic,2026-03-05,F
+C00697,Yogyakarta,Google Ads,2026-07-04,F
+C00698,Medan,Google Ads,2025-04-22,F
+C00699,Yogyakarta,Organic,2025-06-20,Unknown
+C00700,Makassar,Email,2026-02-14,M
+C00701,Jakarta,Organic,2025-04-19,M
+C00702,Bogor,Google Ads,2026-06-07,Unknown
+C00703,Medan,Instagram Ads,2026-08-13,M
+C00704,Yogyakarta,Google Ads,2026-04-20,M
+C00705,Jakarta,Instagram Ads,2025-12-20,F
+C00706,Bandung,Organic,2026-03-02,Unknown
+C00707,Makassar,Instagram Ads,2025-05-26,M
+C00708,Bogor,Instagram Ads,2025-07-31,M
+C00709,Depok,TikTok Ads,2025-04-10,M
+C00710,Bandung,Instagram Ads,2025-11-23,Unknown
+C00711,Jakarta,TikTok Ads,2025-04-28,Unknown
+C00712,Surabaya,Referral,2025-04-22,Unknown
+C00713,Bogor,Organic,2025-09-07,M
+C00714,Bogor,Instagram Ads,2025-12-05,M
+C00715,Bekasi,Google Ads,2025-08-26,M
+C00716,Bekasi,Organic,2026-03-19,Other
+C00717,Depok,Google Ads,2025-07-22,M
+C00718,Medan,Organic,2025-01-05,Unknown
+C00719,Yogyakarta,Organic,2025-03-06,Other
+C00720,Makassar,Instagram Ads,2025-07-11,M
+C00721,Semarang,Google Ads,2025-04-27,M
+C00722,Makassar,Google Ads,2026-06-25,Other
+C00723,Yogyakarta,Organic,2026-02-06,F
+C00724,Yogyakarta,Organic,2026-04-14,Unknown
+C00725,Yogyakarta,Google Ads,2025-11-01,Unknown
+C00726,Makassar,Organic,2025-05-18,F
+C00727,Surabaya,Instagram Ads,2025-04-30,M
+C00728,Bekasi,Instagram Ads,2026-06-08,M
+C00729,Bekasi,Instagram Ads,2026-08-12,M
+C00730,Surabaya,Google Ads,2026-07-05,M
+C00731,Surabaya,Organic,2025-10-23,M
+C00732,Makassar,Email,2025-02-24,M
+C00733,Medan,TikTok Ads,2025-05-20,Other
+C00734,Depok,Instagram Ads,2026-06-02,M
+C00735,Depok,Instagram Ads,2026-03-02,F
+C00736,Jakarta,TikTok Ads,2026-08-02,M
+C00737,Jakarta,Instagram Ads,2025-10-27,Other
+C00738,Surabaya,TikTok Ads,2025-10-23,Other
+C00739,Bogor,Google Ads,2026-05-23,Other
+C00740,Semarang,TikTok Ads,2025-04-27,F
+C00741,Jakarta,TikTok Ads,2026-07-10,M
+C00742,Medan,Email,2026-07-14,F
+C00743,Semarang,Referral,2025-09-11,F
+C00744,Semarang,Instagram Ads,2026-04-06,F
+C00745,Bandung,TikTok Ads,2026-03-26,M
+C00746,Yogyakarta,Google Ads,2025-08-03,Unknown
+C00747,Surabaya,Google Ads,2026-03-15,M
+C00748,Jakarta,Google Ads,2025-07-31,Other
+C00749,Yogyakarta,Google Ads,2025-10-15,F
+C00750,Semarang,Google Ads,2025-10-27,Other
+C00751,Surabaya,Email,2025-04-08,M
+C00752,Semarang,Referral,2025-03-02,M
+C00753,Medan,Organic,2025-05-16,F
+C00754,Bekasi,Instagram Ads,2025-09-11,Other
+C00755,Bekasi,Instagram Ads,2025-10-03,F
+C00756,Bekasi,Google Ads,2025-04-06,F
+C00757,Depok,Email,2026-01-13,F
+C00758,Jakarta,Referral,2026-08-19,Unknown
+C00759,Depok,Google Ads,2025-04-06,Unknown
+C00760,Bandung,TikTok Ads,2026-01-02,M
+C00761,Bekasi,TikTok Ads,2025-08-12,M
+C00762,Makassar,TikTok Ads,2025-10-02,F
+C00763,Yogyakarta,Organic,2026-07-15,M
+C00764,Jakarta,Organic,2025-12-18,Unknown
+C00765,Jakarta,Organic,2026-04-16,M
+C00766,Depok,Organic,2026-03-28,M
+C00767,Surabaya,Referral,2025-07-27,F
+C00768,Semarang,Organic,2025-06-12,F
+C00769,Bandung,Instagram Ads,2025-09-14,Unknown
+C00770,Jakarta,Instagram Ads,2025-06-19,F
+C00771,Bekasi,Google Ads,2025-08-28,Unknown
+C00772,Jakarta,Organic,2025-04-08,F
+C00773,Yogyakarta,Organic,2025-05-16,Unknown
+C00774,Jakarta,Organic,2026-04-01,F
+C00775,Bekasi,Google Ads,2025-05-04,M
+C00776,Medan,Instagram Ads,2025-03-14,Unknown
+C00777,Bandung,Instagram Ads,2025-04-15,F
+C00778,Bekasi,TikTok Ads,2025-05-21,M
+C00779,Bandung,Google Ads,2025-05-27,F
+C00780,Depok,Instagram Ads,2025-06-18,M
+C00781,Bekasi,Google Ads,2025-06-05,M
+C00782,Bandung,Referral,2025-08-11,M
+C00783,Yogyakarta,TikTok Ads,2025-05-07,F
+C00784,Makassar,TikTok Ads,2026-03-16,M
+C00785,Bandung,Organic,2025-10-11,Other
+C00786,Jakarta,TikTok Ads,2025-10-19,Unknown
+C00787,Medan,Google Ads,2025-11-05,Other
+C00788,Bekasi,Instagram Ads,2025-07-13,F
+C00789,Depok,Instagram Ads,2025-09-03,M
+C00790,Yogyakarta,Organic,2026-05-27,F
+C00791,Makassar,Organic,2026-01-05,Other
+C00792,Makassar,Google Ads,2026-03-07,M
+C00793,Bandung,Organic,2026-04-28,F
+C00794,Semarang,Organic,2025-01-15,F
+C00795,Bogor,Instagram Ads,2026-02-12,Unknown
+C00796,Bekasi,Instagram Ads,2026-05-29,M
+C00797,Bogor,Google Ads,2025-03-26,M
+C00798,Bandung,Instagram Ads,2025-10-12,Other
+C00799,Surabaya,Google Ads,2025-07-28,M
+C00800,Bandung,Instagram Ads,2026-08-24,M
+C00801,Jakarta,Organic,2025-09-02,M
+C00802,Depok,Google Ads,2025-04-29,F
+C00803,Surabaya,Organic,2025-11-13,Unknown
+C00804,Jakarta,Organic,2025-05-21,F
+C00805,Bogor,TikTok Ads,2026-06-20,Unknown
+C00806,Surabaya,Instagram Ads,2025-09-23,Unknown
+C00807,Bandung,TikTok Ads,2025-10-03,F
+C00808,Bekasi,Instagram Ads,2025-12-10,F
+C00809,Yogyakarta,Google Ads,2025-09-27,M
+C00810,Bogor,Instagram Ads,2026-04-12,M
+C00811,Surabaya,Instagram Ads,2026-08-04,F
+C00812,Yogyakarta,Google Ads,2025-04-16,F
+C00813,Bogor,Organic,2025-08-22,F
+C00814,Jakarta,Instagram Ads,2025-09-08,M
+C00815,Surabaya,Referral,2025-06-03,F
+C00816,Bekasi,Organic,2026-07-21,M
+C00817,Makassar,Instagram Ads,2026-03-03,F
+C00818,Makassar,Organic,2026-08-09,Unknown
+C00819,Surabaya,Organic,2025-02-23,Other
+C00820,Bekasi,Organic,2025-02-17,M
+C00821,Semarang,Instagram Ads,2025-10-17,Other
+C00822,Jakarta,Instagram Ads,2026-04-13,F
+C00823,Semarang,TikTok Ads,2026-08-01,M
+C00824,Makassar,Google Ads,2026-04-21,M
+C00825,Bogor,TikTok Ads,2025-07-20,M
+C00826,Jakarta,Referral,2025-06-04,F
+C00827,Bogor,Instagram Ads,2025-08-27,Unknown
+C00828,Makassar,Organic,2025-01-10,Unknown
+C00829,Semarang,Organic,2026-01-21,Other
+C00830,Bekasi,Instagram Ads,2025-09-01,F
+C00831,Semarang,Organic,2025-05-26,M
+C00832,Bekasi,TikTok Ads,2026-06-17,F
+C00833,Bandung,Google Ads,2026-04-15,Other
+C00834,Bekasi,Organic,2025-05-17,Other
+C00835,Bekasi,Google Ads,2025-03-05,M
+C00836,Semarang,Instagram Ads,2025-08-31,F
+C00837,Makassar,Instagram Ads,2026-02-07,F
+C00838,Bandung,Referral,2025-08-28,M
+C00839,Bandung,Organic,2026-08-22,M
+C00840,Depok,Instagram Ads,2026-04-06,F
+C00841,Makassar,Email,2026-07-03,M
+C00842,Semarang,Instagram Ads,2026-04-08,F
+C00843,Surabaya,TikTok Ads,2025-04-03,F
+C00844,Medan,TikTok Ads,2025-02-11,F
+C00845,Bandung,TikTok Ads,2025-06-01,F
+C00846,Bogor,Organic,2026-02-10,F
+C00847,Surabaya,Organic,2025-09-24,M
+C00848,Bogor,TikTok Ads,2026-04-09,M
+C00849,Depok,Organic,2025-04-07,M
+C00850,Jakarta,Organic,2025-05-05,M
+C00851,Medan,TikTok Ads,2025-05-14,F
+C00852,Yogyakarta,Google Ads,2025-03-28,F
+C00853,Bandung,Organic,2025-01-23,Unknown
+C00854,Surabaya,Organic,2026-03-31,F
+C00855,Jakarta,Referral,2025-05-06,F
+C00856,Yogyakarta,Instagram Ads,2025-06-22,Unknown
+C00857,Depok,Organic,2026-02-09,Unknown
+C00858,Surabaya,Instagram Ads,2026-03-13,M
+C00859,Semarang,Instagram Ads,2025-10-09,M
+C00860,Yogyakarta,Google Ads,2025-02-05,M
+C00861,Depok,Instagram Ads,2025-10-30,Other
+C00862,Jakarta,Organic,2026-05-06,M
+C00863,Bekasi,Organic,2025-05-21,Other
+C00864,Bogor,TikTok Ads,2025-09-13,M
+C00865,Depok,Google Ads,2026-01-03,M
+C00866,Yogyakarta,Google Ads,2025-12-19,M
+C00867,Surabaya,Organic,2025-10-04,Other
+C00868,Jakarta,Referral,2025-08-13,F
+C00869,Depok,Google Ads,2025-03-01,Other
+C00870,Surabaya,Organic,2025-08-27,Unknown
+C00871,Semarang,Google Ads,2025-09-04,Unknown
+C00872,Medan,Google Ads,2025-02-27,M
+C00873,Surabaya,Organic,2025-12-30,Other
+C00874,Makassar,Referral,2025-11-22,F
+C00875,Yogyakarta,Google Ads,2025-12-27,Other
+C00876,Depok,Google Ads,2025-07-12,M
+C00877,Jakarta,Organic,2026-05-18,M
+C00878,Jakarta,Google Ads,2025-08-13,F
+C00879,Yogyakarta,Organic,2025-12-06,M
+C00880,Surabaya,Referral,2025-12-15,F
+C00881,Jakarta,Organic,2025-03-02,Unknown
+C00882,Bandung,TikTok Ads,2025-05-26,F
+C00883,Makassar,TikTok Ads,2025-03-16,Unknown
+C00884,Yogyakarta,Organic,2026-02-10,F
+C00885,Surabaya,Email,2025-11-27,Unknown
+C00886,Depok,Google Ads,2026-03-24,M
+C00887,Yogyakarta,TikTok Ads,2026-07-30,M
+C00888,Bekasi,Instagram Ads,2025-06-29,Unknown
+C00889,Surabaya,Organic,2025-10-29,F
+C00890,Bekasi,Referral,2026-08-10,Other
+C00891,Surabaya,Google Ads,2025-02-03,Other
+C00892,Yogyakarta,Organic,2025-08-15,M
+C00893,Makassar,TikTok Ads,2025-05-25,M
+C00894,Makassar,Organic,2025-12-22,F
+C00895,Depok,Organic,2025-12-10,M
+C00896,Bandung,Instagram Ads,2025-09-13,F
+C00897,Jakarta,Instagram Ads,2025-01-02,Unknown
+C00898,Surabaya,Referral,2026-03-06,M
+C00899,Makassar,Google Ads,2026-01-23,F
+C00900,Yogyakarta,Google Ads,2026-05-06,Unknown
+C00901,Surabaya,Instagram Ads,2025-08-19,F
+C00902,Jakarta,Instagram Ads,2025-10-29,F
+C00903,Makassar,Organic,2025-03-17,M
+C00904,Bandung,Google Ads,2025-06-14,F
+C00905,Yogyakarta,Email,2025-12-13,M
+C00906,Bekasi,Referral,2025-02-01,M
+C00907,Surabaya,Organic,2026-03-21,F
+C00908,Medan,Instagram Ads,2025-07-30,Other
+C00909,Semarang,Google Ads,2026-07-08,F
+C00910,Bandung,Organic,2025-09-01,Other
+C00911,Depok,Organic,2026-07-17,F
+C00912,Bekasi,Organic,2025-01-04,Unknown
+C00913,Medan,Organic,2026-05-07,M
+C00914,Semarang,Email,2025-06-24,M
+C00915,Semarang,TikTok Ads,2025-04-29,M
+C00916,Semarang,Organic,2026-05-16,Other
+C00917,Surabaya,Instagram Ads,2026-02-01,M
+C00918,Surabaya,Instagram Ads,2026-01-14,F
+C00919,Depok,Instagram Ads,2026-03-27,F
+C00920,Jakarta,Organic,2026-08-01,Unknown
+C00921,Bandung,Google Ads,2025-04-10,Other
+C00922,Yogyakarta,Organic,2026-02-28,F
+C00923,Bogor,Instagram Ads,2026-02-01,Other
+C00924,Yogyakarta,Referral,2026-05-02,M
+C00925,Bandung,Instagram Ads,2025-11-03,Unknown
+C00926,Bogor,Google Ads,2025-02-05,Other
+C00927,Yogyakarta,Organic,2026-08-09,M
+C00928,Surabaya,Email,2025-06-27,M
+C00929,Jakarta,Instagram Ads,2025-05-10,Unknown
+C00930,Medan,Email,2026-03-22,Unknown
+C00931,Yogyakarta,Instagram Ads,2025-06-01,Unknown
+C00932,Bandung,Instagram Ads,2025-03-10,M
+C00933,Makassar,Referral,2026-07-20,Other
+C00934,Jakarta,TikTok Ads,2026-04-15,Other
+C00935,Bekasi,Organic,2026-06-20,M
+C00936,Yogyakarta,Google Ads,2025-06-01,F
+C00937,Yogyakarta,TikTok Ads,2025-04-19,F
+C00938,Makassar,Referral,2026-07-03,F
+C00939,Depok,Google Ads,2026-01-28,M
+C00940,Surabaya,Instagram Ads,2025-02-08,M
+C00941,Jakarta,Instagram Ads,2026-02-16,F
+C00942,Jakarta,TikTok Ads,2025-09-01,F
+C00943,Jakarta,Instagram Ads,2026-01-17,F
+C00944,Semarang,TikTok Ads,2025-11-15,Unknown
+C00945,Medan,Organic,2025-04-11,Unknown
+C00946,Makassar,Instagram Ads,2026-03-30,M
+C00947,Medan,Instagram Ads,2025-04-02,M
+C00948,Bogor,Referral,2026-05-12,F
+C00949,Surabaya,Organic,2026-06-12,Unknown
+C00950,Bekasi,Organic,2026-06-03,Other
+C00951,Jakarta,Organic,2026-08-06,M
+C00952,Medan,Organic,2025-03-01,F
+C00953,Medan,Instagram Ads,2026-01-05,M
+C00954,Bekasi,Google Ads,2026-06-02,F
+C00955,Medan,Instagram Ads,2025-02-01,Other
+C00956,Surabaya,Email,2026-04-02,M
+C00957,Bogor,Instagram Ads,2026-08-24,M
+C00958,Bandung,Instagram Ads,2025-09-22,M
+C00959,Surabaya,Referral,2025-02-20,M
+C00960,Medan,Google Ads,2025-08-15,F
+C00961,Bogor,Organic,2026-02-24,Unknown
+C00962,Depok,Referral,2025-01-10,Unknown
+C00963,Yogyakarta,TikTok Ads,2025-06-27,M
+C00964,Yogyakarta,TikTok Ads,2025-09-16,F
+C00965,Bekasi,Referral,2025-10-09,F
+C00966,Semarang,Organic,2026-04-16,F
+C00967,Yogyakarta,Instagram Ads,2026-06-18,F
+C00968,Bogor,Email,2025-01-08,F
+C00969,Yogyakarta,Google Ads,2026-07-29,F
+C00970,Depok,Organic,2025-04-21,F
+C00971,Semarang,Instagram Ads,2025-11-29,Unknown
+C00972,Medan,Organic,2025-11-02,M
+C00973,Yogyakarta,Instagram Ads,2025-02-28,F
+C00974,Jakarta,Google Ads,2025-05-24,F
+C00975,Bekasi,Instagram Ads,2025-09-23,Unknown
+C00976,Yogyakarta,TikTok Ads,2025-02-06,Other
+C00977,Makassar,TikTok Ads,2025-07-14,M
+C00978,Depok,Referral,2026-07-02,Unknown
+C00979,Bogor,Instagram Ads,2026-01-03,M
+C00980,Surabaya,Instagram Ads,2026-07-26,M
+C00981,Semarang,TikTok Ads,2025-05-12,Other
+C00982,Makassar,Google Ads,2025-07-07,M
+C00983,Medan,TikTok Ads,2025-12-30,F
+C00984,Makassar,Instagram Ads,2026-03-07,Other
+C00985,Depok,Referral,2025-10-29,M
+C00986,Yogyakarta,Google Ads,2025-02-24,Other
+C00987,Depok,Referral,2025-03-14,Other
+C00988,Bekasi,Google Ads,2025-05-03,M
+C00989,Surabaya,Organic,2025-02-25,M
+C00990,Bekasi,Email,2025-12-17,M
+C00991,Makassar,Referral,2025-05-27,M
+C00992,Depok,Instagram Ads,2025-03-24,M
+C00993,Jakarta,Organic,2025-11-17,F
+C00994,Surabaya,Google Ads,2025-08-03,M
+C00995,Bandung,Organic,2026-05-17,M
+C00996,Bekasi,Instagram Ads,2026-03-16,M
+C00997,Jakarta,Organic,2026-01-28,M
+C00998,Jakarta,Referral,2026-01-18,Other
+C00999,Jakarta,Google Ads,2025-07-15,Unknown
+C01000,Medan,Google Ads,2025-09-12,F
+C01001,Surabaya,Organic,2025-11-16,Other
+C01002,Surabaya,Organic,2025-11-10,F
+C01003,Semarang,Instagram Ads,2025-11-02,Other
+C01004,Makassar,Instagram Ads,2026-06-21,Unknown
+C01005,Makassar,Email,2025-05-18,M
+C01006,Medan,Organic,2026-01-03,M
+C01007,Medan,Organic,2025-01-20,M
+C01008,Jakarta,Google Ads,2025-08-05,M
+C01009,Makassar,TikTok Ads,2025-05-07,F
+C01010,Semarang,TikTok Ads,2026-01-20,Other
+C01011,Yogyakarta,Email,2025-02-19,Unknown
+C01012,Jakarta,Organic,2025-04-21,F
+C01013,Depok,Instagram Ads,2026-03-03,Other
+C01014,Depok,TikTok Ads,2025-09-16,M
+C01015,Semarang,Instagram Ads,2025-01-10,F
+C01016,Semarang,Google Ads,2026-06-17,Unknown
+C01017,Bekasi,TikTok Ads,2025-05-21,F
+C01018,Yogyakarta,Organic,2026-06-08,F
+C01019,Depok,Organic,2025-04-19,M
+C01020,Bogor,Email,2025-09-27,F
+C01021,Semarang,Organic,2026-02-24,Other
+C01022,Medan,Google Ads,2026-05-24,M
+C01023,Medan,Organic,2025-12-05,Unknown
+C01024,Bandung,TikTok Ads,2025-04-02,Unknown
+C01025,Surabaya,Referral,2026-05-21,Other
+C01026,Bandung,Referral,2025-03-18,Unknown
+C01027,Depok,Email,2025-08-25,F
+C01028,Depok,Organic,2025-09-28,M
+C01029,Semarang,Instagram Ads,2025-02-10,Unknown
+C01030,Bekasi,TikTok Ads,2025-11-17,F
+C01031,Jakarta,Referral,2025-02-16,Unknown
+C01032,Makassar,Instagram Ads,2025-06-24,M
+C01033,Bandung,Instagram Ads,2025-10-02,F
+C01034,Bandung,Instagram Ads,2025-07-07,M
+C01035,Bekasi,Google Ads,2025-10-06,M
+C01036,Surabaya,Organic,2026-03-08,Unknown
+C01037,Surabaya,Organic,2025-03-02,Other
+C01038,Yogyakarta,Google Ads,2026-05-10,M
+C01039,Makassar,Google Ads,2026-01-24,Unknown
+C01040,Depok,Referral,2025-05-14,F
+C01041,Depok,Organic,2026-02-26,F
+C01042,Jakarta,TikTok Ads,2025-11-18,Unknown
+C01043,Yogyakarta,TikTok Ads,2026-06-22,M
+C01044,Bogor,Google Ads,2025-12-13,Unknown
+C01045,Bekasi,Google Ads,2025-04-08,M
+C01046,Makassar,Google Ads,2026-05-09,Unknown
+C01047,Surabaya,TikTok Ads,2026-01-30,Other
+C01048,Jakarta,Google Ads,2025-02-25,M
+C01049,Depok,Referral,2026-06-02,M
+C01050,Depok,Instagram Ads,2025-03-18,F
+C01051,Jakarta,Google Ads,2025-10-12,Other
+C01052,Bekasi,TikTok Ads,2026-01-23,F
+C01053,Depok,TikTok Ads,2026-04-16,M
+C01054,Depok,Instagram Ads,2025-04-01,F
+C01055,Jakarta,Organic,2026-05-25,M
+C01056,Bogor,Google Ads,2025-02-06,F
+C01057,Bogor,Google Ads,2025-11-08,Unknown
+C01058,Makassar,Instagram Ads,2026-04-13,F
+C01059,Depok,Instagram Ads,2025-08-17,Other
+C01060,Makassar,TikTok Ads,2026-04-30,F
+C01061,Medan,Organic,2025-04-10,F
+C01062,Bogor,Google Ads,2025-10-26,Unknown
+C01063,Jakarta,Referral,2025-04-19,M
+C01064,Bekasi,Organic,2025-05-24,Other
+C01065,Medan,Organic,2025-07-20,M
+C01066,Depok,TikTok Ads,2025-08-09,M
+C01067,Bandung,TikTok Ads,2025-12-13,F
+C01068,Depok,Instagram Ads,2025-05-07,Other
+C01069,Surabaya,Email,2026-06-01,F
+C01070,Jakarta,Google Ads,2026-06-28,M
+C01071,Depok,Referral,2026-08-23,M
+C01072,Surabaya,TikTok Ads,2026-08-16,M
+C01073,Bekasi,Google Ads,2025-04-17,Other
+C01074,Bogor,Referral,2025-11-26,M
+C01075,Semarang,Instagram Ads,2025-09-12,F
+C01076,Depok,TikTok Ads,2025-10-29,M
+C01077,Yogyakarta,TikTok Ads,2026-02-27,Unknown
+C01078,Semarang,TikTok Ads,2026-06-09,Other
+C01079,Bogor,Google Ads,2025-11-18,M
+C01080,Yogyakarta,TikTok Ads,2025-08-03,Unknown
+C01081,Surabaya,Email,2025-12-20,Unknown
+C01082,Bogor,Google Ads,2025-07-02,Unknown
+C01083,Bandung,TikTok Ads,2025-11-27,Other
+C01084,Yogyakarta,Google Ads,2026-05-07,Unknown
+C01085,Bogor,Instagram Ads,2026-03-04,M
+C01086,Bogor,Organic,2025-01-14,M
+C01087,Jakarta,Google Ads,2025-05-29,M
+C01088,Surabaya,Email,2025-10-01,Unknown
+C01089,Surabaya,TikTok Ads,2025-09-14,Unknown
+C01090,Medan,TikTok Ads,2025-10-30,F
+C01091,Depok,Organic,2026-01-03,Unknown
+C01092,Medan,TikTok Ads,2026-07-30,Other
+C01093,Medan,Google Ads,2026-02-03,Unknown
+C01094,Jakarta,Referral,2025-10-22,M
+C01095,Makassar,Email,2026-03-03,F
+C01096,Semarang,Organic,2025-01-14,M
+C01097,Makassar,TikTok Ads,2025-08-19,Other
+C01098,Medan,Instagram Ads,2025-07-21,M
+C01099,Surabaya,Email,2025-03-18,Unknown
+C01100,Bandung,Instagram Ads,2026-06-11,M
+C01101,Bogor,Instagram Ads,2025-10-13,M
+C01102,Semarang,Organic,2026-08-22,M
+C01103,Jakarta,Organic,2025-06-08,F
+C01104,Yogyakarta,TikTok Ads,2025-02-22,F
+C01105,Yogyakarta,Google Ads,2026-05-18,F
+C01106,Bogor,Organic,2025-11-22,M
+C01107,Bandung,TikTok Ads,2026-06-18,M
+C01108,Bogor,Google Ads,2026-03-02,F
+C01109,Medan,Referral,2025-12-24,Unknown
+C01110,Makassar,Instagram Ads,2025-12-06,M
+C01111,Depok,Email,2026-06-28,Unknown
+C01112,Bandung,Google Ads,2025-01-10,M
+C01113,Yogyakarta,Referral,2025-09-04,M
+C01114,Makassar,Instagram Ads,2025-02-10,F
+C01115,Semarang,Google Ads,2026-01-31,F
+C01116,Bogor,TikTok Ads,2025-01-26,F
+C01117,Bogor,Instagram Ads,2026-06-11,F
+C01118,Medan,Instagram Ads,2025-10-31,F
+C01119,Surabaya,Email,2025-04-09,Other
+C01120,Jakarta,Google Ads,2026-07-01,M
+C01121,Bekasi,TikTok Ads,2025-08-07,M
+C01122,Bekasi,Google Ads,2026-07-05,F
+C01123,Jakarta,Instagram Ads,2025-06-07,F
+C01124,Bandung,Organic,2025-02-08,M
+C01125,Bogor,Organic,2025-09-15,M
+C01126,Bekasi,Instagram Ads,2025-09-22,Unknown
+C01127,Bekasi,Instagram Ads,2026-02-19,M
+C01128,Bogor,Organic,2025-05-02,Unknown
+C01129,Yogyakarta,Organic,2025-03-06,F
+C01130,Bogor,Organic,2026-01-02,Unknown
+C01131,Yogyakarta,Organic,2025-11-05,M
+C01132,Bekasi,TikTok Ads,2026-01-26,F
+C01133,Surabaya,Google Ads,2026-05-01,M
+C01134,Bogor,Instagram Ads,2026-02-05,Unknown
+C01135,Semarang,Google Ads,2025-05-28,Unknown
+C01136,Jakarta,Google Ads,2026-01-18,Other
+C01137,Bandung,Organic,2025-05-25,Other
+C01138,Bogor,Google Ads,2026-02-08,F
+C01139,Medan,TikTok Ads,2025-11-09,Unknown
+C01140,Medan,Instagram Ads,2025-12-19,Unknown
+C01141,Surabaya,Organic,2026-06-09,M
+C01142,Medan,Organic,2025-09-16,Unknown
+C01143,Jakarta,Referral,2026-08-04,Other
+C01144,Bogor,Organic,2026-04-18,Unknown
+C01145,Semarang,Organic,2025-03-10,Unknown
+C01146,Depok,Email,2026-08-18,F
+C01147,Medan,Organic,2025-05-12,Other
+C01148,Medan,Instagram Ads,2025-03-13,M
+C01149,Yogyakarta,Google Ads,2025-12-03,Unknown
+C01150,Surabaya,Google Ads,2026-08-22,F
+C01151,Bekasi,Organic,2025-11-20,F
+C01152,Medan,TikTok Ads,2025-09-10,Unknown
+C01153,Semarang,TikTok Ads,2026-03-23,M
+C01154,Depok,Instagram Ads,2025-12-06,F
+C01155,Depok,Google Ads,2025-11-09,M
+C01156,Semarang,Referral,2025-03-25,M
+C01157,Medan,Instagram Ads,2026-07-06,Unknown
+C01158,Bandung,Referral,2025-03-20,Other
+C01159,Yogyakarta,Google Ads,2025-02-01,Other
+C01160,Jakarta,Google Ads,2025-08-06,Other
+C01161,Depok,Google Ads,2026-07-07,M
+C01162,Bekasi,Organic,2026-01-10,Other
+C01163,Surabaya,Instagram Ads,2025-10-25,Other
+C01164,Bekasi,Instagram Ads,2025-04-03,F
+C01165,Yogyakarta,Google Ads,2025-09-02,Other
+C01166,Depok,Organic,2025-05-24,Other
+C01167,Surabaya,TikTok Ads,2026-08-03,M
+C01168,Jakarta,Organic,2026-01-03,M
+C01169,Bandung,Instagram Ads,2025-08-26,M
+C01170,Medan,Google Ads,2025-02-13,F
+C01171,Depok,Referral,2026-02-02,F
+C01172,Makassar,Organic,2025-02-10,Other
+C01173,Semarang,Google Ads,2025-10-08,Other
+C01174,Bekasi,Google Ads,2025-06-28,F
+C01175,Bogor,Instagram Ads,2025-03-21,M
+C01176,Bekasi,Instagram Ads,2026-06-13,F
+C01177,Depok,Referral,2026-05-14,F
+C01178,Surabaya,Instagram Ads,2026-05-29,M
+C01179,Bogor,Google Ads,2025-03-20,M
+C01180,Surabaya,Organic,2025-06-03,Other
+C01181,Medan,Instagram Ads,2025-05-02,F
+C01182,Depok,Google Ads,2025-04-27,M
+C01183,Yogyakarta,Organic,2025-08-04,M
+C01184,Medan,Organic,2025-01-23,Other
+C01185,Surabaya,Google Ads,2025-06-14,F
+C01186,Surabaya,Organic,2026-08-10,F
+C01187,Bogor,Email,2025-07-04,Other
+C01188,Jakarta,Referral,2026-08-01,Unknown
+C01189,Bandung,Organic,2025-10-18,Other
+C01190,Depok,Organic,2026-04-28,M
+C01191,Yogyakarta,TikTok Ads,2025-05-27,M
+C01192,Semarang,Organic,2026-06-08,Unknown
+C01193,Depok,Google Ads,2025-12-17,F
+C01194,Bekasi,Instagram Ads,2025-08-24,F
+C01195,Medan,Google Ads,2025-01-17,Other
+C01196,Surabaya,Google Ads,2026-03-06,M
+C01197,Yogyakarta,Google Ads,2026-05-03,Other
+C01198,Bandung,Organic,2026-05-31,Unknown
+C01199,Yogyakarta,Google Ads,2025-05-14,F
+C01200,Bogor,Instagram Ads,2026-03-18,F
